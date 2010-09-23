@@ -1,8 +1,8 @@
-ＨＰ／ＰＰ
+ＰＳ／ＰＰ
 Restaurar
 Estado
 Curación
-ＨＰ／ＰＰ
+ＰＳ／ＰＰ
 Restaurar
 Objetos de Batalla
 Poké Balls
@@ -20,7 +20,7 @@ Poké Balls
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Siguiente
-ＨＰ／ＰＰ
+ＰＳ／ＰＰ
 Restaurar
 Estado
 Curación
