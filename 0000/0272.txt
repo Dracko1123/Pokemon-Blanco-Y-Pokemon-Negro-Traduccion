@@ -1,51 +1,51 @@
-『Search Mode』
-Please include the same conditions.
-『Search Results』
-Number of Misses:　\xf000Ȃ\x0001\x0000
-Please Enter your Rank
-Please Enter your Nickname
-Choose a Type
-Choose a Form
-Choose a Color
-Pokémon found!
-No Pokémon found...
-Searching...
-Rank
-Name
-Type
+『Modo de Búsqueda』
+Por favor incluye las mismas condiciones.
+『Resultados de la busqueda』
+Numero de entradas:　\xf000Ȃ\x0001\x0000
+Por favor pon tu Rango
+Por favor pon tu Nombre
+Elige un Tipo
+Elige una Forma
+Elige un Color
+¡Pokémon encontrado!
+Pokémon no encontrado...
+Buscando...
+Rango
+Nombre
+Tipo
 Color
-Form
-Isshu Dex：Search Mode
-National Dex：Search Mode
-Clear
-Start
-Quit
+Forma
+Isshu Dex：Modo busqueda
+National Dex：Modo busqueda
+Borrar
+Empezar
+Quitar
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-Choose
-Quit
-Numerical Order
-Alphabetical Order
-Heaviest (Weight)
-Lightest (Weight)
-Highest to Smallest
-Smallest to Highest
-Type
-Rock
-Psychic
-Fighting
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
+Elegir
+Quitar
+Orden numerico
+Orden alfabetico
+Pesado (Peso)
+Ligero (Peso)
+De Pesado a Ligero
+De Pequeño a Grande
+Tipo
+Roca
+Psiquico
+Lucha
+Planta
+Hielo
+Fantasma
+Tierra
+Electrico
+Veneno
 Dragon
 Normal
-Steel
-Flying
-Fire
-Water
-Bug
+Acero
+Volador
+Fuego
+Agua
+Bicho
 ――――
 ／
 ――――
