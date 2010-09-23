@@ -1,12 +1,12 @@
-でんどういり　おめでとう！
+¡Felicidades por entrar en el Hall de la Fama！
 \xf000Ă\x0001\x0000
-Ｌｖ．
+Ｎｖ．
 \xf000Ȃ\x0001\x0000
-ポケモンリーグ　チャンピオン　おめでとう！
+¡Felicidades por convertirte en el Campeón de la Liga！
 \xf000Ā\x0001\x0000
 ＩＤＮｏ．\xf000Ȅ\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 Ｎｏ　\xf000Ȃ\x0001\x0000　Ｆｏｒｍ　\xf000Ȃ\x0001\x0001
 ♂
 ♀
-ＮＥＸＴ　\xf000Ȃ\x0001\x0000
+SIGUIENTE　\xf000Ȃ\x0001\x0000
