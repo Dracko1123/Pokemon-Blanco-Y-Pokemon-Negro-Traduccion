@@ -3,10 +3,10 @@ Velocidad de texto
 Escenario de batalla
 Estilo de Batalla
 Sonido
-Modo de boton
+Modo de botón
 Marco
 IR Report
-Conrfirmar
+Confirmar
 Salir
 Lento	
 Medio
@@ -15,7 +15,7 @@ On
 Off
 Shift
 Set
-Stereo
+Estereo
 Mono
 Normal
 Kanji
