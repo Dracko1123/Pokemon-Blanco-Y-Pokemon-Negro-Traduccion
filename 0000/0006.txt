@@ -1,22 +1,22 @@
-Use
-Trash
-Register
-Give
-View Tagg
-Confirm
-Walk
-Back
-Close
-Show
-Dummy
-Cancel
-In bag
-Mail
-Take
-Give
-Check
-Nothing
-Deselect
+Usar
+Tirar
+Grabar
+Dar
+Mirar etiqueta
+Confirmar
+Bajar
+Volver
+Quitar
+Mostrar
+Maniquí
+Cancelar
+Inventario
+Correo
+Tomar
+Dar
+Mirar
+Nada
+Liberar
 ？？？
 ？？？？？
 ／
@@ -26,115 +26,115 @@ Deselect
 ―――
 ♂
 ♀
-Ｌｖ．
+Ｎｖ．
 Ｎｏ
 ＋
 →
 ＩＤＮｏ
 　
 Cursor
-Go back!
-What next?
-Give
+¡Vuelve!
+¿Que hay de nuevo?
+Dar
 \xf000Ȃ\x0001\x0000
 ×
-Drink
+Beber
 \xf000ȃ\x0001\x0000
-Close
-What about \xf000ĉ\x0001\x0000?
-You cannot write\xfffemail here！
-There's no Pokemon!
-Move \xf000ĉ\x0001\x0000.
-You can't give them\xfffe\xf000ĉ\x0001\x0000!
-You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
-Store how many\xfffe\xf000ĉ\x0001\x0000?
-You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
-You can't store any more!
-This is an important item\xfffeso you can't throw it away！
+Cerrar
+¿Que te parece \xf000ĉ\x0001\x0000?
+¡No puedes escribir un \xfffemail aquí！
+¡No hay ningún Pokémon!
+Mover \xf000ĉ\x0001\x0000.
+¡No puedes darles\xfffe\xf000ĉ\x0001\x0000!
+¡No puedes darles\xfffe\xf000ĉ\x0001\x0000 aquí!
+¿Guardar cuantos\xfffe\xf000ĉ\x0001\x0000?
+Tienes guardado\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+¡No puedes guardar más!
+¡Esto es un objeto importante \xfffeno puedes tirarlo！
 <<<<<<< HEAD
-Throw away how many \xf000ĉ\x0001\x0000?
-You threw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
-Throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
-You can't get off here!
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
-Your coins:　\xf000Ȅ\x0001\x0000
-Booted up a TM!
-Booted up an HM!
-It contained\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000Teach \xf000ć\x0001\x0000xfffeto a Pokemon?
-\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!
-The effects of the last spray\xfffearen't finished yet!
-\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Decreased Pokemon encounters!
-\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Increased Pokemon encounters!
-The box is full!
-Powders:　\xf000ȃ\x0001\x0000
+¿Tirar cuantos \xf000ĉ\x0001\x0000?
+Has tirado \xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+¿Tirar\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000 ¡No es el momento \xfffepara usar eso!
+¡No puedes huir de aquí!
+Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000¡No es el momento \xfffepara usar eso!
+Tu dinero:　\xf000Ȅ\x0001\x0000
+¡Has abierto una MT!
+¡Has abierto una MO!
+Contiene\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000 ¿Enseñar \xf000ć\x0001\x000\xfffea algún Pokémon?
+\xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!
+¡Los efectos del último espray \xfffeaún no han terminado!
+\xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000han disminuido los encuentros Pokémon
+\xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Han aumentado los encuentros Pokémon
+¡La caja está llena!
+Polvos:　\xf000ȃ\x0001\x0000
 =======
-Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
-Threw away \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s).
-Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s)?
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
-You can't dismount your bike here.
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
-Your Coins:　\xf000Ȅ\x0001\x0000
-Booted up an TM.
-Booted up an HM.
-It contained　\xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-Since a Repel’s effects still linger,\xfffeyou can’t use this now.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled.
-The box is full!
-Powders:　\xf000ȃ\x0001\x0000
+¿Tirar cuantos \xf000ĉ\x0001\x0000?
+Has tirado \xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+¿Tirar\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000 ¡No es el momento \xfffepara usar eso!
+¡No puedes huir de aquí!
+Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000¡No es el momento \xfffepara usar eso!
+Tu dinero:　\xf000Ȅ\x0001\x0000
+¡Has abierto una MT!
+¡Has abierto una MO!
+Contiene\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000 ¿Enseñar \xf000ć\x0001\x000\xfffea algún Pokémon?
+\xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!
+Los efectos del último repelente aún no han terminado,\xfffeno puedes usar esto ahora.
+\xf000Ā\x0001\x0000 usó \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Los Pokémon salvajes serán Atraídos.
+\xf000Ā\x0001\x0000 usó \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Los Pokémon salvajes serán Repelidos.
+¡La caja está llena!
+Polvos:　\xf000ȃ\x0001\x0000
 >>>>>>> rykin/master
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-Berry Powder
-Played the Poke Flute!\xfffeWow! That sounds great!
-Played the Poke Flute!
+Polvos de Baya
+¡Tocó la Poké Flauta!\xfffeWow! Suena Genial!
+¡Tocó la Poké Flauta!
 <<<<<<< HEAD
-The Pokemon heard the\xfffeflute and woke up.
-Move
-You cannot buy\xfffe\xf000ĉ\x0001\x0000.
-Sell how many\xfffe\xf000ĉ\x0001\x0000?
-I can pay \xf000Ȇ\x0001\x0000円.\xfffeWould that be okay?
-Turned over the \xf000ĉ\x0001\x0000\xfffeand received \xf000Ȇ\x0001\x0001円.
+El Pokémon escuchó la\xfffeflauta y se despertó.
+Mover
+No puedes comprar\xfffe\xf000ĉ\x0001\x0000.
+¿Vender cuantas\xfffe\xf000ĉ\x0001\x0000?
+Te puedo pagar \xf000Ȇ\x0001\x0000円.\xfffe¿Aceptas?
+Devolvió \xf000ĉ\x0001\x0000\xfffey recibió \xf000Ȇ\x0001\x0001円.
 Allowance
 \xf000Ȇ\x0001\x0000円
 ×\xf000ȁ\x0001\x0000
 ＋\xf000Ȇ\x0001\x0000円
 =======
-The Pokemon heard the\xfffeflute and woke up
-Move
-\xf000ĉ\x0001\x0000? Oh, no.\xfffeI can't buy that.
-\xf000ĉ\x0001\x0000?\xfffeHow many will you sell?
-I can pay　¥\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
-Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved ¥\xf000Ȇ\x0001\x0001.
-Money
+El Pokémon escuchó la\xfffeflauta y se despertó.
+Mover
+\xf000ĉ\x0001\x0000? Oh, lo siento.\xfffeNo puedo comprarte eso.
+\xf000ĉ\x0001\x0000?\xfffe¿Cuantas deseas vender?
+Puedo Pagarte　¥\xf000Ȇ\x0001\x0000.\xfffe¿Te parece bien?
+Devolvió \xf000ĉ\x0001\x0000\xfffey ha recibido ¥\xf000Ȇ\x0001\x0001.
+Dinero
 ¥\xf000Ȇ\x0001\x0000
 x\xf000ȁ\x0001\x0000
 +¥\xf000Ȇ\x0001\x0000
 >>>>>>> rykin/master
-Yes
+Sí
 No
-Sell
+Vender
 ×\xf000Ȃ\x0001\x0000
-Withdraw
+Retirar
 PP
-Power
-Accuracy
+Potencia
+Precisión
 <<<<<<< HEAD
-Class
+Clase
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-Stickers: \xf000ȃ\x0001\x0000
-Accessories: \xf000Ȃ\x0001\x0000\xfffeWallpapers: \xf000ȁ\x0001\x0001
-Close bag
-Bury
-Open
-Battle Points: \xfffe\xf000ȃ\x0001\x0000BP
-Type
-You can assign items\xfffeto a "Key Item" button.
-You can only assign 2 items\xfffeto your "Key Item" button!
-GB Player turned on！
-GB Player turned off!
+Pegatinas: \xf000ȃ\x0001\x0000
+Accesorios: \xf000Ȃ\x0001\x0000\xfffeWallpapers: \xf000ȁ\x0001\x0001
+Cerrar mochila
+Ocultar
+Abrir
+Puntos de Batalla: \xfffe\xf000ȃ\x0001\x0000BP
+Introducir
+Puedes asignar objetos\xfffeen el botón Objeto Clave.
+Solo puedes asignar dos objetos\xfffeen el botón Objeto Clave.
+¡Se ha encendido el GB Player！
+¡Se ha apagado el GB Player!
