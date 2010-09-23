@@ -1,106 +1,106 @@
-None
+Ninguno
 ON
 OFF
-Pink Barrette
-Blue Barrette
-Red Barrette
-Blue Flower
-Red Scarf
-Red Flower
-Big Barrette
+Broche Rosa
+Broche Azul
+Broche Rojo
+Flor azul
+Bufanda roja
+Flor roja
+Broche grande
 Katyusha
-Square Glasses
-Striped Barrette
-Small Barrette
-Decorative Ribbon
-Tote Bag
-Necklace
-Guady Flower
-Round Button
-Green Barrette
-Straw Hat
-Ice Crystal
-Single Flower
-Paintbrush
-Beret
-Eggbeater
-Egg
-Cake Prop
-Chef's Hat
-Frying Pan
-Apron
-Red Parasol
-Wind Mask
-Hammer
-Colorful Parasol
-Wrench
-Latern
-Screw
-Helmet
-Dress Apron
-Dress Tie
-Red Dress
-Red Mantle
-Toy Katana
-Toy Sword
-Pirate Hat
-Cowboy Hat
-Sturdy Shield
-Black Wings
-Witch's Hat
-White Wings
-Brown Buckle
-Spiked Helmet
-Thin Spear
-Magical Staff
-Red Nose
-Colorful Hat
-Spiral Glasses
-Crown
-Black Necktie
-Black Mantle
-Gorgeous Glasses
-Silk Hat
-White Mask
-White Mantle
-Gentlemanly Glasses
-Steak
-Slanted Necktie
-Small Watch
-Bowtie
+Gafas cuadradas
+Broche a rayas
+Broche pequeño
+Broche decorativo
+Bolso
+Collar
+Flor Guady
+Boton redondo
+Broche verde
+Sombredo de paja
+Cristal de hielo
+Flor sola
+Pincel
+Boina
+Batidor de huevos
+Huevo
+Pastel de propiedad
+Sombrero de chef
+Sarten
+Delantal
+Sombrilla roja
+Mascara de viento
+Martillo
+Sombrilla colorida
+Llave inglesa
+Linterna
+Tornillo
+Casco
+Vestido delantal
+Vestido de corbata
+Vestido rojo
+Manto rojo
+Katana de juguete
+Espada de juguete
+Sombrero pirata
+Sombrero cowboy
+Escudo resistente
+Alas negras
+Sombrero de bruja
+Alas blancas
+Hebilla marron
+Casco con clavos
+Lanza delgada
+Baston magico
+Nariz roja
+Sombrero colorido
+Gafas en espiral
+Corona
+Corbata negra
+Mantel negro
+Gafas magnificas
+Sombrero de seda
+Mascara blanca
+Mantel blanco
+Gafas caballerosas
+Filete
+Corbata inclinada
+Reloj pequeño
+Corbatin
 Tiara
-Rose
-Monocle
-Striped Necktie
+Rosa
+Monoculo
+Corbata de rayas
 Afro
-Microphone Stad
-Tambourine
-Small Hat
-Handheld Microphone
+Microfono
+Pandereta
+Sombrero pequeño
+Microfono de mano
 Maracas
-Trumpet
-Grass Crown
-White Pom-pon
-Flag
-Ball
-Champion's Belt
-Racket
-Electric Guitar
-Toy Fishing Rod
-Smiling Mask
-Belly Button
-Professor's Hat
-Leaf Skirt
-Thick Book
-Bouquet
-Replica Bone
-Round Mushroom
+Trompeta
+Corona de hierba
+Pom-pon blanco
+Bandera
+Pelota
+Cinturon de campeon
+Raqueta
+Guitarra electrica
+Caña de juguete
+Mascara sonriente
+Ombligo
+Sombrero de profesor
+Falda de hojas
+Libro grueso
+Ramo
+Replica de hueso
+Set de setas
 Shuriken
-Red Hat
-Big Bag
-Candy
-Flowing Beard
-Present Box
+Rombrero rojo
+Bolsa grande
+Caramelo
+Barba larga
+Caja regalo
 
 
 
