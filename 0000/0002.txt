@@ -36,7 +36,7 @@ Nｖ．
 Hasta el siguiente nivel
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
-ＨＰ
+ＰＳ
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
