@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
-メールを　もたせるのを\xfffeやめますか？
-はい
-いいえ
+Confirmar
+Quitar
+Por favor introduce una frase o palabra.
+Dejar de dar el Correo al\xfffePokémon?
+Sí
+No
