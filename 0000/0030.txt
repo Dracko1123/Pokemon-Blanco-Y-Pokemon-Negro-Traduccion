@@ -1,16 +1,16 @@
-Options
-Text Speed
-Battle Scene
-Battle Style
-Sound
-Button Mode
-Frame
+Opciones
+Velocidad de texto
+Escenario de batalla
+Estilo de Batalla
+Sonido
+Modo de boton
+Marco
 IR Report
-Confirm
-Quit
-Slow
-Mid
-Fast
+Conrfirmar
+Salir
+Lento	
+Medio
+Rapido
 On
 Off
 Shift
@@ -19,7 +19,7 @@ Stereo
 Mono
 Normal
 Kanji
-Write
+Escribir
 Off
 かく
 かかない
@@ -32,6 +32,6 @@ Off
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
 えらんだ　せっていに　かえますか？
-Yes
+Sí
 No
 ダミーメッセージ
