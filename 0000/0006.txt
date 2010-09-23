@@ -10,13 +10,13 @@ Quitar
 Mostrar
 Maniquí
 Cancelar
-Inventario
+Mochila
 Correo
-Tomar
+Quitar
 Dar
 Mirar
 Nada
-Liberar
+Deseleccionar
 ？？？
 ？？？？？
 ／
@@ -51,7 +51,6 @@ Mover \xf000ĉ\x0001\x0000.
 Tienes guardado\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 ¡No puedes guardar más!
 ¡Esto es un objeto importante \xfffeno puedes tirarlo！
-<<<<<<< HEAD
 ¿Tirar cuantos \xf000ĉ\x0001\x0000?
 Has tirado \xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
 ¿Tirar\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
@@ -68,31 +67,12 @@ Contiene\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000 ¿Enseñar \xf000ć\x0001\x00
 \xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Han aumentado los encuentros Pokémon
 ¡La caja está llena!
 Polvos:　\xf000ȃ\x0001\x0000
-=======
-¿Tirar cuantos \xf000ĉ\x0001\x0000?
-Has tirado \xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
-¿Tirar\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
-Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000 ¡No es el momento \xfffepara usar eso!
-¡No puedes huir de aquí!
-Como la Profesora Araragi dijo... ¡\xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000¡No es el momento \xfffepara usar eso!
-Tu dinero:　\xf000Ȅ\x0001\x0000
-¡Has abierto una MT!
-¡Has abierto una MO!
-Contiene\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000 ¿Enseñar \xf000ć\x0001\x000\xfffea algún Pokémon?
-\xf000Ā\x0001\x0000 usó\xfffe\xf000ĉ\x0001\x0001!
-Los efectos del último repelente aún no han terminado,\xfffeno puedes usar esto ahora.
-\xf000Ā\x0001\x0000 usó \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Los Pokémon salvajes serán Atraídos.
-\xf000Ā\x0001\x0000 usó \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Los Pokémon salvajes serán Repelidos.
-¡La caja está llena!
-Polvos:　\xf000ȃ\x0001\x0000
->>>>>>> rykin/master
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Polvos de Baya
 ¡Tocó la Poké Flauta!\xfffeWow! Suena Genial!
 ¡Tocó la Poké Flauta!
-<<<<<<< HEAD
 El Pokémon escuchó la\xfffeflauta y se despertó.
 Mover
 No puedes comprar\xfffe\xf000ĉ\x0001\x0000.
@@ -103,18 +83,6 @@ Allowance
 \xf000Ȇ\x0001\x0000円
 ×\xf000ȁ\x0001\x0000
 ＋\xf000Ȇ\x0001\x0000円
-=======
-El Pokémon escuchó la\xfffeflauta y se despertó.
-Mover
-\xf000ĉ\x0001\x0000? Oh, lo siento.\xfffeNo puedo comprarte eso.
-\xf000ĉ\x0001\x0000?\xfffe¿Cuantas deseas vender?
-Puedo Pagarte　¥\xf000Ȇ\x0001\x0000.\xfffe¿Te parece bien?
-Devolvió \xf000ĉ\x0001\x0000\xfffey ha recibido ¥\xf000Ȇ\x0001\x0001.
-Dinero
-¥\xf000Ȇ\x0001\x0000
-x\xf000ȁ\x0001\x0000
-+¥\xf000Ȇ\x0001\x0000
->>>>>>> rykin/master
 Sí
 No
 Vender
@@ -123,7 +91,6 @@ Retirar
 PP
 Potencia
 Precisión
-<<<<<<< HEAD
 Clase
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
@@ -132,9 +99,42 @@ Accesorios: \xf000Ȃ\x0001\x0000\xfffeWallpapers: \xf000ȁ\x0001\x0001
 Cerrar mochila
 Ocultar
 Abrir
-Puntos de Batalla: \xfffe\xf000ȃ\x0001\x0000BP
+Puntos de Batalla: \xfffe\xf000ȃ\x0001\x0000PB
 Introducir
 Puedes asignar objetos\xfffeen el botón Objeto Clave.
 Solo puedes asignar dos objetos\xfffeen el botón Objeto Clave.
 ¡Se ha encendido el GB Player！
 ¡Se ha apagado el GB Player!
+No puedes usar \xf000ĉ\x0001\x0000.
+¡Se guardó en la bolsa del tesoro!
+Se quitó \xf000ĉ\x0001\x0000!
+Guardar \xf000ĉ\x0001\x0000\xfffe en \xf000ĉ\x0001\x0001.
+¡Lo has tirado todo!
+No hay nada dentro...
+De todos modos, no podrías\xfffellevarlo a cabo...
+¡Nivel de batería bajo!\xfffePor favor espera \xf000븀\x0000\xf000ȁ\x0001\x0000 pasos hasta que\xfffeesté cargado!
+El pasto\xfffeestá muy callado...
+Poffins:
+\xf000Ȃ\x0001\x0000／100
+¡Por favor selecciona unos polvos\xfffepara cocinar con ellos!
+¡No puedes usar ese\xfffemientras caminas!
+¡No es momento para eso!
+Bolsillo de los objetos,\xfffelos objetos que te ayudarán en\xfffetu aventura van aquí.
+Bolsillo de Medicinas\xfffeLos objetos que restauran\xfffeHP o PP van aquí.
+Bolsillo de Pokéballs\xfffeLos distintos tipos de\xfffePoké Balls van aquí.
+Bolsillo de MT Y MO\xfffeLas varias MTs y MOs\xfffevan aquí.
+Bolsillo de Bayas\xfffeClasifica y almacena toneladas\xfffede polvos aquí.
+Bolsillo de Correo\xfffeClasifica algunas\xfffecartas aquí.
+Bolsillo de objetos de batalla\xfffeObjetos que serán útiles\xfffeen la batalla van aquí.
+Bolsillo objetos Clave\xfffeLos objetos que son esenciales\xfffepara tu aventura van aquí.
+Parar
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+Sí
+No
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+No tienes esto.
+Has usado Piedra Noche\xfffepero no ha pasado nada...
+Has usado Piedra Alba\xfffepero no ha pasado nada...
+Tus objetos han sido\xfffeorganizados!
+\xf000Ē\x0001\x0000
