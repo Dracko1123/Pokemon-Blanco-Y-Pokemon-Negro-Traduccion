@@ -1,32 +1,32 @@
-Battle Videos
-Frontier Record
-Random Match Stats
-Cancel
-Exit
-My Video
-Other Videos
-Delete Videos
-\xf000봂\x0000\xf000Ā\x0001\x0000's Video
-Empty
+Videos Batalla
+Registro del Frente
+Estats. de batalla aleat.
+Cancelar
+Salir
+Mi Video
+Otros Videos
+Borrar Videos
+Video de \xf000봂\x0000\xf000Ā\x0001\x0000
+Vacío
 \xf000ȃ\x0001\x0000
-Battle
-\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002 ★
-\xf000봂\x0000\xf000Ā\x0001\x0000's Profile
+Batalla
+\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
+\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
+Perfil de \xf000봂\x0000\xf000Ā\x0001\x0000
 Mute
-\xf000봂\x0000Birth month: \xf000ȁ\x0001\x0000
-\xf000봂\x0000Location
-\xf000봂\x0000Trainer's quote
-Data
-Profile
+\xf000봂\x0000Mes de Nacimiento\xf000ȁ\x0001\x0000
+\xf000봂\x0000Lugar
+\xf000봂\x0000Ratio del Entrenador
+Datos
+Perfil
  
-Unregistered
+Sin Registrar
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000's Video
-My video
-Other videos
+Video de \xf000Ā\x0001\x0000
+Mi video
+Otros videos
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
 ランキングでさがす
@@ -36,24 +36,24 @@ Other videos
 ナンバーでさがす
 しせつでさがす
 ポケモンでさがす
-Search by Facility
-Search by Pokémon
-Search by Location
-Send Photo
-View Photo
-Send
+Buscar por Dificultad
+Buscar por Pokémon
+Buscar por Lugar
+Enviar Foto
+Ver Foto
+Enviar
 みたいポケモンを　えらんでください
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
-Send Box Data
-View Box Data
-Favorite
-Cool
-Cute
-Suggested
-Fun
-Select
+Enviar Datos de la Caja
+Ver Datos de laCaja
+Favoritos
+Sereno
+Lindo
+Sugerido
+Divertido
+Seleccionar
 ボックス
 くわしくみる
 ア
@@ -66,78 +66,78 @@ Select
 ヤ
 ラ
 ワ
-This Week’s Rankings
-Last Week’s Rankings
-Switch Rankings
-Switch Teams
-Team: Trainer type
-Team: Birth month
-Team: Favorite Pokémon
+Ranking de esta Semana
+Ranking de la Semana Pasada
+Cambiar Rankings
+Cambiar Equipos
+Equipo: Tipo de Entrenador
+Equipo: Mes de Nacimiento
+Equipo: Pokémon Favorito
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
 \xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
 \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001がつ
 \xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
-Last Week’s Results!
-Colosseum
-Battle Frontier
-Save
-View Battle\xfffeVideo
+¡Resultados de la Semana Pasada!
+Coliseo
+Frente Batalla
+Guardar
+Ver Video\xfffeBatalla
 バトルビデオ
 バトルビデオ\xfffeさいしん３０けん
-Top-Ranked Battle Videos\xfffeColosseum
+Top-Ranked Battle Videos\xfffeColiseo
 Top-Ranked Battle Videos\xfffeBattle Frontier
 けんさくした　バトルビデオ\xfffeいちらん
 
-Where would you like to save\xfffe\xf000Ā\x0001\x0000’s Battle Video?
+¿Donde quieres guardar\xfffe El vídeo Batalla de \xf000Ā\x0001\x0000?
 うわがきほぞん
-Is it OK to delete \xf000Ā\x0001\x0000’s Battle\xfffeVideo?
-View Battle Videos
-Send Battle Video
-Newest 30
-Search
-Search by Video NO.
-Search by Facility
-Search by Pokémon
-Search Your Location
-Okay!
-Please enter the Video Number.
-Please choose the facility.
-Please choose the Pokémon.
-Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
-There is no matching Battle Video...
-Sending the Battle Video...
+¿Deseas borrar el vídeo Batalla de \xf000Ā\x0001\x0000\xfffe?
+Ver Videos Batalla
+Enviar Video Batalla
+Los Últimos 30
+Buscar
+Buscar por Número de Vídeo.
+Buscar por Dificultad
+Buscar por Pokémon
+Buscar por tu Lugar
+¡Vale!
+Por favor introduzca tu Número de Vídeo.
+Por favor seleccione dificultad.
+Por favor seleccione Pokémon.
+Por favor introduce el criterio de búsqueda.
+No has elegido ningún criterio de búsqueda.
+Cargando Video Batalla...
+No hay Videos Batalla que coincidan...
+Enviando el Video Batalla...
 バトルビデオを　おくりました！
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
-Newest 30 Battle Videos
-Please set the search criteria.
-Undefined
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
-The same Battle Video can’t be sent again.\xfffeTouch the Touch Screen to continue.
-You have not registered your location.
-There is no Battle Video to send.
+\xf000봂\x0000Ver Perfil
+\xf000봂\x0000Cerrar Perfil
+Últimos 30 Videos Batalla
+Por favor introduce el criterio de búsqueda.
+Indefinido
+LISTA DE VIDEOS BATALLA DE\xfffeLOS RESULTADO DE BÚSQUEDA
+No puedes enviar el mismo Video Batalla.\xfffeToca la pantalla para continuar.
+No has registrado tu lugar.
+No has enviado el video batalla.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
-Battle Points:
+Puntos Batalla:
 すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000Single Battle
-\xf000봂\x0000Double Battle
-\xf000봂\x0000Multi Battle
-\xf000봂\x0000Wi-Fi Battle
+\xf000봂\x0000Batalla Simple
+\xf000봂\x0000Batalla Doble
+\xf000봂\x0000Batalla Múltiple
+\xf000봂\x0000Batalla Wi-Fi
 \xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
+\xf000봂\x0000スーパーSimpleトレイン
 \xf000봂\x0000スーパーダブルトレイン
 \xf000봂\x0000スーパーマルチトレイン
 みたい　せいせきを　えらんでください
-Wins:
-Total:
+Victorias：
+Total：
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000 Battles
+\xf000봃\x0001\x0000 Batallas
 トレーナーとマルチ
 ともだちとマルチ
 ランク
@@ -149,7 +149,7 @@ Total:
 \xf000봂\x0000フリーモード　せいせき
 \xf000봃\x0001\x0000Win
 \xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
+\xf000봃\x0001\x0000Simple：
 \xf000봃\x0001\x0000ダブル：
 \xf000봃\x0001\x0000トリプル：
 \xf000봃\x0001\x0000ローテーション：
@@ -159,143 +159,143 @@ Total:
 \xf000봃\x0001\x0000Rating
 \xf000봂\x0000はい
 \xf000봂\x0000いいえ
-Yes
-No
+はい
+いいえ
 Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-Colosseum\xfffeSingle, No Restrictions
-Colosseum\xfffeSingle, Standard Cup
-Colosseum\xfffeSingle, Fancy Cup
-Colosseum\xfffeSingle, Little Cup
-Colosseum\xfffeSingle, Light Cup
-Colosseum\xfffeSingle, Double Cup
-Colosseum\xfffeSingle, Other Cup
-Colosseum\xfffeDouble, No Restrictions
-Colosseum\xfffeDouble, Standard Cup
-Colosseum\xfffeDouble, Fancy Cup
-Colosseum\xfffeDouble, Little Cup
-Colosseum\xfffeDouble, Light Cup
-Colosseum\xfffeDouble, Double Cup
-Colosseum\xfffeDouble, Other Cup
-Colosseum\xfffeMulti
-Battle Tower\xfffeSingle
-Battle Tower\xfffeDouble
-Battle Tower\xfffeMulti
-Battle Factory\xfffeLevel 50 Single
-Battle Factory\xfffeLevel 50 Double
-Battle Factory\xfffeLevel 50 Multi
-Battle Factory\xfffeOpen Level Single
-Battle Factory\xfffeOpen Level Double
-Battle Factory\xfffeOpen Level Multi
-Battle Hall\xfffeSingle
-Battle Hall\xfffeDouble
-Battle Hall\xfffeMulti
-Battle Castle\xfffeSingle
-Battle Castle\xfffeDouble
-Battle Castle\xfffeMulti
-Battle Arcade\xfffeSingle
-Battle Arcade\xfffeDouble
-Battle Arcade\xfffeMulti
-Colosseum\xfffeSingle, No Restrictions
-Colosseum\xfffeSingle, Cup Match
-Colosseum\xfffeDouble, No Restrictions
-Colosseum\xfffeDouble, Cup Match
-
-
-
-
-1: Colosseum\xfffe    Single, No Restrictions
-2: Colosseum\xfffe    Single, Cup Match
-3: Colosseum\xfffe    Double, No Restrictions
-4: Colosseum\xfffe    Double, Cup Match
-5: Colosseum\xfffe    Multi
-6: Battle Tower\xfffe    Single
-7: Battle Tower\xfffe    Double
-8: Battle Tower\xfffe    Multi
-9: Battle Factory\xfffe    Level 50, Single
-10: Battle Factory\xfffe      Level 50, Double
-11: Battle Factory\xfffe      Level 50, Multi
-12: Battle Factory\xfffe      Open Level, Single
-13: Battle Factory\xfffe      Open Level, Double
-14: Battle Factory\xfffe      Open Level, Multi
-15: Battle Hall\xfffe      Single
-16: Battle Hall\xfffe      Double
-17: Battle Hall\xfffe      Multi
-18: Battle Castle\xfffe      Single
-19: Battle Castle\xfffe      Double
-20: Battle Castle\xfffe      Multi
-21: Battle Arcade\xfffe      Single
-22: Battle Arcade\xfffe      Double
-23: Battle Arcade\xfffe      Multi
-\xf000봂\x0000Touch Here!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+Coliseo　Simple\xfffe, Sin Restricciones
+Coliseo　Simple\xfffe, Copa Estandard
+Coliseo　Simple\xfffe, Copa Fancy
+Coliseo\xfffeSimple, Copa Pequeña
+Coliseo\xfffeSimple, Copa Ligera
+Coliseo\xfffeSimple, Copa Doble
+Coliseo\xfffeSimple, Otra Copa
+Coliseo\xfffeDoble, Sin Restricciones
+Coliseo\xfffeDoble, Copa Estandard
+Coliseo\xfffeDoble, Copa Fancy
+Coliseo\xfffeDoble, Copa Pequeña
+Coliseo\xfffeDoble, Copa Ligera
+Coliseo\xfffeDoble, Copa Doble
+Coliseo\xfffeDoble, Otra Copa
+Coliseo\xfffeMúltiple
+Torre Batalla\xfffeSimple
+Torre Batalla\xfffeDoble
+Torre Batalla\xfffeMúltiple
+Fabrica Batalla\xfffeNivel 50 Simple
+Fabrica Batalla\xfffeNivel 50 Doble
+Fabrica Batalla\xfffeNivel 50 Múltiple
+Fabrica Batalla\xfffeAbrir Nivel Simple
+Fabrica Batalla\xfffeAbrir Nivel Doble
+Fabrica Batalla\xfffeAbrir Nivel Múltiple
+Sala Batalla\xfffeSimple
+Sala Batalla\xfffeDoble
+Sala Batalla\xfffeMúltiple
+Castillo Batalla\xfffeSimple
+Castillo Batalla\xfffeDoble
+Castillo Batalla\xfffeMúltiple
+Arcade Batalla\xfffeSimple
+Arcade Batalla\xfffeDoble
+Arcade Batalla\xfffeMúltiple
+Coliseo\xfffeSimple, Sin Restricciones
+Coliseo\xfffeSimple, Copa Partido
+Coliseo\xfffeDoble, Sin Restricciones
+Coliseo\xfffeDoble, Copa Partido
+たいかい　トリプル\xfffeシューターなし
+たいかい　トリプル\xfffeシューターあり
+たいかい　ローテーション\xfffeシューターなし
+たいかい　ローテーション\xfffeシューターあり
+1: Coliseo\xfffe    Simple, No Restrictions
+2: Coliseo\xfffe    Simple, Cup Match
+3: Coliseo\xfffe    Doble, No Restrictions
+4: Coliseo\xfffe    Doble, Cup Match
+5: Coliseo\xfffe    Múltiple
+6: Torre Batalla\xfffe    Simple
+7: Torre Batalla\xfffe    Doble
+8: Torre Batalla\xfffe    Múltiple
+9: Fabrica Batalla\xfffe    Nivel 50, Simple
+10: Fabrica Batalla\xfffe      Nivel 50, Doble
+11: Fabrica Batalla\xfffe      Nivel 50, Múltiple
+12: Fabrica Batalla\xfffe      Nivel Libre, Simple
+13: Fabrica Batalla\xfffe      Nivel Libre, Doble
+14: Fabrica Batalla\xfffe      Nivel Libre, Múltiple
+15: Sala Batalla\xfffe      Simple
+16: Sala Batalla\xfffe      Doble
+17: Sala Batalla\xfffe      Múltiple
+18: Castillo Batalla\xfffe      Simple
+19: Castillo Batalla\xfffe      Doble
+20: Castillo Batalla\xfffe      Múltiple
+21: Arcade Batalla\xfffe      Simple
+22: Arcade Batalla\xfffe      Doble
+23: Arcade Batalla\xfffe      Múltiple
+\xf000봂\x0000¡Toca Aquí!
+¿Desea desconectarte de la\xfffeconexión Wi-Fi de Nintendo?
 　
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeDress-Up Data.
-There appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Estos datos ya se han registrado.\xfffeToca la Pantalla Táctil para continuar.
+Parece que hay un problema con \xfffelos datos de la ropa.
+Parece que hay un problema con \xfffelos datos del perfil.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
+エラーが　はっせいしました
+　
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Parece que hay un problema con\xfffeel Pokémon elegido.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Estos datos ya se han registrado.\xfffeToca la Pantalla Táctil para continuar.
+Parece que hay un problema con\xfffeDatos de la Caja.
+Parece que hay un problema con\xfffetus Datos del Perfil.
+Parece que hay un problema con\xfffeequipo.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with the\xfffechosen Pokémon.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Parece que hay un problema con\xfffeparty.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeBox Data.
-There appears to be a problem with the\xfffeProfile data.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-
-User authentication error.\xfffePlease wait a while before reconnecting.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-
-User authentication error.\xfffePlease wait a while before reconnecting.
-Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with your\xffferanking record.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Failed to receive ranking data.\xfffeToca la Pantalla Táctil para continuar.
+Parece que hay un problema con\xffferanking record.
 here appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeBattle Video.
-There appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with your\xfffePokémon. Data was not sent.
-There appears to be a problem with a\xfffeplayer’s Pokémon. Data was not sent.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Estos datos ya se han registrado.\xfffeToca la Pantalla Táctil para continuar.
+Parece que hay un problema con\xfffeBattle Video.
+Parece que hay un problema con\xfffeProfile data.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
+Parece que hay un problema con\xfffe tus Pokémon. Los Datos no se enviaron.
+Parece que hay un problema con\xfffelos Pokémon de un Jugador. Los Datos no se enviaron.
 
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with the\xfffesearch criteria.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-
-
-User authentication error.\xfffePlease wait a while before reconnecting.
-No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+Parece que hay un problema con\xfffe el criterio de búsqueda.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
 
+Error al autentificar el usuario.\xfffePor favor espera un momento para reconectar.
+No se han encontrado Videos Batalla...\xfffeToca la Pantalla Táctil para continuar.
+Ha ocurrido un error.\xfffeToca la Pantalla Táctil para continuar.
 
 
 
 
-An error occurred.\xfffeError Code 10601
-An error occurred.\xfffeError Code 10602
-An error occurred.\xfffeError Code 10603
-An error occurred.\xfffeError Code 10604
-Unable to connect.\xfffeError Code 10605
-An error occurred.\xfffeError Code 10606
-Unable to connect.\xfffeError Code 10607
-An error occurred.\xfffeError Code 10608
-An error occurred.\xfffeError Code 10609
-There is no response.\xfffeError Code 10610
-There is no response.\xfffeError Code 10611
-There is no response.\xfffeError Code 10612
-Communication was interrupted.\xfffeError Code 10613
-Unable to connect.\xfffeError Code 10614
+
+
+Ha ocurrido un error.\xfffeCodigo de Error 10601
+Ha ocurrido un error.\xfffeCodigo de Error 10602
+Ha ocurrido un error.\xfffeCodigo de Error 10603
+Ha ocurrido un error.\xfffeCodigo de Error 10604
+No ha sido posible conectarse.\xfffeCodigo de Error 10605
+Ha ocurrido un error.\xfffeCodigo de Error 10606
+No ha sido posible conectarse.\xfffeCodigo de Error 10607
+Ha ocurrido un error.\xfffeCodigo de Error 10608
+Ha ocurrido un error.\xfffeCodigo de Error 10609
+No hay respuesta.\xfffeCodigo de Error 10610
+No hay respuesta.\xfffeCodigo de Error 10611
+No hay respuesta.\xfffeCodigo de Error 10612
+La comunicación se ha interrumpido.\xfffeCodigo de Error 10613
+No ha sido posible conectarse.\xfffeCodigo de Error 10614
 　
 　
 　
@@ -303,42 +303,42 @@ Unable to connect.\xfffeError Code 10614
 　
 　
 　
-The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
+Se ha perdido la conexión al servidor.\xfffeToca la Pantalla Táctil para continuar.
 　
 　
-There is nothing saved.\xfffeTouch the Touch Screen to continue.
-Please choose a Box.
-An empty Box’s Data can’t be sent.
-Where would you like to send this?
-Only one Box Data may be sent at a time.
-The same Box Data can’t be sent.
-Which category would you like to see?
-The saved data could not be deleted...
-The same Battle Video can’t be saved again.\xfffeTouch the Touch Screen to continue.
-Saving...\xfffeDon’t turn off the power.
-Receiving ranking data...
-Sending save data...
-Save completed.\xfffeTouch the Touch Screen to continue.
-Do you want to delete \xf000Ā\x0001\x0000's\xfffeBattle Video?
-Is it really OK to delete this data?
-Deleting data...\xfffeSaving... Don’t turn off the power.
-The data was deleted.\xfffeTouch the Touch Screen to continue.
-Sending your Dress-Up Data...
-Receiving Dress-Up Data...
-Sending your Box Data...
-Receiving Box Data...
-You have no saved data to send.\xfffeTake a photo in the Goldenrod Tunnel.
-The same data can’t be sent again.\xfffeTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\xfffeTouch the Touch Screen to continue.
-No matching Box Data was found...\xfffeTouch the Touch Screen to continue.
+No hay nada guardado.\xfffeToca la Pantalla Táctil para continuar.
+Por favor elige una Caja.
+No se puede enviar los Datos de una caja vacía.
+¿Donde quieres enviar esto?
+Solo los Datos de una Caja se pueden enviar por cada vez.
+No se puede enviar los mismos datos de Caja.
+¿Qué Categoría quieres ver?
+Los datos guardados no se pueden borrar...
+No se puede guardar los mismos datos de un Video Batalla otra vez.\xfffeToca la Pantalla Táctil para continuar.
+Guardando...\xfffeNo apagues la consola.
+Recibiendo los datos del Ranking...
+Enviando datos guardados...
+Guardado Completo.\xfffeToca la Pantalla Táctil para continuar.
+¿Deseas eliminar el Vídeo Batalla de \xf000Ā\x0001\x0000\xfffe?
+¿Realmente deseas eliminar los datos?
+Borrando datos...\xfffeGuardando... No apagues la consola.
+Los datos se han borrado.\xfffeToca la Pantalla Táctil para continuar.
+Enviando your Dress-Up Data...
+Recibiendo Dress-Up Data...
+Enviando your Box Data...
+Recibiendo Box Data...
+No tienes datos guardados para enviar.\xfffeSacate una foto.
+The same data can’t be sent again.\xfffeToca la Pantalla Táctil para continuar.
+Recibiendo Videos Batalla...
+No matching data was found...\xfffeToca la Pantalla Táctil para continuar.
+No matching Box Data was found...\xfffeToca la Pantalla Táctil para continuar.
 Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
-The game will be saved before you can view\xfffeBattle Videos.
-Deleting data... Saving a lot of\xfffedata... Don’t turn off the power.
-Saving a lot of data...\xfffeDon’t turn off the power.
-Saving...\xfffeDon’t turn off the power.
-There is no ranking data...\xfffeTouch the Touch Screen to continue.
-Would you like to send your Battle Video?
+El juego se guardará antes de que puedas ver\xfffeVideos Batalla.
+Borrando Datos... Guardando muchos\xfffeDatos... No apagues la consola.
+Guardando muchos Datos...\xfffeNo apagues la consola.
+Guardando...\xfffeNo apagues la consola.
+No hay datos del Ranking...\xfffeToca la Pantalla Táctil para continuar.
+¿Quieres enviar los datos de tu Video Batalla?
 
 　
 　
@@ -347,26 +347,26 @@ Would you like to send your Battle Video?
 　
 　
 　
-Latest 20 in the Favorite PC Box
-Latest 20 in the Cool PC Box
-Latest 20 in the Cute PC Box
-Latest 20 in the Suggested PC Box
-Latest 20 in the Fun PC Box
-Latest 20 in the Select PC Box
-School Kid♂
-Bug Catcher
-Ace Trainer♂
-Roughneck
-Ruin Maniac
-Black Belt
-Rich Boy
-Psychic♂
-Lass
+Últimos 20 en la Favorite PC Box
+Últimos 20 en la Cool PC Box
+Últimos 20 en la Cute PC Box
+Últimos 20 en la Suggested PC Box
+Últimos 20 en la Fun PC Box
+Últimos 20 en la Select PC Box
+Escolar ♂
+Cazabichos
+EntreGuay ♂
+Rufián
+RuiManiaco
+Karateka
+Niño Rico
+Mentalista ♂
+Chica
 Battle Girl
-Beauty
-Ace Trainer♀
-Idol
+Bella
+EntreGuay ♀
+Idolo
 Socialite
-Cowgirl
+Granjera
 Lady
 Goldver
