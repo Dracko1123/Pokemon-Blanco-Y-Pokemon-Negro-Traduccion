@@ -1,21 +1,21 @@
-なまえ
-しごと
-しゅみ
-プレイじかん
+Nombre
+Trabajo
+Hobbies
+Tiempo jugado
 \xf000đ\x0001\x0000
 \xf000đ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-しゅっしん
+\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002xf000ȁ\x0001\x0003
+Lugar de nacimiento
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-おれいをうけた　かいすう\xfffeすれちがった　にんずう
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
-\xf000Ȅ\x0001\x0001にん
-\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-すれちがったじかん　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-すれちがったじかん　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-やせいの　\xf000ā\x0001\x0000と\xfffeせんとうちゅう　です
-とくべつな　ポケモンと\xfffeせんとうちゅう　です
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeたいせんちゅう　です
-ジムリーダーと\xfffeたいせんちゅう　です
-とくべつな　トレーナーと\xfffeたいせんちゅう　です
-\xf000ą\x0001\x0000を\xfffeいどうちゅう　です
+Veces que has sido agradecido\xfffeVeces que has sido pasado por alguien
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf0 00봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
+\xf000Ȅ\x0001\x0001Gente
+\xf000Ȃ\x0001\x0002xf000ȁ\x0001\x0003
+Soy Surechigattaji　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
+Soy Surechigattaji　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
+Estas luchando　\xf000ā\x0001\x0000と\xfffecontra un Pokémon salvaje
+Estas luchando \xfffecontra un Pokémon especial
+\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeact ualmente estan luchando
+Estas luchando \xfffecontra un lider de gimnasio
+Estas luchando \xfffecon un entrenador especial
+\xf000ą\x0001\x0000を\xfffeEstas transferiendo
