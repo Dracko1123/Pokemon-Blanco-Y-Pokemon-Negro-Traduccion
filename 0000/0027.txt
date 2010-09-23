@@ -1,43 +1,43 @@
-Ｘボタン
+Botón Ｘ
 ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
+Botón Ｂ
+Usa el Stylus
+Quita la imagen
+Parar Garabatos
+Cambiar tamaño del pincel
+Herramienta Cuentagotas
+Cambiar a borrador
+Dejar de usar el Stylus
+Sello
+Modo Garabatos
 ＲＥＣ
-らくがき
+Garabato
 ＩＤ\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+Por favor selecciona un amigo
+Llamar amigo
+Unir
+¡Llamando amigo！
+Llamando amigo・
+Llamando amigo・・
+Llamando amigo・・・
+¡Conectando！
+Conectando・
+Conectando・・
+Conectando・・・
+¡Buscando amigo！
+Buscando amigo・
+Buscando amigo・・
+Buscando amigo・・・
+¿Terminar Conexión en vivo？
+¿Si el líder se quita quieres quitarte tú también？
+Sí
+No
+El líder se fue, la conexión ha terminado
+Tu compañero se fue, la conexión ha terminado
+Un miembro se fue
+La llamada ha fallado
+La conexión ha fallado
+ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください [Algo del control parental sobre compartir las fotos..]
+El compañero se ha ido
