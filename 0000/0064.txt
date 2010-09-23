@@ -1,14 +1,15 @@
-ロードちゅう……\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました
-てんそうマシンを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-データの　よみこみに\xfffeしっぱい　しました\xfffeてんそうマシンを　しゅうりょうします
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븀\x0000てんそうマシンを　しゅうりょうします\xf000븁\x0000
-てんそうマシンが　きどうしています！\xfffeポケモンを　さがしていますので\xfffeこのまま　しばらく　おまちください
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-はい
-いいえ
-デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
+Cargando……\xfffePor favor espera
+El cartucho correcto no esta insertado\xfffePor favor apaga la DS e inserta el cartucho apropiado\xfffeantes de utilizar la Maquina de Transferencia
+Por favor reinicia la DS
+Guardando el juego\xfffeNo apagues la DS
+El juego ha sido guardado
+Apagando la Maquina de Transferencia\xfffe Apaga la DS\xfffe (y?) termina
+Error al leer la partida guardada\xfffe Terminado la Maquina de Transferencia
+Error al conectar con la otra DS\xf000븁\x0000
+Error al escribir la partida\xf000븀\x0000てんそうマシンを　しゅうりょうします\xf000븁\x000 0
+Terminando la Maquina de Transferencia\xfffeBuscando Pokémon\xfffePorfavor manten asi la DS y espera un momento
+Error al leer\xfffela partida guardada\xfffeLa partida puede estar corrupta\xfffeo no escrita
+El cartucho correcto no esta insertado\xfffePor favor apaga la DS\xfffee inserta el cartucho apropiado\xfffeantes de reiniciar la Maquina de transferencia
+Si
+No
+Debug ROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
