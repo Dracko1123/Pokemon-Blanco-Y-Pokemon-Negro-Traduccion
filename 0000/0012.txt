@@ -1,112 +1,111 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-Held Item
-Nature
-Ability
+Coger Objeto
+Naturaleza
+Habilidad
 \xf000ċ\x0001\x0000
-Box 1
-Box 2
-Box 3
-Box 4
-Box 5
-Box 6
-Box 7
-Box 8
-Box 9
-Box 10
-Box 11
-Box 12
-Box 13
-Box 14
-Box 15
-Box 16
-Box 17
-Box 18
-Box 19
-Box 20
-Box 21
-Box 22
-Box 23
-Box 24
+Caja 1
+Caja 2
+Caja 3
+Caja 4
+Caja 5
+Caja 7
+Caja 8
+Caja 9
+Caja 10
+Caja 11
+Caja 12
+Caja 13
+Caja 14
+Caja 15
+Caja 16
+Caja 17
+Caja 18
+Caja 19
+Caja 20
+Caja 21
+Caja 22
+Caja 23
+Caja 24
 \xf000ȁ\x0001\x0000
-Jump
-Wallpaper
-Name
-Quit
-Scenery 1
-Scenery 2
-Scenery 3
+Saltar
+Fondo
+Nombre
+Quitar
+Escenarios 1
+Escenarios 2
+Escenarios 3
 Etc.
-Loving 1
-Loving 2
-Woods
-City
-Desert
-Savanna
-Rocky mountain
-Volcano
-Snowy mountain
-Cave
-Beach
-Sea floor
-River
-Sky
-Pokemon center
+Corazones 1
+Corazones 2
+Bosque
+Ciudad
+Desierto
+Sabana
+Montaña Rocosa
+Volcan
+Montaña Nevada
+Cueva
+Playa
+Fondo Marino
+Río
+Cielo
+Centro Pokémon
 Metal
-Check
+Comprobar
 Simple
-Special
+Especial
 Reshiram
 Zekrom
-Monochrome
-Team Plasma
+Monocromo
+Equipo Plasma
 Munna
 Zoroark
-Subway
+Metro
 Musical
-Back
-Forward
-Next
-Party
-Box list
-Battle box
-Switch box
-Organize bag
-View status
-Held item
+Atras
+Adelante
+Siguiente
+Equipo
+Lista Cajas
+Caja Batalla
+Cambiar Caja
+Organizar Mochila
+Ver Estado
+Sujetar Objeto
 Marking
-Free
-Take
-Store
-Quit
-Move
-Move
-Sleep
+Gratis
+Coger
+Guardar
+Quitar
+Mover
+Mover
+Dormir
 OK
-Quit
-Change
-Quit
-Quit
-Change\xfffe Box
-Change\xfffe Wallpaper
-Store\xfffe Pokemon
-To bag
-Hold
-Move
+Quitar
+Cambiar
+Quitar
+Quitar
+Cambiar\xfffe Caja
+Cambiar\xfffe Fondo
+Guardar\xfffe Pokémon
+Bolsa
+Coger
+Mover
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Nature
-Ability
-Held Item
+Naturaleza
+Habilidad
+Coger Objeto
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 None
 ???
-Lv.
+Nv.
 No.
-Moves
-Yes
+Movs
+Sí
 No
