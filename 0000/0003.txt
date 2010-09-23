@@ -1,19 +1,19 @@
-Do you want to save \xfffethis match in your VS Recoder?
-Yes
+¿Quieres guardar esta \xfffebatalla en tu Cámara Lucha?
+Sí
 No
-Data will be lost forever\xfffeare you sure?
-Yes
+Los datos se perderán para siempre\xfffeestás seguro?
+Sí
 No
-You will be overwriting your previous battle video\xfffeis that OK?
-Yes
+Sobreescribirás tu anterior Vídeo de Combate\xfffe¿Estas seguro?
+Sí
 No
-Your video is now saving.\xfffePlease wait!
-Your match has been saved.
-There was an error\xfffeVideo couldn't be saved.
+Tu video se está guardando.\xfffe¡Por favor espere!
+Tu batalla se ha guardado.
+Ha habido un error\xfffeNo se ha podido guardar el video.
 あいてを　まっています\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-You cannot record a match with this opponent.
-You cannot record this match.
+No puedes grabar una batalla con este oponente.
+No puedes grabar esta batalla.
 ＳＥＬＥＣＴ　ＴＩＭＥ
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
