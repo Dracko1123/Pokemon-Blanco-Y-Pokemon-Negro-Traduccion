@@ -1,16 +1,16 @@
-¡Bienvenido \xfffeal Torneo Batalla！
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょうに\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
-デジタルせんしゅしょうを　みる
-せつめいを　きく
-やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x0000\xfffeとうろく　することで　たいかいに\xf000븀\x0000\xfffeさんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+Bienvenido\xfffeal torneo de Batalla!
+バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわ れる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\ xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\x fffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf 000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅ うは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへん こう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x 0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょうに\xf000븀\x0 000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　して みてください\xf000븁\x0000
+Batalla Ｗｉ－Ｆｉ
+Batalla en vivo
+Consulta tu ID digital
+Lee las instrucciones
+Salir
+Participar
+Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモン グローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x 0000\xfffeとうろく　することで　たいかいに\xf000븀\x0000\xfffeさんか　で きます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングロー バルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\ x0000
+¿Quieres particiar en el torneo Ｗｉ－Ｆｉ?
+¿Realmente quieres \xfffeabandonar?
+Sí
+No
+Cancelar participación
+¿Quieres participar\xfffeen el torneo en vivo?
+ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケ ットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できま す\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンス ターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\x f000븁\x0000
