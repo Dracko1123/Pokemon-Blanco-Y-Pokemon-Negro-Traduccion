@@ -1,233 +1,233 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・バーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・ヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょうバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド（マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょうポリネシア
-ガボン
-ガンビア
-グルジア
-ドイツ
-ガーナ
-ジブラルタル
-ギリシャ
-グリーンランド
-グレナダ
-グアドループとう
-グアム
-グアテマラ
-ギニア
-ギニアビサウ
-ガイアナ
-ハイチ
-ホンジュラス
-ハンガリー
-アイスランド
-インド
-インドネシア
-イラン
-イラク
-アイルランド
-マンとう
-イスラエル
-イタリア
-ジャマイカ
-スバールバル・ヤンマンエンとう
-にほん
-ヨルダン
-カシミール
-カザフスタン
-ケニア
-キリバス
-クウェート
-キルギス
-ラオス
-ラトビア
-レバノン
-レソト
-リベリア
-リビア
-リヒテンシュタイン
-リトアニア
-ルクセンブルク
-マケドニアきゅうユーゴスラビア
-マダガスカル
-マラウイ
-マレーシア
-モルディブ
-マリ
-マルタ
-マーシャルしょとう
-マルチニーク
-モーリタニア
-モーリシャス
-マヨット
-メキシコ
-ミクロネシア
-モナコ
-モンゴル
-モンテネグロ
-モロッコ
-モザンビーク
-ミャンマー
-ナミビア
-ナウル
-ネパール
-オランダ
-オランダりょうアンティル
-ニューカレドニア
-ニュージーランド
-ニカラグア
-ニジェール
-ナイジェリア
-ニウエ
-ノーフォークとう
-きたマリアナしょとう
-ノルウェー
-オマーン
-パキスタン
-パラオ
-パレスチナじちく
-パナマ
-パプアニューギニア
-パラグアイ
-ペルー
-フィリピン
-ピトケアン
-ポーランド
-ポルトガル
-プエルトリコ
-カタール
-かんこく
-モルドバ
-レユニオン
-ルーマニア
-ロシア
-ルワンダ
-セントヘレナとう
-セントクリストファー・ネービス
-セントルシア
-セントビンセント・グレナディーン
-サンピエール・ミクロン
-サモア
-サンマリノ
-サントメ・プリンシペ
-サウジアラビア
-セネガル
-セルビア
-セーシェル
-シエラレオネ
-シンガポール
-スロバキア
-スロベニア
-ソロモンしょとう
-ソマリア
-みなみアフリカ
-スペイン
-スリランカ
-スーダン
-スリナム
-スワジランド
-スウェーデン
-スイス
-シリア
-たいわん
-タジキスタン
-タイ
-トーゴ
-トケラウ
-トンガ
-トリニダード・トバゴ
-チュニジア
-トルコ
-トルクメニスタン
-タークス・カイコスしょとう
-ツバル
-ウガンダ
-ウクライナ
-アラブしゅちょうこく
-イギリス
-タンザニア
-アメリカ
-アメリカりょうバージンしょとう
-ウルグアイ
-ウズベキスタン
-バヌアツ
-バチカン
-ベネズエラ
-ベトナム
-ワリス・フテュナしょとう
-にしサハラ
-イエメン
-ザンビア
-ジンバブエ
+No
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+バハマ Bs
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgica
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia y Herzegovina
+Botswana
+Brasil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Camerun
+Canada
+Cabo Verde
+Cayman Shotou
+Chi Chuo Africa
+Chad
+Channel Shotou
+Chile
+Chugoku
+Kurisumasutou
+Columbia
+Comoros
+Republica de Congo
+Cook Shotou
+Costa Rica
+Costa d'Ivoiri
+Croacia
+Cuba
+Chipre
+Republica checa
+Butterfly has not
+Democratic Congo
+East Timor
+Dinamarca
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egipto
+Sv
+What cough Guinea
+Eritrea
+Estonia
+Etiopia
+Falkland (Malvinas) Shotou
+Fellow Shotou
+Fiji Shotou
+Finlandia
+Francia
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Georgia
+Alemania
+Ghana
+Gibraltar
+Grecia
+Greenland
+Grenada
+Guadoruputou
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hungria
+Islandia
+India
+Indonesia
+Iran
+Iraq
+Irlanda
+Mantou
+Israel
+Italia
+Jamaica
+Svalbard Yanmanentou
+Nihongo
+Jordan
+Kashmir
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kirghiz
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxemburgo
+Yugoslavia Republica de Macedonia baseball
+Madagascar
+Malawi
+Malaysia
+Maldivas
+Mari
+Malta
+Marshall Shotou
+Mq
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Marruecos
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Holanda
+Ryo Netherlands Antilles
+New Caledonia
+Nueva Zelanda
+Nicaragua
+Niger
+Nigeria
+Niue
+Thank Norfolk
+Mariana has Shotou
+Noruega
+Oman
+Pakistan
+Palau
+Paresuchinaji cattle
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Speak speak
+Md
+Reunion
+Romania
+Russia
+Rwanda
+Thank St
+Saint Christopher and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saint Pierre and Miquelon
+Samoa
+San Marino
+St
+Arabia Saudi
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Shotou
+Somalia
+Minami Africa
+España
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Suecia
+Suiza
+Syria
+Want dog
+Tajikistan
+Thailandia
+Togo
+Tokelau
+Tonga
+Trinidad y Tobago
+Tunisia
+Turkia
+Turkmenistan
+Turks and Caicos Shotou
+Tuvalu
+Uganda
+Ucraina
+Arab Nations Shuchou
+Reino Unido
+Tanzania
+Estados unidos
+American Virgin Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna Shotou
+Sahara to
+Yemen
+Zambia
+Zimbabwe
