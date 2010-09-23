@@ -1,148 +1,146 @@
-N/A
-Black
-White
-Boy
-Girl
-Battle
-Trade
-City
-Country
-Smart
-Athletic
-Time
-Money
-Looks
-Personality
-Cool
-Cute
-Funny
+S/N
+Negro
+Blanco
+Hombre
+Chica
+Batalla
+Intercambio
+Ciudad
+País
+Inteligente
+Atlético
+Tiempo
+Dinero
+Estilos
+Personalidad
+Fresco
+Lindo
+Extraño
 Pokabu
 Mijumaru
 Shita-ja
-Sea
-River
-Mountain
-Class
-Break
-School lunch
-Family
-Friends
-Self
-Spring
-Summer
-Fall
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Interesting
-Cool
-Nice
-Rich
-Battle
-Collect
-Story
+Estropear
+Río
+Montaña
+Clase
+Romper
+Almuerzos escolares
+Familia
+Amigos
+Sí mismo
+Primavera
+Verano
+Caída
+Invierno
+Dulce
+Picante
+Agrio
+Amargo
+Interesante
+Fresco
+Niza
+Rico
+Lucha
+Recoger
+Hablar
 Pokémon
-First Language
-Math
-Science
-Social Studies
-First Language
-Math
-Science
-Social Studies
-Trainer
-Pokémon Professor
-Team Plasma
+Primera Lengua
+Matemáticas
+Cocina
+Sociedad
+Primera Lengua
+Matemáticas
+Cocina
+Sociedad
+Entrenador
+Experto Pokémon
+Equipo Plasma
 Pokémon
-Play Outside
-Shop
-Read
-Game
-Sleep
-Pop
+Jugar al aire libre
+Tienda
+Leer
+Juego
+Sueño
+Popular
 Rock
 Jazz
 Rap
-Classic
-News
+Clásico
+Noticias
 Drama
-Comedy
-Sports
+Comedia
+Deportes
 Anime
-Action
+Acción
 SF
-Love
+Amor
 Suspense
-Comedy
+Comedia
 Horror
-Baseball
-Soccer
-Basketball
-Football
+Béisbol
+Fútbol
+Baloncesto
+Fútbol
 Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
-Fitness
-Reading
-Music
-Movies
-Travel
-Cooking
-Fishing
-Games
-Student
-Office Worker
-Creator
-Self-employed
-Govt. Official
-Housewife
-Artist
-Job-Hopper
-Podda
-Dento
-Koon
-Aloe
-Arti
-Kamitsure
-Yacon
+Artes Marciales
+Rojo
+Verde
+Azul
+Amarillo
+Blanco
+Negro
+Aptitud
+Lectura
+Música
+Cine
+De viajes
+Cocina
+Pesca
+Juegos
+Estudiante
+Oficina de los trabajadores
+Creador
+Autónomo
+Gbno. Empleado
+Ama de Casa
+Artista
+Empleado
+Vaina
+Abolladura
+Cono
+Áloe
+Arty
+Camicelle
+Ya-kon
 Fuuro
 Hachiku
-Iris
+Eris
 Shaga
 Normal
-Fire
-Water
-Electricity
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
+Fuego
+Agua
+Electrico
+Hierba
+Hielo
+Lucha
+Veneno
+Tierra
+Volador
+Psíquico
+Error
 Rock
-Ghost
-Dragon
-Dark
-Steel
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
+Fantasma
+Dragón
+Oscuro
+Acero
+0 - 10 horas
+10 - 20 horas
+20 - 30 horas
+30 - 40 horas
+40 - 50 horas
+50 - 60 horas
+60 - 70 horas
+70 - 80 horas
 80 - 90 hours
-90 - 100 hours
-100  hours
-
-LOL
+90 - 100 horas
+100 horas
