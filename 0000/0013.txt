@@ -1,55 +1,55 @@
-What will \xf000Ă\x0001\x0000 do?
-Please Mark
-Are you sure?
-\xf000Ă\x0001\x0000 released!
-Bye-bye, \xf000Ă\x0001\x0000!
+¿Que es lo que \xf000Ă\x0001\x0000 hará?
+Por favor selecciona
+¿Estás seguro?
+¡\xf000Ă\x0001\x0000 soltado!
+Adiós, ¡\xf000Ă\x0001\x0000!
 てもちが　いっぱいです！
 たたかうポケモンが　いなくなります！
-What will you do with this box?
-Jump to what \xfffebox?
+¿Que haras con esta caja?
+¿Saltar a la caja \xfffe?
 どのテーマに　しますか？
 どの　かべがみに　しますか？
-Continue box search?
-This box is full!
-Bag is full!
-\xf000ĉ\x0001\x0000 received!
-\xf000ĉ\x0001\x0000を　もたせた！
-Select Pokemon!
-Move to what Box?
-Not holding anything
+¿Continuar la busqueda?
+¡Esta caja está llena!
+¡Equipo completo!
+¡\xf000ĉ\x0001\x0000 recibido!
+¡\xf000ĉ\x0001\x0000を　もたせた！
+¡Escoge Pokémon!
+¿Mover a que caja?
+No lleva nada
 ♂
 ♀
-Receive \xf000ĉ\x0001\x0000?
-Cannot send!
+Recibes \xf000ĉ\x0001\x0000?
+¡Imposible enviar!
 \xf000ĉ\x0001\x0000を　どうしますか？
 \xf000ĉ\x0001\x0000を　しまいますか？
 \xf000ĉ\x0001\x0000を　バッグに　いれた！
 どうぐを　もつことが　できます
-Please remove mail!
-Egg cannot be released!
-\xf000Ă\x0001\x0000 returned!
-Huh, It failed...
-Egg cannot hold items!
-Touch to Mark!
+¡Por favor elimina mail!
+¡El huevo no puede ser soltado!
+¡\xf000Ă\x0001\x0000 devuelto!
+Huh, Falló…
+¡El huevo no puede llevar items!
+¡Toca la pantalla!
 ボックスに　おけます！
-Item can be eaten!
-This box is full!
-Already holding an item!
-Deposit Pokémon
-Withdraw Pokémon
-Move Pokémon
-Move Items
-Battle Box
+¡El objeto no puede ser consumido!
+¡Esta caja está llena!
+¡Lleva un objeto equipado!
+Dejar Pokémon
+Retirar Pokémon
+Mover Pokémon
+Mover Objetos
+Caja de batalla
 ねかすポケモンをえらぶ
-Mail cannot be removed!
+¡El Correo no puede ser eliminado!
 \xf000ĉ\x0001\x0000を　もてない！
-Has Mail!
+Tiene Correo!
 たたかうポケモンが　いなくなります！
-Mail cannot be removed!
+¡El Correo no puede ser eliminado!
 ここでは　メールを　もたせられません
 タマゴは　えらべません！
 \xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
 このポケモンは\xfffeいまは　ねむくないみたいです
 ポケモンせんたくを　つづけますか？
-Battle Box has been locked \xfffe Pokemon cannot be removed
-Battle Box has been locked \xfffe Held item cannot be changed
+La caja de batalla ha sido bloqueada \xfffe Los Pokémon no pueden ser eliminados
+La caja de batalla ha sido bloqueada \xfffe Los objetos para equipar no pueden cambiarse
