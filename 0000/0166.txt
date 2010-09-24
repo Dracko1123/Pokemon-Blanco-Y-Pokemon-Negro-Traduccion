@@ -1,7 +1,7 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-マルチバトル
-シューターバトル
-デバッグバトル
+Batalla Simple
+Batalla Doble
+Batalla Triple
+Batalla Rotatoria
+Multi Batalla
+Batalla Tirador
+Batalla Por Defecto
