@@ -1,4 +1,4 @@
-No
+No Disponible
 Afghanistan
 Albania
 Algeria
@@ -13,7 +13,7 @@ Aruba
 Australia
 Austria
 Azerbaijan
-バハマ Bs
+Las Bahamas
 Bahrain
 Bangladesh
 Barbados
@@ -37,13 +37,13 @@ Camerun
 Canada
 Cabo Verde
 Cayman Shotou
-Chi Chuo Africa
+República Centroafricana
 Chad
 Channel Shotou
 Chile
 Chugoku
 Kurisumasutou
-Columbia
+Colombia
 Comoros
 Republica de Congo
 Cook Shotou
@@ -53,7 +53,7 @@ Croacia
 Cuba
 Chipre
 Republica checa
-Butterfly has not
+Corea del Norte
 Democratic Congo
 East Timor
 Dinamarca
@@ -62,12 +62,12 @@ Dominica
 Dominican Republic
 Ecuador
 Egipto
-Sv
-What cough Guinea
+El Salvador
+Rep. Guinea Ecuatorial
 Eritrea
 Estonia
 Etiopia
-Falkland (Malvinas) Shotou
+Islas Malvinas
 Fellow Shotou
 Fiji Shotou
 Finlandia
@@ -120,7 +120,7 @@ Libya
 Liechtenstein
 Lithuania
 Luxemburgo
-Yugoslavia Republica de Macedonia baseball
+Tribunal Penal Int. ex-Yugoslavia
 Madagascar
 Malawi
 Malaysia
@@ -128,7 +128,7 @@ Maldivas
 Mari
 Malta
 Marshall Shotou
-Mq
+Martinica (Francia)
 Mauritania
 Mauritius
 Mayotte
@@ -168,8 +168,8 @@ Poland
 Portugal
 Puerto Rico
 Qatar
-Speak speak
-Md
+Corea del Sur
+Rep. Moldova
 Reunion
 Romania
 Russia
@@ -181,7 +181,7 @@ Saint Vincent and the Grenadines
 Saint Pierre and Miquelon
 Samoa
 San Marino
-St
+Rep. Santo Tome y Principe
 Arabia Saudi
 Senegal
 Serbia
@@ -201,7 +201,7 @@ Swaziland
 Suecia
 Suiza
 Syria
-Want dog
+Taiwan
 Tajikistan
 Thailandia
 Togo
