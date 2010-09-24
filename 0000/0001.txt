@@ -1,9 +1,9 @@
-ＰＳ／ＰＰ
 Restaurar
+ＰＳ／ＰＰ
+Curación de
 Estado
-Curación
-ＰＳ／ＰＰ
 Restaurar
+ＰＳ／ＰＰ
 Objetos de Batalla
 Poké Balls
 Último Objeto Usado
@@ -20,10 +20,10 @@ Poké Balls
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Siguiente
-ＰＳ／ＰＰ
 Restaurar
+ＰＳ／ＰＰ
+Curación de
 Estado
-Curación
 Poké Balls
 Objetos de Batalla
 ／
@@ -32,8 +32,8 @@ Objetos de Batalla
 Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-¡No tendrá ningún ejemplo!
-¡Estaba envuelto en nuebla blanca!\xfffe
+¡No tendrá ningún efecto!
+¡Está envuelto en una niebla blanca!\xfffe
 ¡\xf000Ă\x0001\x0000 \xfffe Está siendo golpeado!
 ¡Ataque de \xf000Ă\x0001\x0000's\xfffe bajó!
 ¡Ataque Especial de \xf000Ă\x0001\x0000's\xfffe bajó!
@@ -42,7 +42,7 @@ Usar
 ¡Defensa de \xf000Ă\x0001\x0000's\xfffe bajó!
 ¡Precisión de \xf000Ă\x0001\x0000's\xfffe bajó!
 ¡Se usó \xf000ĉ\x0001\x0000を\xfffe!
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
+¡No! ¡Es imposible apuntar\xfffea 2 Pokémon…！
 ¡No hay espacio en el PC!
 \xf000ć\x0001\x0001's　effect prevents the item's use on\xfffe\xf000Ă\x0001\x0000!
 ¡Es imposible capturar a un Pokémon que no está apuntado!
