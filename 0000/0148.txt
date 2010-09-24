@@ -2,25 +2,25 @@
 ＧＴＳ
 ＰＤＷ
 Ｗｉ－Ｆｉ
-ぐるぐる
-ゲームシンク
-コロシアム
-サブウェイ
-ジオネット
-シングルバトル
-せきがいせん
-ダブルバトル
-チャット
-つうしん
-ともだちコード
-トリプルバトル
-ハイリンク
-バトルビデオ
-ボイスチャット
-ポケシフター
-マルチバトル
-ミュージカル
-ユニオン
+Guruguru
+Sync Juego
+Coliseo
+Metro
+Geored
+Batalla Simple
+Infrared
+Batalla Doble
+Chat
+Conexión DS-a-DS
+Código Amigo
+Batalla Triple
+Hi-Link
+Video Batalla
+Chat de Voz
+Poke-shifter
+Multi Batalla
+Pokemon Musical
+Unión
 すれちがいログ
-ローテーション
-ワイヤレス
+Rotación
+Wireless
