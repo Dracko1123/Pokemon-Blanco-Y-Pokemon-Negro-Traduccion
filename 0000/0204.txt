@@ -1,471 +1,469 @@
 -----
-Pound
-Karate Chop
-DoubleSlap
-Comet Punch
-Mega Punch
-Pay Day
-Fire Punch
-Ice Punch
-ThunderPunch
-Scratch
-ViceGrip
-Guillotine
-Razor Wind
-Swords Dance
-Cut
-Gust
-Wing Attack
-Whirlwind
-Fly
-Bind
-Slam
-Vine Whip
-Stomp
-Double Kick
-Mega Kick
-Jump Kick
-Rolling Kick
-Sand-Attack
-Headbutt
-Horn Attack
-Fury Attack
-Horn Drill
-Tackle
-Body Slam
-Wrap
-Take Down
-Thrash
-Double-Edge
-Tail Whip
-Poison Sting
-Twineedle
-Pin Missile
-Leer
-Bite
-Growl
-Roar
-Sing
-Supersonic
-SonicBoom
-Disable
-Acid
-Ember
-Flamethrower
-Mist
-Water Gun
-Hydro Pump
+Destructor
+Golpe Karate
+Doblebofeton
+Puño Cometa
+Megapuño
+Dia de Pago
+Puño Fuego
+Puño Hielo
+Puño Trueno
+Arañazo
+Agarre
+Guillotina
+V. Cortante
+Danza Espada
+Corte
+Tornado
+Ataque Ala
+Remolino
+vuelo
+Atadura
+Portazo
+Latigo Cepa
+Pisoton
+Doble Patada
+Megapatada
+Patada Salto
+Patada Giro
+Ataque Arena
+Golpe Cabeza
+Cornada
+Ataque Furia
+Perforador
+Placaje
+Golpe Cuerpo
+Repetición
+Derribo
+Golpe
+Doble Filo
+Latigo
+Picotazo Ven.
+Dobleataque
+Pin Misil
+Malicioso
+Mordisco
+Gruñido
+Rugido
+Canto
+Supersonico
+Bomba Sonica
+Anulacion
+Acido
+Ascuas
+Lanzallamas
+Neblina
+Pistola Agua
+Hidrobomba
 Surf
-Ice Beam
-Blizzard
-Psybeam
-BubbleBeam
-Aurora Beam
-Hyper Beam
-Peck
-Drill Peck
-Submission
-Low Kick
-Counter
-Seismic Toss
-Strength
-Absorb
-Mega Drain
-Leech Seed
-Growth
-Razor Leaf
-SolarBeam
-PoisonPowder
-Stun Spore
-Sleep Powder
-Petal Dance
-String Shot
-Dragon Rage
-Fire Spin
-ThunderShock
-Thunderbolt
-Thunder Wave
-Thunder
-Rock Throw
-Earthquake
-Fissure
-Dig
-Toxic
+Rayo Hielo
+Ventisca
+Psicorrayo
+Rayo Burbuja
+Rayo Aurora
+Hiperrayo
+Picotazo
+Pico Taladro
+Sumision
+Patada Baja
+Contraataque
+Mov. Sismico
+Fuerza
+Absorber
+Megaagotar
+Drenadoras
+Desarrollo
+Hoja Afilada
+Rayo Solar
+Polvo Veneno
+Paralizador
+Somnifero
+Danza Petalo
+Disp. Demora
+Furia Dragon
+Giro Fuego
+Impactrueno
+Rayo
+Onda Trueno
+Trueno
+Lanzarrocas
+Terremoto
+Fisura
+Excavar
+Toxico
 Confusion
-Psychic
-Hypnosis
-Meditate
-Agility
-Quick Attack
-Rage
-Teleport
-Night Shade
-Mimic
-Screech
-Double Team
-Recover
-Harden
-Minimize
-SmokeScreen
-Confuse Ray
-Withdraw
-Defense Curl
-Barrier
-Light Screen
-Haze
-Reflect
-Focus Energy
-Bide
-Metronome
-Mirror Move
-Selfdestruct
-Egg Bomb
-Lick
-Smog
-Sludge
-Bone Club
-Fire Blast
-Waterfall
-Clamp
-Swift
-Skull Bash
-Spike Cannon
-Constrict
+Psiquico
+Hipnosis
+Meditacion
+Agilidad
+At. Rapido
+Furia
+Teletransp
+Tinieblas
+Mimetico
+Chirrido
+Doble Equipo
+Recuperacion
+Fortaleza
+Reduccion
+Pantallahumo
+Rayo Confuso
+Refugio
+Rizo Defensa
+Barrera
+Pantalla Luz
+Niebla
+Reflejo
+Foco Energía
+Venganza
+Metronomo
+Mov. Espejo
+Autodestruc
+Bomba Huevo
+Lengüetazo
+Polucion
+Residuos
+Hueso Palo
+Llamarada
+Cascada
+Tenaza
+Rapidez
+Cabezazo
+Clavo Cañon
+Restriccion
 Amnesia
-Kinesis
-Softboiled
-Hi Jump Kick
-Glare
-Dream Eater
-Poison Gas
-Barrage
-Leech Life
-Lovely Kiss
-Sky Attack
+Kinetico
+Amortiguador
+Pat. S. Alta
+Deslumbrar
+Comesueños
+Gas Venenoso
+Presa
+Chupavidas
+Beso Amoroso
+Ataque Aereo
 Transform
-Bubble
-Dizzy Punch
-Spore
-Flash
-Psywave
-Splash
-Acid Armor
-Crabhammer
+Burbuja
+Puño Mareo
+Espora
+Destello
+Psicoonda
+Salpicadura
+Armad. Acida
+Martillazo
 Explosion
-Fury Swipes
-Bonemerang
-Rest
-Rock Slide
-Hyper Fang
-Sharpen
+Golpes Furia
+Huesomerang
+Descanso
+Avalancha
+Hip.Colmillo
+Afilar
 Conversion
-Tri Attack
-Super Fang
-Slash
-Substitute
-Struggle
-Sketch
-Triple Kick
-Thief
-Spider Web
-Mind Reader
-Nightmare
-Flame Wheel
-Snore
-Curse
-Flail
+Triataque
+Superdiente
+Cuchillada
+Sustituto
+Combate
+Esquema
+Triplepatada
+Ladron
+Telaraña
+Telepata
+Pesadilla
+Rueda Fuego
+Ronquido
+Maldicion
+Azote
 Conversion 2
-Aeroblast
-Cotton Spore
-Reversal
-Spite
-Powder Snow
-Protect
-Mach Punch
-Scary Face
-Faint Attack
-Sweet Kiss
-Belly Drum
-Sludge Bomb
-Mud-Slap
-Octazooka
-Spikes
-Zap Cannon
-Foresight
-Destiny Bond
-Perish Song
-Icy Wind
-Detect
-Bone Rush
-Lock-On
-Outrage
-Sandstorm
-Giga Drain
-Endure
-Charm
-Rollout
-False Swipe
-Swagger
-Milk Drink
-Spark
-Fury Cutter
-Steel Wing
-Mean Look
-Attract
-Sleep Talk
-Heal Bell
-Return
-Present
-Frustration
-Safeguard
-Pain Split
-Sacred Fire
-Magnitude
-DynamicPunch
-Megahorn
-DragonBreath
-Baton Pass
-Encore
-Pursuit
-Rapid Spin
-Sweet Scent
-Iron Tail
-Metal Claw
-Vital Throw
-Morning Sun
-Synthesis
-Moonlight
-Hidden Power
-Cross Chop
-Twister
-Rain Dance
-Sunny Day
-Crunch
-Mirror Coat
-Psych Up
-ExtremeSpeed
-AncientPower
-Shadow Ball
-Future Sight
-Rock Smash
-Whirlpool
-Beat Up
-Fake Out
-Uproar
-Stockpile
-Spit Up
-Swallow
-Heat Wave
-Hail
-Torment
-Flatter
-Will-O-Wisp
-Memento
-Facade
-Focus Punch
-SmellingSalt
-Follow Me
-Nature Power
-Charge
-Taunt
-Helping Hand
-Trick
-Role Play
-Wish
-Assist
-Ingrain
-Superpower
-Magic Coat
-Recycle
-Revenge
-Brick Break
-Yawn
-Knock Off
-Endeavor
-Eruption
-Skill Swap
-Imprison
-Refresh
-Grudge
-Snatch
-Secret Power
-Dive
-Arm Thrust
-Camouflage
-Tail Glow
-Luster Purge
-Mist Ball
-FeatherDance
-Teeter Dance
-Blaze Kick
-Mud Sport
-Ice Ball
-Needle Arm
-Slack Off
-Hyper Voice
-Poison Fang
-Crush Claw
-Blast Burn
-Hydro Cannon
-Meteor Mash
-Astonish
-Weather Ball
-Aromatherapy
-Fake Tears
-Air Cutter
-Overheat
-Odor Sleuth
-Rock Tomb
-Silver Wind
-Metal Sound
-GrassWhistle
-Tickle
-Cosmic Power
-Water Spout
-Signal Beam
-Shadow Punch
-Extrasensory
-Sky Uppercut
-Sand Tomb
-Sheer Cold
-Muddy Water
-Bullet Seed
-Aerial Ace
-Icicle Spear
-Iron Defense
-Block
-Howl
-Dragon Claw
-Frenzy Plant
-Bulk Up
-Bounce
-Mud Shot
-Poison Tail
-Covet
-Volt Tackle
-Magical Leaf
-Water Sport
-Calm Mind
-Leaf Blade
-Dragon Dance
-Rock Blast
-Shock Wave
-Water Pulse
-Doom Desire
-Psycho Boost
-Roost
-Gravity
-Miracle Eye
-Wake-Up Slap
-Hammer Arm
-Gyro Ball
-Healing Wish
-Brine
-Natural Gift
-Feint
-Pluck
-Tailwind
-Acupressure
-Metal Burst
-U-turn
-Close Combat
-Payback
-Assurance
+Aerochorro
+Esporagodon
+Inversion
+Rencor
+Nieve Polvo
+Proteccion
+Ultrapuño
+Cara Susto
+Finta
+Beso Dulce
+Tambor
+Bomba lodo
+Bofeton Lodo
+Pulpocañon
+Puas
+Electrocañon
+Profecia
+Mismodestino
+Canto Mortal
+Viento Hielo
+Deteccion
+Ataque Oseo
+Fijar Blanco
+Enfado
+Torm. Arena
+Gigadrenar
+Aguante
+Encanto
+Desenrollar
+Falsotortazo
+Contoneo
+Batido
+Chispa
+Cortefuria
+Ala de Acero
+Mal de Ojo
+Atraccion
+Sonambulo
+Campana Cura
+Retroceso
+Presente
+Frustracion
+Velo Sagrado
+Divide Dolor
+Fuegosagrado
+Magnitud
+Puñodinamico
+Megacuerno
+Dragoaliento
+Relevo
+Otra VEz
+Persecucion
+Giro Rapido
+Dulce Aroma
+Cola Ferrea
+Garra Metal
+Tiro Vital
+Sol Matinal
+Luz Lunar
+Poder Oculto
+Tajo Cruzado
+Ciclon
+Danza Lluvia
+Dia Soleado
+Triturar
+Manto Espejo
+Mas Psique
+Vel. Extrema
+Poder Pasado
+Bola sombra
+Premonicion
+Golpe Roca
+Torbellino
+Paliza
+Sorpresa
+Alboroto
+Reserva
+Escupir
+Tragar
+Onda Ignea
+Granizo
+Tormento
+Camelo
+Fuego Fatuo
+Legado
+Imagen
+Puño Certero
+Estimulo
+Señuelo
+Adaptacion
+Carga
+Mofa
+Refuerzo
+Truco
+Imitacion
+Deseo
+Ayuda
+Arraigo
+Fuerza Bruta
+Capa Magica
+Reciclaje
+Desquite
+Demolicion
+Bostezo
+Desarme
+Esfuerzo
+Estallido
+Intercambio
+Cerca
+Alivio
+Rabia
+Robo
+Daño Secreto
+Buceo
+Empujon
+Camuflaje
+Rafaga
+Resplandor
+Bola Neblina
+Danza Pluma
+Danza Caos
+Patada Ignea
+Chapoteolodo
+Bola Hielo
+Brazo Pincho
+Relajo
+Vozarron
+Colmillo Ven.
+Garra Brutal
+Anillo Igneo
+Hidrocañon
+Puño Meteoro
+Impresionar
+Meteorobola
+Aromaterapia
+Llanto Falso
+Aire Afilado
+Sofoco
+Rastreo
+Tumba Rocas
+Viento Plata
+Eco Metalico
+Silbato
+Cosquillas
+Masa Cosmica
+Salpicar
+Doble Rayo
+Puño Sombra
+Paranormal
+Gancho Alto
+Bucle Arena
+Frio Polar
+Agua Lodosa
+Recurrente
+Golpe Aereo
+Carambano
+Defensa Ferrea
+Bloqueo
+Aullido
+Garra Dragon
+Planta Feroz
+Corpulencia
+Bote
+Disp. Lodo
+Cola Veneno
+Antojo
+Placaje Elec.
+Hidrochorro
+Paz Mental
+Hoja Aguda
+Danza Dragon
+Pedrada
+Onda Voltio
+Hidropulso
+Deseo Oculto
+Psicoataque
+Respiro
+Gravedad
+Gran Ojo
+Espabila
+Machada
+Giro Bola
+Deseo Cura
+Salmuera
+Don Natural
+Finta
+Picoteo
+Viento Afin
+Acupresion
+Repr. Metal
+Ida y vuelta
+A Bocajarro
+Vendetta
+Buena Baza
 Embargo
-Fling
-Psycho Shift
-Trump Card
-Heal Block
-Wring Out
-Power Trick
-Gastro Acid
-Lucky Chant
-Me First
-Copycat
-Power Swap
-Guard Swap
-Punishment
-Last Resort
-Worry Seed
-Sucker Punch
-Toxic Spikes
-Heart Swap
-Aqua Ring
-Magnet Rise
-Flare Blitz
-Force Palm
-Aura Sphere
-Rock Polish
-Poison Jab
-Dark Pulse
-Night Slash
-Aqua Tail
-Seed Bomb
-Air Slash
-X-Scissor
-Bug Buzz
-Dragon Pulse
-Dragon Rush
-Power Gem
-Drain Punch
-Vacuum Wave
-Focus Blast
-Energy Ball
-Brave Bird
-Earth Power
-Switcheroo
-Giga Impact
-Nasty Plot
-Bullet Punch
-Avalanche
-Ice Shard
-Shadow Claw
-Thunder Fang
-Ice Fang
-Fire Fang
-Shadow Sneak
-Mud Bomb
-Psycho Cut
-Zen Headbutt
-Mirror Shot
-Flash Cannon
-Rock Climb
-Defog
-Trick Room
-Draco Meteor
-Discharge
-Lava Plume
-Leaf Storm
-Power Whip
-Rock Wrecker
-Cross Poison
-Gunk Shot
-Iron Head
-Magnet Bomb
-Stone Edge
-Captivate
-Stealth Rock
-Grass Knot
-Chatter
-Judgment
-Bug Bite
-Charge Beam
-Wood Hammer
-Aqua Jet
-Attack Order
-Defend Order
-Heal Order
-Head Smash
-Double Hit
-Roar of Time
-Spacial Rend
-Lunar Dance
-Crush Grip
-Magma Storm
-Dark Void
-Seed Flare
-Ominous Wind
-Shadow Force
+Lanzamiento
+Psico-cambio
+As Oculto
+Anticura
+Estrujon
+Truco Fuerza
+Bilis
+Conjuro
+Yo Primero
+Copion
+Cambia Fue.
+Cambia Def.
+Castigo
+Ultima Baza
+Abatidoras
+Golpe Bajo
+Puas Toxicas
+Cambia Almas
+Acua Aro
+Leviton
+Envite Igneo
+Palmeo
+Esfera Aural
+Pulimento
+Puya Nociva
+Pulso Umbrio
+Tajo Umbrio
+Acua Cola
+Bomba Germen
+Tajo Aereo
+Tijera X
+Zumbido
+Pulso Dragon
+Carga Dragon
+Joya de Luz
+Puño Drenaje
+Onda Vacio
+Onda Certera
+Energibola
+Pajaro Osado
+Tierra Viva
+Trapicheo
+Giga Impacto
+Maquinacion
+Puño Bala
+Alud
+Canto Helado
+Garra Umbria
+Colm. Rayo
+Colm. Hielo
+Colm. Igneo
+Sombra Vil
+Bomba Fango
+Psico-corte
+Cabezazo Zen
+Disp. Espejo
+Foco Respl.
+Treparrocas
+Despejar
+Espacio Raro
+Meteoro Draco
+Chispazo
+Humareda
+Lluevehojas
+Latigazo
+Romperrocas
+Veneno X
+Lanza Mugre
+Cabezahierro
+Bomba Iman
+Roca Afilada
+Seduccion
+Trampa Rocas
+Hierba Lazo
+Chachara
+Sentencia
+Picadura
+Rayo Carga
+Mazazo
+Acua Jet
+Al Ataque
+A Defender
+Auxilio
+Testarazo
+Doble Golpe
+Distorsion
+Corte Vacio
+Danza Lunar
+Agarron
+Lluvia Ignea
+Brecha Negra
+Fogonazo
+Vien. Aciago
+Golpe Umbrio
 Tsumetogi
 Waidogaado
 Gaadoshea
