@@ -1,121 +1,121 @@
-\xf000봂\x0000ランダムマッチ　フリーモード
-\xf000봂\x0000ランダムマッチ　レーティングモード
-\xf000봂\x0000シングルバトル
-\xf000봂\x0000ダブルバトル
-\xf000봂\x0000トリプルバトル
-\xf000봂\x0000ローテーションバトル
-\xf000봂\x0000シューターバトル
-\xf000봂\x0000\xf000Ā\x0001\x0000　のせいせき
-\xf000봃\x0001\x0000レーティング：
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000たいせん　かいすう：
-\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
-\xf000봃\x0001\x0000かったかず：
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000まけたかず：
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002－\xf000ȃ\x0001\x0003.\xf000ȁ\x0001\x0004.\xf000ȁ\x0001\x0005
-とうろく　ポケモン
-とうろく　ポケモン
-とうろく　ポケモン
-すんでいるところ
-あいさつ
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-データを　うけとっています……\xfffeしばらく　おまちください
-どの　モードで\xfffeちょうせん　しますか？
-ランダムマッチ　フリーモードを\xfffeかいし　します\xf000븁\x0000
-フリー
-レーティング
-やめる
-ランダムマッチを\xfffeおわりに　しますか？
-はい
-いいえ
-たいせん　あいてを\xfffeさがして　います……
-たいせん　あいてが\xfffeみつかりました！
-たいせん　あいてを\xfffeさがすのを　やめますか？
-ポケモンを\xfffeえらんで　ください
-データを　おくっています……\xfffeしばらく　おまちください
-たいせんを　つづけますか？
-ランダムマッチを\xfffeおわりに　しますか？
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-ランダムマッチ　レーティングモードを\xfffeかいし　します\xf000븁\x0000
-サーバー　たいきちゅう　です\xfffeしばらく　おまちください
-つうしん　たいきちゅうです……\xfffeしばらく　おまちください
-ブラック．
-ホワイト．
-ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-さんかする
-せつめいを　きく
-やめる
-Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく　すると　さんか　できます\xf000븁\x0000\xfffeたいかいの　ルールや\xfffeかいさい　きかんは\xf000븀\x0000\xfffeＰＧＬ　ホームページで\xf000븀\x0000\xfffeかくにん　してください\xf000븁\x0000
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-たいかい　データを\xfffeさがしています……
-ポケモングローバルリンクに\xfffeゲームシンクＩＤコードが\xf000븀\x0000\xfffeとうろく　されていません\xf000븁\x0000\xfffeゲームシンク　せっていを　おこない\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページで\xf000븀\x0000\xfffeとうろくを　おこなってください\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000
-さんか　できる\xfffeたいかいが　ありません\xf000븁\x0000\xfffeバトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
-さんか　できる　たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた　バトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
-せんしゅしょうを　こうしん　します\xfffeでんげんを　きらないで　ください
-さんか　できる　たいかいは\xfffeげんざい　かいさい　されていません\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-Ｗｉ－Ｆｉたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeぜんかいの　たいかいで　おこなった\xfffeバトルボックスの　とうろくは\xf000븀\x0000\xfffeかいじょ　されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-デジタルせんしゅしょうを\xfffeこうしん　しないと　たいかいに\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeこうしんを　やめますか？
-デジタルせんしゅしょうを\xfffeこうしん　しています\xf000븁\x0000\xfffeでんげんを　きらないでください
-デジタルせんしゅしょうを\xfffeこうしん　できませんでした
-バトルボックスの　ポケモンを\xfffeたいかいに　とうろく　します\xf000븁\x0000\xfffeちゅうい！\xfffeいちど　とうろく　すると\xf000븀\x0000\xfffeさんかを　かいじょ　するまで\xf000븀\x0000\xfffeバトルボックスへ　ポケモンを\xf000븀\x0000\xfffeだしいれ　できなくなります\xf000븁\x0000\xfffeバトルボックスの　ポケモンを\xfffeとうろく　しても　よろしいですか？
-はい
-いいえ
-とうろく　するのを\xfffeやめますか？
-たいかいの　とうろくを\xfffeちゅうだん　しますか？
-データを　おくっています……\xfffeでんげんを　きらないでください
-ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000
-たいかいへの\xfffeとうろくが　かんりょうしました！\xf000븁\x0000
-たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットしてください\xf000븁\x0000
-ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeなにを　しますか？
-たいせんする
-さんかを　かいじょする
-やめる
-たいかいを　ちゅうだん　しますか？
-たいせんを　つづけますか？
-かいさい　きかんが　すぎました\xfffeたいかいを　しゅうりょうします\xf000븁\x0000
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-げんざい　とうろく　している\xfffeたいかいは　ありません\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいに　さんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-たいせん　あいてを\xfffeさがして　います……
-たいせん　あいてを\xfffeさがすのを　やめますか？
-たいせん　あいてが\xfffeみつかりました！
-たいせん　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000\xfffeレーティングの　けいさんは\xfffeすこし　じかんが　かかります\xf000븁\x0000\xfffeけいさんが　おわると\xfffeたいせん　あいてを　さがすとき\xf000븀\x0000\xfffeせいせきに　はんえい　されます\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeでんげんを　きらないで　ください
-データを　うけとっています\xfffeでんげんを　きらないで　ください
-たいかい　データを\xfffeかくにん　しています……
-ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeたいせんを　つづけますか？
-たいせんする
-さんかを　かいじょする
-やめる
-さんか　とうろくした　たいかいは\xfffeげんざい　かいさい　されていません\xf000븁\x0000\xfffeたいかいの　にっていを\xfffeかくにんして　おまちください\xf000븁\x0000
-バトルボックスに\xfffeポケモンが　１ひきも　いません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットして　ください\xf000븁\x0000
-たいせんの　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000
-L\xf000Ȃ\x0001\x0000
+\ Xf000 봂 \ x0000 Batalla Aleatoria (Libre)
+\ Xf000 봂 \ x0000 Batalla Aleatoria (Puntuada)
+\ Xf000 봂 \ x0000 Batalla Individual
+\ Xf000 봂 \ x0000 Batalla Doble
+\ Xf000 봂 \ x0000 Batalla Triple
+\ Xf000 봂 \ x0000 Batalla Rotatoria
+\ Xf000 봂 \ x0000 Batalla Tirador
+\ Xf000 봂 \ x0000 \ xf000Ā \ x0001 \ x0000 resultados
+\ Xf000 봃 \ x0001 \ x0000 Puntuacion:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȃ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 Cuenta batalla:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȅ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 Número de victorias:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000Ȅ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 Número de derrotas:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000Ȅ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȃ \ x0001 \ x0000. \ Xf000ȁ \ x0001 \ x0001. \ Xf000ȁ \ x0001 \ x0002-\ xf000ȃ \ x0001 \ x0003. \ Xf000ȁ \ x0001 \ x0004. \ Xf000ȁ \ x0001 \ x0005
+Registrar Pokémon
+Registrar Pokémon
+Registrar Pokémon
+Settlement
+Mensaje
+\ Xf000Ĥ \ x0001 \ x0000
+\ Xf000ĥ \ x0001 \ x0000
+Los datos están siendo recibidos ... ... \ xfffe Espere por favor
+Qué modo \ xfffe Quieres elegir?
+Batalla Aleatoria (Libre) \ xfffe empezar \ xf000 븁 \ x0000
+Libre
+Puntuada
+Quitar
+Batalla Aleatoria \ xfffe al final?
+Si
+No
+Buscando \ xfffe Un oponente...
+Un oponente \ xfffe fue encontrado!
+Dejar de \ xfffe buscar un oponente?
+Por favor seleccione \ xfffe Pokémon
+Los datos están siendo enviados ... ... \ xfffe Por favor espere
+Continuar jugando?
+Batalla Aleatoria \ xfffe al final?
+Escribiendo resultados \ xfffe No apagues la consola!
+Una Batalla Aleatoria Retingumodo \ xfffe comienza \ xf000 븁 \ x0000
+Esperando al servidor \ xfffe Por favor espere
+Esperando comunicación ... ... \ xfffe por favor espere
+Negro.
+Blanco.
+Iniciar la conexión Wi-Fi de Pokémon?
+Unirse
+Escuchar una historia
+Quitar
+Conexión Wi-Fi \ xfffe en Pokemongurobarurinku \ xf000 븀 \ x0000 \ xfffe puedes unirte y registrarte \ xf000 븁 \ x0000 \ xfffe reglas del concurso y tiempos de espera \ xfffePGL sitio web \ xf000 븀 \ x0000 \ xfffe compruebe por favor \ xf000 븁 \ x0000
+Dejar de participar en el \ xfffe torneo?
+Si
+No
+Buscando \ xfffe Datos de torneo...
+Tu ID de juego\ xfffe para Pokemon Global Link \ xf000 븀 \ x0000 \ xfffe no esta registrado \ xf000 븁 \ x0000 \ xfffe debe estar asociado \ xfffe con su ordenador \ xf000 븁 \ x0000 \ xfffe Pokemon Global Link \ xfffe Por favor regístrese en el sitio web \ xf000 븁 \ x0000 \ xfffehttp: / / www.pokemon-gl.com/ \ xf000 븁 \ x0000
+Participación \ xfffe sin evento \ xf000 븁 \ x0000 \ xfffe Juego de batalla \ xfffe se participó previamente en la competición \ xf000 븀 \ x0000 \ xfffe no unirse \ xf000 븁 \ x0000
+Puedes participar en la competicion \ xfffe no encontrado \ xf000 븁 \ x0000 \ xfffe las batallas del torneo son también \ xfffe previamente participó en la competición \ xf000 븀 \ x0000 \ xfffe no unirse \ xf000 븁 \ x0000
+Actualizar la Tarjeta de Entrenador \ xfffe por favor apague la consola
+La participacion en el toneo \ xfffe no se esta dando \ xf000 븁 \ x0000
+Wi-Fi para participar en un torneo \ xfffe actualizar la tarjeta digital de entrenador\ xf000 븁 \ x0000 \ xfffe tarjeta digital de entrenadot \ xfffe Quieres borrarla?
+Wi-Fi para participar en un torneo \ xfffe actualizar la terjeta digital de entrenador \ xf000 븁 \ x0000 \ xfffe conducted in the last tournament \ xfffe registration Battle Box \ xf000 븀 \ x0000 \ xfffe to cancel \ xf000 븁 \ x0000 \ xfffe digital player card \ xfffe Do you want to overwrite it?
+Tarjeta digital de entrenador \ xfffe no actualizaste en el torneo \ xf000 븀 \ x0000 \ xfffe no unirse \ xf000 븁 \ x0000 \ xfffe actualizar o parar?
+Tarjeta digital de entrenador \ xfffe Updating \ xf000 븁 \ x0000 \ xfffe Please turn off
+La tarjeta digital de entrenador \ xfffe no se puede actualizar
+Pokemon Battle Box \ xfffe Registro \ xf000 븁 \ x0000 \ xfffe cuidado! \ Xfffe Una vez registrado \ xf000 븀 \ x0000 \ xfffe para cancelar la participacion \ xf000 븀 \ x0000 \ xfffe a una Pokemon Battle Box \ xf000 븀 \ x0000 \ xfffe mas adelante y fuera \ xf000 븁 \ x0000 \ xfffe Battle Box Pokemon \ xfffe Deseas registrarte?
+Si
+No
+Registrarse \ xfffe o detenerse?
+Registro de coferencia \ xfffe o romper registro?
+Los datos se enviaron ... ... \ xfffe por favor apague la consola
+Pokemon hay un problema \ xfffe no pudo unirse \ xf000 븁 \ x0000
+Del juego \ xfffe registro completado! \ Xf000 븁 \ x0000
+Las condiciones de la competicion \ xfffe no coinciden \ xf000 븁 \ x0000 \ xfffe revisa las reglas del torneo \ xfffe Pokemon Battle box \ xf000 븀 \ x0000 \ xfffe por favor ponga \ xf000 븁 \ x0000
+Wi-Fi Pokémon tournament! \ Xfffe what would you do?
+Encuentro
+Para quitarse de este grupo
+Quitar
+Quieres salir del torneo?
+Seguir jugando?
+El período de espera ha terminado \ xfffe Salir de juegos \ xf000 븁 \ x0000
+Registro Battle Box \ xfffe levantado \ xf000 븁 \ x0000
+Estan ya registrados \ xfffe sin evento \ xf000 븁 \ x0000
+Si cancelas la participacion \ xfffe no podras unirte al mismo torneo \ xf000 븁 \ x0000 \ xfffe Quieres quitarlo?
+Quitar los participantes del torneo \ xfffe Estas seguro?
+Un oponente \ xfffe Buscando ...
+Un oponente \ xfffe o dejar de buscar?
+Oponentes \ xfffe Encontrados!
+Resultados Batalla \ xfffe enviados al servidor \ xf000 븁 \ x0000 \ xfffe calculando puntuación \ xfffe puede tadar un poco \ xf000 븁 \ x0000 \ xfffe fin del cálculo \ xfffe cuando buscas un oponente \ xf000 븀 \ x0000 \ xfffe se ve reflejado en los resultados \ xf000 븁 \ x0000
+Esperando comunicación \ xfffe por favor apague la consola
+Has recibido datos \ xfffe por favor apague la consola
+Datos Torneo \ xfffe confirmados ...
+Wi-Fi Torneo Pokémon! \ Xfffe continuar jugando?
+Encuentro
+Quitarse de este grupo
+Quitar
+Registros \ xfffe no se estan dando ahora \ xf000 븁 \ x0000 \ xfffe procedimientos de torneo \ xfffe por favor espere para comprobar \ xf000 븁 \ x0000
+Battle box \ xfffe ni siquiera un pokémon pez \ xf000 븁 \ x0000 \ xfffe ver reglas de torneo \ xfffe Pokemon Battle box \ xf000 븀 \ x0000 \ xfffe por favor ponga \ xf000 븁 \ x0000
+The results of the game \ xfffe were sent to the server \ xf000 븁 \ x0000
+L \ xf000Ȃ \ x0001 \ x0000
 ♂
 ♀
 
-この　たいかいに　さんかちゅう　です\xfffeポケモンを　とうろく　してください
-この　たいかいに　さんかちゅう　です\xfffeバトルボックスを　ロックしています
-さんかを　かいじょすると\xfffeおなじ　たいかいに　さんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-かいじょちゅう　です\xfffeでんげんを　きらないで　ください
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-この　たいかいの　かいさいは\xfffeしゅうりょう　しました
-この　たいかいは　とちゅうで\xfffeさんかを　かいじょ　しました
-デジタルせんしゅしょうの\xfffeデータが　ありません\xf000븁\x0000
-この　たいかいは\xfffeほんたいと　ＤＳカードを\xf000븀\x0000\xfffeさしかえた　ため\xf000븁\x0000\xfffeたいかい　への　さんかが\xfffeかいじょに　なりました\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-たいかいへの　さんかを\xfffeかいじょ　しました\xf000븁\x0000
-もどる
-さんかの　かいじょ
-はい
-いいえ
-ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000
+Participando en un torneo \ xfffe Por favor registre Pokémon
+Estoy participando en un torneo \ xfffe Battle Box cerrada
+Si cancelas la participacion \ xfffe no podras unirte al mismo torneo \ xf000 븁 \ x0000 \ xfffe Quieres quitarla?
+Quitar participantes \ xfffe Estas seguro?
+Esta siendo quitado \ xfffe por favor apaga la consola
+Registro Battle Box \ xfffe lifted \ xf000 븁 \ x0000
+La conferencia se esta dando \ xfffe terminó
+Durante el evento \ xfffe la participacion ha sido quitada
+Certificado de jugadores digitales\ xfffe Sin Datos \ xf000 븁 \ x0000
+Este evento \ xfffe tarjeta DS física \ xf000 븀 \ x0000 \ xfffe swapped for \ xf000 븁 \ x0000 \ xfffe para participar en competiciones \ xfffe se claro \ xf000 븁 \ x0000
+Si cancelas la participacion \ xfffe misma conexión \ xf000 븀 \ x0000 \ xfffe no puede unirse \ xf000 븁 \ x0000 \ xfffe Quieres cancelar?
+Quitar participantes del torneo \ xfffe Estas seguro?
+Para participar en el torneo \ xfffe levantado \ xf000 븁 \ x0000
+Atras
+Cancelar participación
+Si
+No
+Este Pokémon no se puede unir \ xfffe porque hay un problema \ xf000 븁 \ x0000
