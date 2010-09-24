@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+¿Encender el C-GEAR\xfffepara comenzar las comunicaciones?
+Aviso: el C-GEAR se quedará encendido aún cuando la DS esté cerrada\xfffey la bateria restante se agotará.
+¿Apagar el C-GEAR\xfffepara detener las comunicaciones?
+\xf000\xff00\x0001\x0001Cuidado！\xf000\xff00\x0001 \x0000\xfffeEl Inalámbrico no puede ser utilizado\xfffeen lugares como hospitales y aviones\xfffeEn estos, por favor apaga el C-GEAR
+Error al encender el C-GEAR\xfffePor favor\xffferevisa\xfffela conexion\xfffeinalambrica　（５０６９９）
+Sí
+No
