@@ -17,7 +17,7 @@ Corte
 Tornado
 Ataque Ala
 Remolino
-vuelo
+Vuelo
 Atadura
 Portazo
 Latigo Cepa
@@ -233,6 +233,7 @@ Cola Ferrea
 Garra Metal
 Tiro Vital
 Sol Matinal
+Sintesis
 Luz Lunar
 Poder Oculto
 Tajo Cruzado
@@ -342,6 +343,7 @@ Disp. Lodo
 Cola Veneno
 Antojo
 Placaje Elec.
+Hoja magica
 Hidrochorro
 Paz Mental
 Hoja Aguda
