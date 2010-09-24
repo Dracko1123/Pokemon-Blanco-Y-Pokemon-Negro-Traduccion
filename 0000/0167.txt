@@ -1,6 +1,6 @@
-レベル５０
-せいげんなし
-スタンダード
-ランダムマッチ
-バトルサブウェイ
-フラット
+Nv. 50
+Sin Limitación
+Estándar
+Batalla Aleatoria
+Batalla Metro
+Piso
