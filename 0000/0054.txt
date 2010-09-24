@@ -1,116 +1,116 @@
-None
-Master Ball
-Ultra Ball
-Great Ball
-Poké Ball
+Nada
+Masterball
+Ultraball
+Superball
+Pokéball
 Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
-Luxury Ball
-Premier Ball
-Dusk Ball
-Heal Ball
-Quick Ball
-Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Parlyz Heal
-Full Restore
-Max Potion
-Hyper Potion
-Super Potion
-Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
-EnergyPowder
-Energy Root
-Heal Powder
-Revival Herb
-Ether
-Max Ether
+Malla Ball
+Buceo Ball
+Nido Ball
+Acopio Ball
+Turno Ball
+Lujo Ball
+Honor Ball
+Ocaso Ball
+Sana Ball
+Veloz Ball
+Gloria Ball
+Pocion
+Antidoto
+Antiquemar
+Antihielo
+Despertar
+Antiparaliz
+Restaura Todo
+Máx. pocion
+Hiperpocion
+Superpocion
+Cura total
+Revivir
+Max. revivir
+Agua fresca
+Refresco
+Limonada
+Leche mu-mu
+Polvoenergía
+Raíz energia
+Pol.curación
+Hierba rev.
+Éter
+Éter máx.
 Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
-Sacred Ash
-HP Up
-Protein
-Iron
-Carbos
-Calcium
-Rare Candy
-PP Up
+Elixir máx.
+Galleta lava
+Zumo de baya
+Cen. sagrada
+Más PS
+Proteina
+Hierro
+Carburante
+Calcio
+Caramelo raro
+Mas PP
 Zinc
-PP Max
-Old Gateau
-Guard Spec.
-Dire Hit
-X Attack
-X Defend
-X Speed
-X Accuracy
-X Special
-X Sp. Def
-Poké Doll
-Fluffy Tail
-Blue Flute
-Yellow Flute
-Red Flute
-Black Flute
-White Flute
-Shoal Salt
-Shoal Shell
-Red Shard
-Blue Shard
-Yellow Shard
-Green Shard
-Super Repel
-Max Repel
-Escape Rope
-Repel
-Sun Stone
-Moon Stone
-Fire Stone
-Thunderstone
-Water Stone
-Leaf Stone
-TinyMushroom
-Big Mushroom
-Pearl
-Big Pearl
-Stardust
-Star Piece
-Nugget
-Heart Scale
-Honey
-Growth Mulch
-Damp Mulch
-Stable Mulch
-Gooey Mulch
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
-Rare Bone
-Shiny Stone
-Dusk Stone
-Dawn Stone
-Oval Stone
-Odd Keystone
-Griseous Orb
+Max. PP
+Barrita plus
+Protec. esp.
+Directo
+Ataque X
+Defensa X
+Velocidad X
+Precision X
+Especial X
+Defensa Sp. X
+Pokémuñeco
+Cola Skitty
+Flauta Azul
+Flauta Amarilla
+Flauta Roja
+Flauta Negra
+Flauta Blanca
+Sal cardumen
+C. cardumen
+Parte roja
+Parte Azul
+P. amarilla
+Parte verde
+Superrepelente
+Máx repel
+Cuerda huida
+Repelente
+Piedra solar
+Piedra lunar
+Piedra fuego
+Piedra trueno
+Piedra agua
+Piedra hoja
+Mini seta
+Seta grande
+Perla
+Perla grande
+Polvoestelar
+Tr. estrella
+Pepita
+Esc. corazón
+Miel
+Abono rapido
+Abono lento
+Abono brote
+Ab. fijador
+Fósil raíz
+Fósil garra
+Fósil hélix
+Fósil domo
+Ámbar viejo
+Fósil coraza
+Fósil cráneo
+Hueso raro
+Piedra dia
+Piedra noche
+Piedra alba
+Piedra oval
+Piedra espiritu
+Griesosfera
 ???
 ???
 ???
@@ -133,408 +133,408 @@ Furiizukasetto
 ???
 ???
 Haatosuiitsu
-Adamant Orb
-Lustrous Orb
-Grass Mail
-Flame Mail
-Bubble Mail
-Bloom Mail
-Tunnel Mail
-Steel Mail
-Heart Mail
-Snow Mail
-Space Mail
-Air Mail
-Mosaic Mail
-Brick Mail
-Cheri Berry
-Chesto Berry
-Pecha Berry
-Rawst Berry
-Aspear Berry
-Leppa Berry
-Oran Berry
-Persim Berry
-Lum Berry
-Sitrus Berry
-Figy Berry
-Wiki Berry
-Mago Berry
-Aguav Berry
-Iapapa Berry
-Razz Berry
-Bluk Berry
-Nanab Berry
-Wepear Berry
-Pinap Berry
-Pomeg Berry
-Kelpsy Berry
-Qualot Berry
-Hondew Berry
-Grepa Berry
-Tamato Berry
-Cornn Berry
-Magost Berry
-Rabuta Berry
-Nomel Berry
-Spelon Berry
-Pamtre Berry
-Watmel Berry
-Durin Berry
-Belue Berry
-Occa Berry
-Passho Berry
-Wacan Berry
-Rindo Berry
-Yache Berry
-Chople Berry
-Kebia Berry
-Shuca Berry
-Coba Berry
-Payapa Berry
-Tanga Berry
-Charti Berry
-Kasib Berry
-Haban Berry
-Colbur Berry
-Babiri Berry
-Chilan Berry
-Liechi Berry
-Ganlon Berry
-Salac Berry
-Petaya Berry
-Apicot Berry
-Lansat Berry
-Starf Berry
-Enigma Berry
-Micle Berry
-Custap Berry
-Jaboca Berry
-Rowap Berry
-BrightPowder
-White Herb
-Macho Brace
-Exp. Share
-Quick Claw
-Soothe Bell
-Mental Herb
-Choice Band
-King’s Rock
-SilverPowder
-Amulet Coin
-Cleanse Tag
-Soul Dew
-DeepSeaTooth
-DeepSeaScale
-Smoke Ball
-Everstone
-Focus Band
-Lucky Egg
+Diamanesfera
+Lustresfera
+Carta hierba
+Carta fuego
+Carta pompas
+Carta flores
+Carta mina
+Carta acero
+Carta corazon
+Carta nieve
+Carta sideral
+Carta aerea
+Carta mosaico
+Carta pared
+Baya cereza
+Baya atania
+Baya meloc
+Baya safre
+Baya perasi
+Baya zanama
+Baya aranja
+Baya caquic
+Baya ziuela
+Baya zidra
+Baya higog
+Baya wiki
+Baya ango
+Baya guaya
+Baya pabaya
+Baya frambu
+Baya oram
+Baya latano
+Baya peragu
+Baya piña
+Baya grana
+Baya algama
+Baya ispero
+Baya meluce
+Baya uva
+Baya tomate
+Baya maiz
+Baya aostan
+Baya rautan
+Baya limon
+Baya wikano
+Baya plama
+Baya sambia
+Baya rudion
+Baya andano
+Baya Occa
+Baya Passho
+Baya Wacan
+Baya Rindo
+Baya Yache
+Baya Chople
+Baya Kebia
+Baya Shuca
+Baya Coba
+Baya Payapa
+Baya Tanga
+Baya Charti
+Baya Kasib
+Baya Haban
+Baya Colbur
+Baya Babiri
+Baya Chilan
+Baya Liechi
+Baya Ganlon
+Baya aslac
+Baya yapati
+Baya aricoc
+Baya zonlan
+Baya arbol
+Baya enigma
+Baya milagrosa
+Baya Custap
+Baya Jaboca
+Baya Rowap
+Polvo brillo
+Hierb. blanca
+Vestidura
+Repartir exp
+Garra rápida
+Camp. alivio
+Hier. mental
+Cin. elegida
+Roca del rey
+Polvo plata
+Mon. amuleto
+Amuleto
+Rocio bondad
+Diente mar.
+Escama mar.
+Bola humo
+Piedra eterna
+Cinta focus
+Huevo suerte
 Scope Lens
-Metal Coat
-Leftovers
-Dragon Scale
-Light Ball
-Soft Sand
-Hard Stone
-Miracle Seed
-BlackGlasses
-Black Belt
-Magnet
-Mystic Water
-Sharp Beak
-Poison Barb
-NeverMeltIce
-Spell Tag
-TwistedSpoon
-Charcoal
-Dragon Fang
-Silk Scarf
-Up-Grade
-Shell Bell
-Sea Incense
-Lax Incense
-Lucky Punch
-Metal Powder
-Thick Club
-Stick
-Red Scarf
-Blue Scarf
-Pink Scarf
-Green Scarf
-Yellow Scarf
-Wide Lens
-Muscle Band
-Wise Glasses
-Expert Belt
-Light Clay
-Life Orb
-Power Herb
-Toxic Orb
-Flame Orb
-Quick Powder
-Focus Sash
-Zoom Lens
-Metronome
-Iron Ball
-Lagging Tail
-Destiny Knot
-Black Sludge
-Icy Rock
-Smooth Rock
-Heat Rock
-Damp Rock
-Grip Claw
-Choice Scarf
-Sticky Barb
-Power Bracer
-Power Belt
-Power Lens
-Power Band
-Power Anklet
-Power Weight
-Shed Shell
-Big Root
-Choice Specs
-Flame Plate
-Splash Plate
-Zap Plate
-Meadow Plate
-Icicle Plate
-Fist Plate
-Toxic Plate
-Earth Plate
-Sky Plate
-Mind Plate
-Insect Plate
-Stone Plate
-Spooky Plate
-Draco Plate
-Dread Plate
-Iron Plate
-Odd Incense
-Rock Incense
-Full Incense
-Wave Incense
-Rose Incense
-Luck Incense
-Pure Incense
+Rev.metálico
+Restos
+Escama dragón
+Bolaluminosa
+Arena fina
+Piedra dura
+Sem. milagro
+Gafas de sol
+Cint. negro
+Imán
+Agua mística
+Pico afilado
+Flecha ven.
+Antiderretir
+hechizo
+Cuchara tor.
+Carbó
+Colmillodrag
+Pañuelo seda
+Mejora
+Camp. concha
+Incie. mar
+Incie. suave
+Puño suerte
+Pol. metálico
+Hueso grueso
+Palo
+Pañuelo rojo
+Pañuelo azul
+Pañuelo rosa
+Pañ. verde
+P. amarillo
+Lupa
+Cinta fuerte
+Gafas Esp.
+Cinta Experto
+Arcilla ligera
+Vidasfera
+Pol. hierba
+Toxisfera
+Llamasfera
+Polvo veloz
+Banda focus
+Telescopio
+Metrónomo
+Bola Férrea
+Cola Plúmbea
+Lazo Destino
+Lodo negro
+Roca helada
+Roca suave
+Roca solar
+Roca Lluvia
+Garra Garfio
+Pañ. Elegido
+Toxiestrella
+Brazal Recio
+Cinto Recio
+Lente Recia
+Banda Recia
+Franja Recia
+Pesa Recia
+Muda concha
+Raíz grande
+Gafas elegid.
+Tabla llama
+Tabla Linfa
+Tabla Trueno
+Tabla Pradal
+Tabla Helada
+Tabla Fuerte
+Tabla Tóxica
+Tabla Térrax
+Tabla Cielo
+Tabla Mental
+Tabla Bicho
+Tabla Pétrea
+Tabla Terror
+Tabla Draco
+Tabla Oscura
+Tabla Acero
+Incie. raro
+Incie. roca
+Incie. lento
+Incie. Agua
+Incie. Floral
+Incie. Duplo
+Incie. Puro
 Protector
-Electirizer
-Magmarizer
-Dubious Disc
-Reaper Cloth
-Razor Claw
-Razor Fang
-TM01
-TM02
-TM03
-TM04
-TM05
-TM06
-TM07
-TM08
-TM09
-TM10
-TM11
-TM12
-TM13
-TM14
-TM15
-TM16
-TM17
-TM18
-TM19
-TM20
-TM21
-TM22
-TM23
-TM24
-TM25
-TM26
-TM27
-TM28
-TM29
-TM30
-TM31
-TM32
-TM33
-TM34
-TM35
-TM36
-TM37
-TM38
-TM39
-TM40
-TM41
-TM42
-TM43
-TM44
-TM45
-TM46
-TM47
-TM48
-TM49
-TM50
-TM51
-TM52
-TM53
-TM54
-TM55
-TM56
-TM57
-TM58
-TM59
-TM60
-TM61
-TM62
-TM63
-TM64
-TM65
-TM66
-TM67
-TM68
-TM69
-TM70
-TM71
-TM72
-TM73
-TM74
-TM75
-TM76
-TM77
-TM78
-TM79
-TM80
-TM81
-TM82
-TM83
-TM84
-TM85
-TM86
-TM87
-TM88
-TM89
-TM90
-TM91
-TM92
-HM01
-HM02
-HM03
-HM04
-HM05
-HM06
+Electrizador
+Magmatizador
+Discoxtraño
+Telaterrible
+Garrafilada
+Colmilloagudo
+MT01
+MT02
+MT03
+MT04
+MT05
+MT06
+MT07
+MT08
+MT09
+MT10
+MT11
+MT12
+MT13
+MT14
+MT15
+MT16
+MT17
+MT18
+MT19
+MT20
+MT21
+MT22
+MT23
+MT24
+MT25
+MT26
+MT27
+MT28
+MT29
+MT30
+MT31
+MT32
+MT33
+MT34
+MT35
+MT36
+MT37
+MT38
+MT39
+MT40
+MT41
+MT42
+MT43
+MT44
+MT45
+MT46
+MT47
+MT48
+MT49
+MT50
+MT51
+MT52
+MT53
+MT54
+MT55
+MT56
+MT57
+MT58
+MT59
+MT60
+MT61
+MT62
+MT63
+MT64
+MT65
+MT66
+MT67
+MT68
+MT69
+MT70
+MT71
+MT72
+MT73
+MT74
+MT75
+MT76
+MT77
+MT78
+MT79
+MT80
+MT81
+MT82
+MT83
+MT84
+MT85
+MT86
+MT87
+MT88
+MT89
+MT90
+MT91
+MT92
+MO01
+MO02
+MO03
+MO04
+MO05
+MO06
 ???
 ???
 Tankensetto
-Loot Sack
-Rule Book
-Poké Radar
-Point Card
-Journal
-Seal Case
-Fashion Case
-Seal Bag
-Pal Pad
-Works Key
-Old Charm
-Galactic Key
-Red Chain
-Town Map
-Vs. Seeker
-Coin Case
-Old Rod
-Good Rod
-Super Rod
-Sprayduck
-Poffin Case
-Bicycle
-Suite Key
-Oak’s Letter
-Lunar Wing
-Member Card
-Azure Flute
-S.S. Ticket
-Contest Pass
-Magma Stone
-Parcel
-Coupon 1
-Coupon 2
-Coupon 3
-Storage Key
-SecretPotion
-Vs. Recorder
-Gracidea
-Secret Key
-Apricorn Box
-UNOWN Report
-Berry Pots
+Saca botin
+Reglamento
+Pokéradar
+Tarjeta puntos
+Diario
+Caja sellos
+Caja corazón
+Bolsa sellos
+Bloc amigos
+Llave central
+Talismán
+Llave galaxia
+Cadena roja
+Mapa
+Buscapelea
+Monedero
+Caña vieja
+Caña buena
+Supercaña
+Psydugadera
+Pokochera
+Bicicleta
+Llave suite
+Carta Pr Oak
+Pluma lunar
+Carné socio
+Flauta azur
+Ticket barco
+Pase concurso
+Piedra Magma
+Paquete
+Cupón 1
+Cupón 2
+Cupón 3
+Llave almacén
+Poción secreta
+Cámara lucha
+Gracídea
+Llave secreta
+Caja bonguri
+Bloc Unown
+Plantabayas
 Dowsing MCHN
-Blue Card
-SlowpokeTail
-Clear Bell
-Card Key
-Basement Key
-SquirtBottle
-Red Scale
-Lost Item
-Pass
-Machine Part
-Silver Wing
-Rainbow Wing
-Mystery Egg
-Red Apricorn
-Ylw Apricorn
-Blu Apricorn
-Grn Apricorn
-Pnk Apricorn
-Wht Apricorn
-Blk Apricorn
-Fast Ball
-Level Ball
-Lure Ball
-Heavy Ball
-Love Ball
-Friend Ball
-Moon Ball
-Sport Ball
-Park Ball
-Photo Album
+Tarjeta azul
+Cola Slowpoke
+Campana clara
+Llave magnética
+Llave sótano
+Regadera
+Escama roja
+Objeto perdido
+Pase del tren
+Maquinaria
+Ala plateada
+Ala arcoiris
+Huevo misterioso
+Bonguri rojo
+Bonguri amarillo
+Bonguri azul
+Bonguri verde
+Bonguri rosa
+Bonguri blanco
+Bonguri negro
+Rapid Ball
+Nivel Ball
+Cebo Ball
+Peso Ball
+Amor Ball
+Amigo Ball
+Luna Ball
+Competi Ball
+Parque Ball
+Album de fotos
 GB Sounds
-Tidal Bell
-RageCandyBar
-Data Card 01
-Data Card 02
-Data Card 03
-Data Card 04
-Data Card 05
-Data Card 06
-Data Card 07
-Data Card 08
-Data Card 09
-Data Card 10
-Data Card 11
-Data Card 12
-Data Card 13
-Data Card 14
-Data Card 15
-Data Card 16
-Data Card 17
-Data Card 18
-Data Card 19
-Data Card 20
-Data Card 21
-Data Card 22
-Data Card 23
-Data Card 24
-Data Card 25
-Data Card 26
-Data Card 27
-Jade Orb
-Lock Capsule
-Red Orb
-Blue Orb
-Enigma Stone
+Campana oleaje
+Caramelo furia
+Tarjeta de datos 01
+Tarjeta de datos 02
+Tarjeta de datos 03
+Tarjeta de datos 04
+Tarjeta de datos 05
+Tarjeta de datos 06
+Tarjeta de datos 07
+Tarjeta de datos 08
+Tarjeta de datos 09
+Tarjeta de datos 10
+Tarjeta de datos 11
+Tarjeta de datos 12
+Tarjeta de datos 13
+Tarjeta de datos 14
+Tarjeta de datos 15
+Tarjeta de datos 16
+Tarjeta de datos 17
+Tarjeta de datos 18
+Tarjeta de datos 19
+Tarjeta de datos 20
+Tarjeta de datos 21
+Tarjeta de datos 22
+Tarjeta de datos 23
+Tarjeta de datos 24
+Tarjeta de datos 25
+Tarjeta de datos 26
+Tarjeta de datos 27
+Esfera verde
+Cápsula candado
+Esfera roja
+Esfera azul
+Misticristal
 kireinauroko
 Shinkanokiseki
 Karuishi
@@ -616,9 +616,9 @@ Furattokooru
 Kuritikatto3
 Raitosutoon
 Daakusutoon
-TM93
-TM94
-TM95
+MT93
+MT94
+MT95
 Raibukyasutaa
 Goddosutoon
 Haitatsubutsu1
