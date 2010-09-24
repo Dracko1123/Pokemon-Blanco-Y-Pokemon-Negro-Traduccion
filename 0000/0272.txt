@@ -1,6 +1,6 @@
 『Modo de Búsqueda』
 Por favor incluye las mismas condiciones.
-『Resultados de la busqueda』
+『Resultados de Búsqueda』
 Numero de entradas:　\xf000Ȃ\x0001\x0000
 Por favor pon tu Rango
 Por favor pon tu Nombre
