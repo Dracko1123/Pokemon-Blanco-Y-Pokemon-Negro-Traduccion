@@ -1,9 +1,9 @@
-たいりょく
-こうげき
-ぼうぎょ
-すばやさ
-とくこう
-とくぼう
-めいちゅうりつ
-かいひりつ
-さいだいＨＰ
+PS
+Ataque
+Defensa
+Velocidad
+Ataque especial
+Defensa especial
+Precisión
+Evasión
+PS Max
