@@ -1,1159 +1,1159 @@
-\xf000Ă\x0001\x0000 fainted!
-The wild \xf000Ă\x0001\x0000 fainted!
-The foe's \xf000Ă\x0001\x0000 fainted!
-\xf000Ă\x0001\x0000 \xffferegained health!
-The wild \xf000Ă\x0001\x0000 \xffferegained health!
-The foe's \xf000Ă\x0001\x0000 \xffferegained health!
-It's super effective against \xf000Ă\x0001\x0000! \xfffe
-It's super effective against the wild \xf000Ă\x0001\x0000! \xfffe
-It's super effective against the foe's \xf000Ă\x0001\x0000 \xfffe
-It's super effective against \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
-It's super effective against the wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
-It's super effective against the foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
-It's super effective against \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!
-It's super effective against the wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!
-It's super effective against the foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!
+¡\xf000Ă\x0001\x0000 se debilitó!
+¡El \xf000ā\x0001\x0000 salvaje se debilitó!
+¡El \xf000ā\x0001\x0000 enemigo se debilitó!
+\xf000Ă\x0001\x0000 \xffferestauró salud!
+¡El \xf000ā\x0001\x0000 salvaje \xffferestauró salud!
+¡El \xf000ā\x0001\x0000 enemigo \xffferestauró salud!
+¡Es muy eficaz \xf000Ă\x0001\x0000! \xfffe
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje! \xfffe
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo \xfffe
+¡Es muy eficaz \xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001!\xfffe
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001!\xfffe
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001!\xfffe
+¡Es muy eficaz \xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
+¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
 \xf000Ă\x0001\x0000 \xfffeis not very effective...
-The wild \xf000Ă\x0001\x0000 \xfffeis not very effective...
-The foe's \xf000Ă\x0001\x0000 \xfffeis not very effective...
-\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-However, \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-However, the wild \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-However, the foe's \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis not very effective...
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis not very effective...
+\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
+¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
+¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
+\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
+¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
+¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
+However, \xf000Ă\x0001\x0000's attack\xfffedidn't ly well!
+However, ¡El \xf000ā\x0001\x0000 salvaje's attack\xfffedidn't ly well!
+However, ¡El \xf000ā\x0001\x0000 enemigo attack\xfffedidn't ly well!
 \xf000Ă\x0001\x0000's\xfffeAttack rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack rose!
 \xf000Ă\x0001\x0000's\xfffeDefense rose!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense rose!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack rose!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense rose!
 \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed rose!
 \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy rose!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness rose!
 \xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack rose greatly!
 \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense rose greatly!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack rose greatly!
 \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Def rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Def rose greatly!
 \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed rose greatly!
 \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy greatly rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy greatly rose!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness greatly rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness greatly rose!
 \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack sharply rose!
 \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense sharply rose!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack sharply rose!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense sharply rose!
 \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed sharply rose!
 \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy sharply rose!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness sharply rose!
 \xf000Ă\x0001\x0000's\xfffeAttack fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack fell!
 \xf000Ă\x0001\x0000's\xfffeDefense fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense fell!
 \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed fell!
 \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy fell!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness fell!
 \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack greatly fell!
 \xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense greatly fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack greatly fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense greatly fell!
 \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed greatly fell!
 \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy greatly fell!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness greatly fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness greatly fell!
 \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack sharply fell!
 \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense sharply fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack sharply fell!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense sharply fell!
 \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed sharply fell!
 \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy sharply fell!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness sharply fell!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness sharply fell!
 \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack won't go higher!
 \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense won't go higher!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack won't go higher!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense won't go higher!
 \xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed won't go higher!
 \xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy won't go higher!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness won't go higher!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness won't go higher!
 \xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack won't go lower!
 \xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense won't go lower!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack won't go lower!
 \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense won't go lower!
 \xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed won't go lower!
 \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy won't go lower!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness won't go lower!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness won't go lower!
 \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-The wild \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-The foe's \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
+¡El \xf000ā\x0001\x0000 salvaje's\xfffechanged ability returned to normal!
+¡El \xf000ā\x0001\x0000 enemigo's\xfffechanged ability returned to normal!
 \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeのうりょくは　さがらない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeのうりょくは　さがらない！
 \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきは　さがらない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきは　さがらない！
 \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeぼうぎょは　さがらない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeぼうぎょは　さがらない！
 \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeめいちゅうりつは　さがらない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeめいちゅうりつは　さがらない！
 \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-The wild \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-\xf000Ă\x0001\x0000 \xfffemissed!
-The wild \xf000Ă\x0001\x0000 \xfffemissed!
-The foe's \xf000Ă\x0001\x0000 \xfffemissed!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeisn't affected by it...
+¡El \xf000ā\x0001\x0000 enemigo \xfffeisn't affected by it...
+\xf000Ă\x0001\x0000 \xfffeavoided the attack!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeavoided the attack!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeavoided the attack!
 \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-The wild \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-The foe's \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeisn't phased by it!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeisn't phased by it!
 \xf000Ă\x0001\x0000 increased the \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000 increased the wild \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000 increased the foe's \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000's \xfffeform changed!
-The wild \xf000Ă\x0001\x0000's \xfffeform changed!
-The foe's \xf000Ă\x0001\x0000's \xfffeform changed!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeform changed!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeform changed!
 \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvaje dropped\xfffe\xf000ĉ\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo dropped\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-The wild \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-The foe's \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffestatus returned to normal!
+¡El \xf000ā\x0001\x0000 enemigo \xfffestatus returned to normal!
 \xf000Ă\x0001\x0000 \xfffemoved to the middle!
-The wild \xf000Ă\x0001\x0000 \xfffemoved to the middle!
-The foe's \xf000Ă\x0001\x0000 \xfffemoved to the middle!
+¡El \xf000ā\x0001\x0000 salvaje \xfffemoved to the middle!
+¡El \xf000ā\x0001\x0000 enemigo \xfffemoved to the middle!
 \xf000Ă\x0001\x0000 \xfffegot covered in poison!
-The wild \xf000Ă\x0001\x0000 \xfffegot covered in poison!
-The foe's \xf000Ă\x0001\x0000 \xfffegot covered in poison!
+¡El \xf000ā\x0001\x0000 salvaje \xfffegot covered in poison!
+¡El \xf000ā\x0001\x0000 enemigo \xfffegot covered in poison!
 \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-The wild \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-The foe's \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
+¡El \xf000ā\x0001\x0000 salvaje \xfffegot covered in a deadly poison!
+¡El \xf000ā\x0001\x0000 enemigo \xfffegot covered in a deadly poison!
 \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-The wild \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-The foe's \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+¡El \xf000ā\x0001\x0000 salvaje got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+¡El \xf000ā\x0001\x0000 enemigo got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
 \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-The wild \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
+¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage from the poison!
+¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage from the poison!
 \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-The wild \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-The foe's \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffepoison was removed completely!
+¡El \xf000ā\x0001\x0000 enemigo \xfffepoison was removed completely!
 \xf000Ă\x0001\x0000 \xfffeis already poisoned!
-The wild \xf000Ă\x0001\x0000 \xfffeis already poisoned!
-The foe's \xf000Ă\x0001\x0000 \xfffeis already poisoned!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis already poisoned!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis already poisoned!
 \xf000Ă\x0001\x0000 \xfffecan't be poisoned!
-The wild \xf000Ă\x0001\x0000 \xfffecan't be poisoned!
-The foe's \xf000Ă\x0001\x0000 \xfffecan't become poisoned!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be poisoned!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecan't become poisoned!
 \xf000Ă\x0001\x0000 \xfffegot burned!
-The wild \xf000Ă\x0001\x0000 \xfffegot burned!
-The foe's \xf000Ă\x0001\x0000 \xfffegot burned!
+¡El \xf000ā\x0001\x0000 salvaje \xfffegot burned!
+¡El \xf000ā\x0001\x0000 enemigo \xfffegot burned!
 \xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvajegot burned by the \xfffe\xf000ĉ\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigogot burned by the \xfffe\xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-The wild \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
+¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage from the burn!
+¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage from the burn!
 \xf000Ă\x0001\x0000's \xfffeburn was healed!
-The wild \xf000Ă\x0001\x0000's \xfffeburn was healed!
-The foe's \xf000Ă\x0001\x0000's \xfffeburn was healed!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeburn was healed!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeburn was healed!
 \xf000Ă\x0001\x0000is already burnt.
-The wild \xf000Ă\x0001\x0000is already burnt.
-The foe's \xf000Ă\x0001\x0000is already burnt.
+¡El \xf000ā\x0001\x0000 salvajeis already burnt.
+¡El \xf000ā\x0001\x0000 enemigois already burnt.
 \xf000Ă\x0001\x0000 \xfffecannot be burned!
-The wild \xf000Ă\x0001\x0000 \xfffecannot be burned!
-The foe's \xf000Ă\x0001\x0000 \xfffecannot be burned!
-\xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-The wild \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-The foe's \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-\xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-The wild \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-The foe's \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecannot be burned!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecannot be burned!
+\xf000Ă\x0001\x0000 is paralyzed\xfffey can't move!
+¡El \xf000ā\x0001\x0000 salvaje is paralyzed\xfffey can't move!
+¡El \xf000ā\x0001\x0000 enemigo is paralyzed\xfffey can't move!
+\xf000Ă\x0001\x0000 \xfffeis paralyzed y cannot move!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis paralyzed y cannot move!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis paralyzed y cannot move!
 \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-The wild \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-The foe's \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer paralyzed!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer paralyzed!
 \xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-The wild \xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-The foe's \xf000Ă\x0001\x0000 \xfffeis already paralyzed!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis already paralyzed!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis already paralyzed!
 \xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-The wild \xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-The foe's \xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be paralyzed!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecan't be paralyzed!
 \xf000Ă\x0001\x0000 \xfffebecame frozen!
-The wild \xf000Ă\x0001\x0000 \xfffebecame frozen!
-The foe's \xf000Ă\x0001\x0000 \xfffebecame frozen!
-\xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
-The wild \xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
-The foe's \xf000Ă\x0001\x0000 \xfffeis frozen solid and cannot move!
+¡El \xf000ā\x0001\x0000 salvaje \xfffebecame frozen!
+¡El \xf000ā\x0001\x0000 enemigo \xfffebecame frozen!
+\xf000Ă\x0001\x0000 \xfffeis frozen solid y cannot move!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis frozen solid y cannot move!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis frozen solid y cannot move!
 \xf000Ă\x0001\x0000 \xfffehas thawed out!
-The wild \xf000Ă\x0001\x0000 \xfffehas thawed out!
-The foe's \xf000Ă\x0001\x0000 \xfffehas thawed out!
+¡El \xf000ā\x0001\x0000 salvaje \xfffehas thawed out!
+¡El \xf000ā\x0001\x0000 enemigo \xfffehas thawed out!
 \xf000Ă\x0001\x0000 \xfffeis already frozen!
-The wild \xf000Ă\x0001\x0000 \xfffeis already frozen!
-The foe's \xf000Ă\x0001\x0000 \xfffeis already frozen!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis already frozen!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis already frozen!
 \xf000Ă\x0001\x0000 \xfffecan't be frozen!
-The wild \xf000Ă\x0001\x0000 \xfffecan't be frozen!
-The foe's \xf000Ă\x0001\x0000 \xfffecan't be frozen!
-\xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
-The wild \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
-The foe's \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be frozen!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecan't be frozen!
+\xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffey thawed out!
+¡El \xf000ā\x0001\x0000 salvaje used \xf000ć\x0001\x0001\xfffey thawed out!
+¡El \xf000ā\x0001\x0000 enemigo used \xf000ć\x0001\x0001\xfffey thawed out!
 \xf000Ă\x0001\x0000 \xfffefell asleep!
-The wild \xf000Ă\x0001\x0000 \xfffefell asleep!
-The foe's \xf000Ă\x0001\x0000 \xfffefell asleep!
+¡El \xf000ā\x0001\x0000 salvaje \xfffefell asleep!
+¡El \xf000ā\x0001\x0000 enemigo \xfffefell asleep!
 \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The wild \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The foe's \xf000Ă\x0001\x0000 \xfffeis sound asleep!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis sound asleep!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis sound asleep!
 \xf000Ă\x0001\x0000 \xfffewoke up!
-The wild \xf000Ă\x0001\x0000 \xfffewoke up!
-The foe's \xf000Ă\x0001\x0000 \xfffewoke up!
+¡El \xf000ā\x0001\x0000 salvaje \xfffewoke up!
+¡El \xf000ā\x0001\x0000 enemigo \xfffewoke up!
 \xf000Ă\x0001\x0000 \xfffeis already asleep!
-The wild \xf000Ă\x0001\x0000 \xfffeis already asleep!
-The foe's \xf000Ă\x0001\x0000 \xfffeis already asleep!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis already asleep!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis already asleep!
 \xf000Ă\x0001\x0000 \xfffecan't sleep!
-The wild \xf000Ă\x0001\x0000 \xfffecan't sleep!
-The foe's \xf000Ă\x0001\x0000 \xfffecan't sleep!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecan't sleep!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecan't sleep!
 \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
+¡El \xf000ā\x0001\x0000 salvaje \xfffestarted seeing a nightmare!
+¡El \xf000ā\x0001\x0000 enemigo \xfffestarted seeing a nightmare!
 \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
+¡El \xf000ā\x0001\x0000 salvaje \xfffestarted having a nightmare!
+¡El \xf000ā\x0001\x0000 enemigo \xfffestarted having a nightmare!
 \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-\xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The wild \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The foe's \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis having a nightmare!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis having a nightmare!
+\xf000Ă\x0001\x0000 y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
+¡El \xf000ā\x0001\x0000 salvaje y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
+¡El \xf000ā\x0001\x0000 enemigo y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-\xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-\xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-The wild \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-The foe's \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-\xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-\xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-\xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-The wild \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-The foe's \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-\xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-\xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-The wild \xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-The foe's \xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-\xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-The wild \xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-The foe's \xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-The wild \xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-The foe's \xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-\xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-The wild \xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-The foe's \xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-The wild \xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-The foe's \xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-\xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-\xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-The wild \xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-The foe's \xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-\xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-\xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-すなあらしが\xfffe\xf000Ă\x0001\x0000を　おそう！
-すなあらしが\xfffeThe wild \xf000Ă\x0001\x0000を　おそう！
-すなあらしが\xfffeThe foe's \xf000Ă\x0001\x0000を　おそう！
-あられが\xfffe\xf000Ă\x0001\x0000を　おそう！
-あられが\xfffeThe wild \xf000Ă\x0001\x0000を　おそう！
-あられが\xfffeThe foe's \xf000Ă\x0001\x0000を　おそう！
-\xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-\xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-The wild \xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-The foe's \xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-\xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
-The wild \xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
-The foe's \xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
+¡El \xf000ā\x0001\x0000 salvaje became infatuated \xfffewith \xf000Ă\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo became infatuated \xfffewith \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffe fell in love!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe fell in love!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe fell in love!
+\xf000Ă\x0001\x0000 \xfffeis no longer in love!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer in love!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer in love!
+\xf000Ă\x0001\x0000 \xfffeis back to normal!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis back to normal!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis back to normal!
+\xf000Ă\x0001\x0000 \xfffebecame confused!
+¡El \xf000ā\x0001\x0000 salvaje \xfffebecame confused!
+¡El \xf000ā\x0001\x0000 enemigo \xfffebecame confused!
+\xf000Ă\x0001\x0000 \xfffeis confused!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis confused!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis confused!
+\xf000Ă\x0001\x0000 \xfffeis no longer confused!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer confused!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer confused!
+\xf000Ă\x0001\x0000is \xfffealready confused!
+¡El \xf000ā\x0001\x0000 salvajeis \xfffealready confused!
+¡El \xf000ā\x0001\x0000 enemigois \xfffealready confused!
+\xf000Ă\x0001\x0000 \xfffecan't become confused!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecan't become confused!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecan't become confused!
+\xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis so tired it become confused!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis so tired it become confused!
+\xf000Ă\x0001\x0000 \xfffeis afraid y won't listen!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis afraid y won't listen!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis afraid y won't listen!
+\xf000Ă\x0001\x0000can't concentrate \xfffey won't listen!
+¡El \xf000ā\x0001\x0000 salvajecan't concentrate \xfffey won't listen!
+¡El \xf000ā\x0001\x0000 enemigocan't concentrate \xfffey won't listen!
+\xf000Ă\x0001\x0000's \xfffeillusion wore off!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeillusion wore off!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeillusion wore off!
+\xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvaje took damage \xfffefrom \xf000ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo took damage \xfffefrom \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvaje has broken free \xfffefrom \xf000ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo has broken free \xfffefrom \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffewas hit with recoil!
+¡El \xf000ā\x0001\x0000 salvaje \xfffewas hit with recoil!
+¡El \xf000ā\x0001\x0000 enemigo \xfffewas hit with recoil!
+\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
+¡El \xf000ā\x0001\x0000 salvaje's  \xfffe\xf000Ć\x0001\x0001 was traced!
+¡El \xf000ā\x0001\x0000 enemigo  \xfffe\xf000Ć\x0001\x0001 was traced!
+\xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeattack was a critical hit!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeattack was a critical hit!
+\xf000Ă\x0001\x0000's \xfffeHP was restored!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeHP was restored!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeHP was restored!
+\xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
+¡El \xf000ā\x0001\x0000 salvaje restored \xf000ć\x0001\x0001's PP!
+¡El \xf000ā\x0001\x0000 enemigo restored \xf000ć\x0001\x0001's PP!
+\xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
+¡El \xf000ā\x0001\x0000 salvaje \xffferestored all of their moves' PP!
+¡El \xf000ā\x0001\x0000 enemigo \xffferestored all of their moves' PP!
+\xf000Ă\x0001\x0000 is buffeted \xfffeby the systorm!
+¡El \xf000ā\x0001\x0000 salvaje is buffeted \xfffeby the systorm!
+The foe \xf000Ă\x0001\x0000 is buffeted \xfffeby the systorm!
+\xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
+¡El \xf000ā\x0001\x0000 salvajeis buffeted \xfffeby the hail!
+¡El \xf000ā\x0001\x0000 enemigois buffeted \xfffeby the hail!
+\xf000Ă\x0001\x0000 \xfffetook damage!
+¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage!
+¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage!
+\xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvaje transformed into \xfffe\xf000Ć\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo transformed into \xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis using a balloon to float!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis using a balloon to float!
+\xf000Ă\x0001\x0000's \xfffeballoon popped!
+¡El \xf000ā\x0001\x0000 salvaje's \xfffeballoon popped!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeballoon popped!
 \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-The wild \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeだっしゅつボタンで　もどっていく！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeだっしゅつボタンで　もどっていく！
 \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた！
-The wild \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-The wild \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた！
-The foe's \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
-The foe's \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた！
+\xf000Ă\x0001\x0000は　レッドカードを\xfffe¡El \xf000ā\x0001\x0001 salvajeに　たたきつけた！
+\xf000Ă\x0001\x0000は　レッドカードを\xfffe¡El \xf000ā\x0001\x0001 enemigoに　たたきつけた！
+¡El \xf000ā\x0001\x0000 salvajeは　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
+¡El \xf000ā\x0001\x0000 salvajeは　レッドカードを\xfffe¡El \xf000ā\x0001\x0001 salvajeに　たたきつけた！
+¡El \xf000ā\x0001\x0000 enemigoは　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
+¡El \xf000ā\x0001\x0000 enemigoは　レッドカードを\xfffe¡El \xf000ā\x0001\x0001 enemigoに　たたきつけた！
 \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeゴツゴツメットで　ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeゴツゴツメットで　ダメージを　うけた！
 \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-The wild \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeほのおの　いりょくが　あがった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeほのおの　いりょくが　あがった！
 \xf000Ă\x0001\x0000 \xfffeきずついた！
-The wild \xf000Ă\x0001\x0000 \xfffeきずついた！
-The foe's \xf000Ă\x0001\x0000 \xfffeきずついた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeきずついた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeきずついた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001　を　よみとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001　を　よみとった！
 \xf000Ă\x0001\x0000 \xfffeみぶるいした！
-The wild \xf000Ă\x0001\x0000 \xfffeみぶるいした！
-The foe's \xf000Ă\x0001\x0000 \xfffeみぶるいした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみぶるいした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみぶるいした！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
 \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-The wild \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-The foe's \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeかたやぶりだ！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeかたやぶりだ！
 \xf000Ă\x0001\x0000 \xfffeなまけている
-The wild \xf000Ă\x0001\x0000 \xfffeなまけている
-The foe's \xf000Ă\x0001\x0000 \xfffeなまけている
+¡El \xf000ā\x0001\x0000 salvaje \xfffeなまけている
+¡El \xf000ā\x0001\x0000 enemigo \xfffeなまけている
 \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきを　ひきよせた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきを　ひきよせた！
 \xf000Ă\x0001\x0000は　ねむらない！
-The wild \xf000Ă\x0001\x0000は　ねむらない！
-The foe's \xf000Ă\x0001\x0000は　ねむらない！
+¡El \xf000ā\x0001\x0000 salvajeは　ねむらない！
+¡El \xf000ā\x0001\x0000 enemigoは　ねむらない！
 \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-The wild \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-The foe's \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeきゅうばんで　はりついている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeきゅうばんで　はりついている！
 \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-The wild \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeヘドロえきを　すいとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeヘドロえきを　すいとった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　うばった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　うばった！
 \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-The wild \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-The foe's \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeとくせいが　ミイラになっちゃった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeとくせいが　ミイラになっちゃった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　はねかえした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　はねかえした！
 \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
-The wild \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
-The foe's \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみかたからの　こうげきを　うけない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみかたからの　こうげきを　うけない！
 \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-The wild \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-The foe's \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeどくを　あびせた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeどくを　あびせた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
 \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeイリュージョンが　とけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeイリュージョンが　とけた！
 \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきが　さいだいまで　あがった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきが　さいだいまで　あがった！
 \xf000Ă\x0001\x0000 \xfffeうなされている！
-The wild \xf000Ă\x0001\x0000 \xfffeうなされている！
-The foe's \xf000Ă\x0001\x0000 \xfffeうなされている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeうなされている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeうなされている！
 \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-The wild \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeプレッシャーを　はなっている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeプレッシャーを　はなっている！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
 \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-The wild \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-The foe's \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeどうぐを　うばえない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeどうぐを　うばえない！
 \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeちょうしが　あがらない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeちょうしが　あがらない！
 \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeちょうしを　とりもどした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeちょうしを　とりもどした！
 \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-The wild \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeはじける　オーラを　はなっている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeはじける　オーラを　はなっている！
 \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-The wild \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeもえさかる　オーラを　はなっている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeもえさかる　オーラを　はなっている！
 \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-The wild \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-The foe's \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeおたがいの　とくせいを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeおたがいの　とくせいを　いれかえた！
 \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-The wild \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこらえる　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこらえる　たいせいに　はいった！
 \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきを　こらえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきを　こらえた！
 \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-The wild \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-The foe's \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeまもりの　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeまもりの　たいせいに　はいった！
 \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-The wild \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-The foe's \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeまもりを　うちやぶった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeまもりを　うちやぶった！
 \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきから　みを　まもった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきから　みを　まもった！
 \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-The wild \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-The foe's \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeフェイントに　ひっかかった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeフェイントに　ひっかかった！
 \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-The wild \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeそらたかく　とびあがった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeそらたかく　とびあがった！
 \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-The wild \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeいかりのボルテージが　あがっていく！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeいかりのボルテージが　あがっていく！
 \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-The wild \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeすいちゅうに　みをひそめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeすいちゅうに　みをひそめた！
 \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-The wild \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-The foe's \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじめんに　もぐった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじめんに　もぐった！
 \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
-The wild \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
-The foe's \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
+¡El \xf000ā\x0001\x0000 salvaje すがたが\xfffeいっしゅんにして　きえた！
+¡El \xf000ā\x0001\x0000 enemigo すがたが\xfffeいっしゅんにして　きえた！
 \xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
-The wild \xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
-The foe's \xf000Ă\x0001\x0000 \xfffeたかく　とびはねた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeたかく　とびはねた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeたかく　とびはねた！
 \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
-The wild \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
-The foe's \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをまく！
+¡El \xf000ā\x0001\x0000 salvaje 　まわりで\xfffeくうきが　うずをまく！
+¡El \xf000ā\x0001\x0000 enemigo 　まわりで\xfffeくうきが　うずをまく！
 \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-The wild \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-The foe's \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
+¡El \xf000ā\x0001\x0000 salvajeを\xfffeはげしい　ひかりが　つつむ！
+¡El \xf000ā\x0001\x0000 enemigoを\xfffeはげしい　ひかりが　つつむ！
 \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-The wild \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-The foe's \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeひかりを　きゅうしゅうした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeひかりを　きゅうしゅうした！
 \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-The wild \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeくびを　ひっこめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeくびを　ひっこめた！
 \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-The wild \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeアンコールをうけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeアンコールをうけた！
 \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeアンコールじょうたいが　とけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeアンコールじょうたいが　とけた！
 \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeとくせいが　きかなくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeとくせいが　きかなくなった！
 \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeちょうはつに　のってしまった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeちょうはつに　のってしまった！
 \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-The wild \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-The foe's \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 salvajeは　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 enemigoは　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
 \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeちょうはつの　こうかが　とけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeちょうはつの　こうかが　とけた！
 \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
-The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeいちゃもんを　つけられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeいちゃもんを　つけられた！
 \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
 \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeいちゃもんの　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeいちゃもんの　こうかが　きれた！
 \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
-The wild \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeThe foe's わざを　ふういんした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeThe foe's わざを　ふういんした！
 \xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-The wild \xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-The foe's \xf000Ă\x0001\x0000 \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeふういんで\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　ふうじこめた！
 \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-The wild \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-The foe's \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 salvajeは　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 enemigoは　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
 \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeかなしばりが　とけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeかなしばりが　とけた！
 \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみずのリングを　まとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみずのリングを　まとった！
 \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみずのリングで　たいりょくを　かいふく！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみずのリングで　たいりょくを　かいふく！
 \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-The wild \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeたねを　うえつけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeたねを　うえつけた！
 やどりぎが　\xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
-やどりぎが　The wild \xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
-やどりぎが　The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくを　うばう！
+やどりぎが　¡El \xf000ā\x0001\x0000 salvaje \xfffeたいりょくを　うばう！
+やどりぎが　¡El \xf000ā\x0001\x0000 enemigo \xfffeたいりょくを　うばう！
 \xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
-The wild \xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
-The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくを　けずって　パワーぜんかい！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeたいりょくを　けずって　パワーぜんかい！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeたいりょくを　けずって　パワーぜんかい！
 \xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
-The wild \xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
-The foe's \xf000Ă\x0001\x0000 \xfffeしゅうちゅうりょくを　たかめている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeしゅうちゅうりょくを　たかめている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeしゅうちゅうりょくを　たかめている！
 \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　The wild \xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　The foe's \xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
-The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 salvajeの\xfffe\xf000Ć\x0001\x0002を　コピーした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 enemigoの\xfffe\xf000Ć\x0001\x0002を　コピーした！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeの\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoの\xf000븀\x0000\xf000Ć\x0001\x0002を　コピーした！
 \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-The wild \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-The foe's \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてを\xfffeみちづれに　しようとしている！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてを\xfffeみちづれに　しようとしている！
 \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-The wild \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-The foe's \xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてを\xfffeみちづれに　した！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてを\xfffeみちづれに　した！
 \xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-The wild \xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-The foe's \xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてに\xfffeおんねんを　かけようとしている！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてに\xfffeおんねんを　かけようとしている！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001は\xf000븀\x0000おんねんで　ＰＰが０になった！
 \xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-The wild \xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-The foe's \xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
+¡El \xf000ā\x0001\x0000 salvajeは　ねむって\xfffeげんきに　なった！
+¡El \xf000ā\x0001\x0000 enemigoは　ねむって\xfffeげんきに　なった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に　へんしんした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に　へんしんした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に　へんしんした！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に　へんしんした！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeに　へんしんした！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoに　へんしんした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001に　へんしんした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeに　へんしんした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001に　へんしんした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoに　へんしんした！
 \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
 \xf000Ă\x0001\x0000は　やせいの\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
 \xf000Ă\x0001\x0000は　あいての\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
-The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた！
-The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000ねらいを　さだめた！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeに\xf000븀\x0000ねらいを　さだめた！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000Ă\x0001\x0001!\xfffeねらいを　さだめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoに\xf000븀\x0000ねらいを　さだめた！
 \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
-The wild \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeでんじりょくで　うかびあがった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeでんじりょくで　うかびあがった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeでんじりょくで　うかびあがった！
 \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeでんじりょくが　なくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeでんじりょくが　なくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeでんじりょくが　なくなった！
 \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
-The wild \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじゅうでんを　はじめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじゅうでんを　はじめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじゅうでんを　はじめた！
 \xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
-The wild \xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
-The foe's \xf000Ă\x0001\x0000 \xfffeねむけを　さそった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeねむけを　さそった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeねむけを　さそった！
 \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
-The wild \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
-The foe's \xf000Ă\x0001\x0000 \xfffeちゅうもくの　まとになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeちゅうもくの　まとになった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeちゅうもくの　まとになった！
 \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-The wild \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-The foe's \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-The wild \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-The foe's \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき and とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-The wild \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
-The foe's \xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ and とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
+\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげき y とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてとじぶんの\xfffeこうげき y とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてとじぶんの\xfffeこうげき y とくこうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょ y とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvajeは　あいてとじぶんの\xfffeぼうぎょ y とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigoは　あいてとじぶんの\xfffeぼうぎょ y とくぼうの\xf000븀\x0000のうりょくへんかを　いれかえた！
 \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-The wild \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-The foe's \xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvajeは　おたがいの\xfffeどうぐを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigoは　おたがいの\xfffeどうぐを　いれかえた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　てにいれた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　おぼえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　おぼえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　おぼえた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　スケッチした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　スケッチした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　スケッチした！
 \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-The wild \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-The foe's \xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
+¡El \xf000ā\x0001\x0000 salvajeは　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
+¡El \xf000ā\x0001\x0000 enemigoは　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
 いやしのねがいが\xfffe\xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeThe wild \xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeThe foe's \xf000Ă\x0001\x0000に　とどいた！
+いやしのねがいが\xfffe¡El \xf000ā\x0001\x0000 salvajeに　とどいた！
+いやしのねがいが\xfffe¡El \xf000ā\x0001\x0000 enemigoに　とどいた！
 \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
-The wild \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeねがいごとが　かなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeねがいごとが　かなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeねがいごとが　かなった！
 \xf000Ă\x0001\x0000 \xfffeさわぎだした！
-The wild \xf000Ă\x0001\x0000 \xfffeさわぎだした！
-The foe's \xf000Ă\x0001\x0000 \xfffeさわぎだした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeさわぎだした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeさわぎだした！
 \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
-The wild \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeさわがしくて　めが　さめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeさわがしくて　めが　さめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeさわがしくて　めが　さめた！
 しかし　\xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
-しかし　The wild \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
-しかし　The foe's \xf000Ă\x0001\x0000 \xfffeさわがしくて　ねむれない！
+しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeさわがしくて　ねむれない！
+しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeさわがしくて　ねむれない！
 しかし　\xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
-しかし　The wild \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
-しかし　The foe's \xf000Ă\x0001\x0000 \xfffeさわいでいて　ねむれない！
+しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeさわいでいて　ねむれない！
+しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeさわいでいて　ねむれない！
 \xf000Ă\x0001\x0000 \xfffeさわいでいる！
-The wild \xf000Ă\x0001\x0000 \xfffeさわいでいる！
-The foe's \xf000Ă\x0001\x0000 \xfffeさわいでいる！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeさわいでいる！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeさわいでいる！
 \xf000Ă\x0001\x0000 \xfffeおとなしくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeおとなしくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeおとなしくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeおとなしくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeおとなしくなった！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
 \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-The wild \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-The foe's \xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 salvajeが\xfffeたくわえていた　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 enemigoが\xfffeたくわえていた　こうかが　きれた！
 \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえなくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeどうぐが　つかえなくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeどうぐが　つかえなくなった！
 \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
-The wild \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
-The foe's \xf000Ă\x0001\x0000 \xfffeどうぐが　つかえるようになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeどうぐが　つかえるようになった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeどうぐが　つかえるようになった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
 \xf000Ă\x0001\x0000は　ねを　はった！
-The wild \xf000Ă\x0001\x0000は　ねを　はった！
-The foe's \xf000Ă\x0001\x0000は　ねを　はった！
+¡El \xf000ā\x0001\x0000 salvajeは　ねを　はった！
+¡El \xf000ā\x0001\x0000 enemigoは　ねを　はった！
 \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-The wild \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-The foe's \xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
+¡El \xf000ā\x0001\x0000 salvajeは　ねから\xfffeようぶんを　すいとった！
+¡El \xf000ā\x0001\x0000 enemigoは　ねから\xfffeようぶんを　すいとった！
 \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-The wild \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-The foe's \xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
+¡El \xf000ā\x0001\x0000 salvajeは　ねをはって\xfffeうごかない！
+¡El \xf000ā\x0001\x0000 enemigoは　ねをはって\xfffeうごかない！
 \xf000Ă\x0001\x0000は　がまんしている
-The wild \xf000Ă\x0001\x0000は　がまんしている
-The foe's \xf000Ă\x0001\x0000は　がまんしている
+¡El \xf000ā\x0001\x0000 salvajeは　がまんしている
+¡El \xf000ā\x0001\x0000 enemigoは　がまんしている
 \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
-The wild \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeがまんが　とかれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeがまんが　とかれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeがまんが　とかれた！
 \xf000Ă\x0001\x0000 \xfffeThe foe's でかたを　うかがっている！
-The wild \xf000Ă\x0001\x0000 \xfffeThe foe's でかたを　うかがっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's でかたを　うかがっている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeThe foe's でかたを　うかがっている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeThe foe's でかたを　うかがっている！
 \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　The wild \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　The foe's \xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした！
-The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000わざを　よこどりした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 salvajeの\xfffeわざを　よこどりした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 enemigoの\xfffeわざを　よこどりした！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeの\xf000븀\x0000わざを　よこどりした！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoの\xf000븀\x0000わざを　よこどりした！
 \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
-The wild \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeマジックコートに　つつまれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeマジックコートに　つつまれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeマジックコートに　つつまれた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　はねかえした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　はねかえした！
 \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-The wild \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-The foe's \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeせんとうから　りだつした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeせんとうから　りだつした！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-\xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
+\xf000Ă\x0001\x0000 \xfffeこうげき y ぼうぎょを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげき y ぼうぎょを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげき y ぼうぎょを　いれかえた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　ふきとばした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　ふきとばした！
 \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
-The wild \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeみがわりが　あらわれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみがわりが　あらわれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみがわりが　あらわれた！
 しかし　\xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
-しかし　The wild \xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
-しかし　The foe's \xf000Ă\x0001\x0000 \xfffeみがわりは　すでに　でていた
+しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeみがわりは　すでに　でていた
+しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeみがわりは　すでに　でていた
 \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-The wild \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-The foe's \xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
+¡El \xf000ā\x0001\x0000 salvajeに　かわって\xfffeみがわりが　こうげきを　うけた！
+¡El \xf000ā\x0001\x0000 enemigoに　かわって\xfffeみがわりが　こうげきを　うけた！
 \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
-The wild \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
-The foe's \xf000Ă\x0001\x0000 \xfffeみがわりは　きえてしまった…
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみがわりは　きえてしまった…
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみがわりは　きえてしまった…
 \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
-The wild \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeワイドガードで　まもられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeワイドガードで　まもられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeワイドガードで　まもられた！
 \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
-The wild \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeファストガードで　まもられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeファストガードで　まもられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeファストガードで　まもられた！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeに\xf000븀\x0000しめつけられた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoに\xf000븀\x0000しめつけられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeに\xf000븀\x0000しめつけられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000しめつけられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoに\xf000븀\x0000しめつけられた！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeに\xf000븀\x0000まきつかれた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoに\xf000븀\x0000まきつかれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeに\xf000븀\x0000まきつかれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000まきつかれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoに\xf000븀\x0000まきつかれた！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeの　からに\xf000븀\x0000はさまれた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoの　からに\xf000븀\x0000はさまれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeの　からに\xf000븀\x0000はさまれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000はさまれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoの　からに\xf000븀\x0000はさまれた！
 \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
-The wild \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeうずの　なかに　とじこめられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeうずの　なかに　とじこめられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeうずの　なかに　とじこめられた！
 \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
-The wild \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeほのおの　うずに　とじこめられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeほのおの　うずに　とじこめられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeほのおの　うずに　とじこめられた！
 \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
-The wild \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeマグマの　うずに　とじこめられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeマグマの　うずに　とじこめられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeマグマの　うずに　とじこめられた！
 \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
-The wild \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeすなじごくに　とらわれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeすなじごくに　とらわれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeすなじごくに　とらわれた！
 \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
-The wild \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
-The foe's \xf000Ă\x0001\x0000 \xfffeだすことのできる　わざが　ない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeだすことのできる　わざが　ない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeだすことのできる　わざが　ない！
 \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-The wild \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-The foe's \xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
+¡El \xf000ā\x0001\x0000 salvajeは　\xfffeしんぴのベールに　まもられている！
+¡El \xf000ā\x0001\x0000 enemigoは　\xfffeしんぴのベールに　まもられている！
 \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-The wild \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-The foe's \xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
+¡El \xf000ā\x0001\x0000 salvajeは　\xfffeしろいきりに　まもられている！
+¡El \xf000ā\x0001\x0000 enemigoは　\xfffeしろいきりに　まもられている！
 \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
-The wild \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
-The foe's \xf000Ă\x0001\x0000 \xfffeせんとうに　ひきずりだされた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeせんとうに　ひきずりだされた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeせんとうに　ひきずりだされた！
 \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきの　はんどうで　うごけない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきの　はんどうで　うごけない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきの　はんどうで　うごけない！
 \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeまきびしの　ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeまきびしの　ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeまきびしの　ダメージを　うけた！
 \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
-The wild \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
-The foe's \xf000Ă\x0001\x0000 \xfffeとがった　いわが　くいこんだ！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeとがった　いわが　くいこんだ！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeとがった　いわが　くいこんだ！
 \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
-The wild \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじくうを　ゆがめた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじくうを　ゆがめた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじくうを　ゆがめた！
 \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-The wild \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-The foe's \xf000Ă\x0001\x0000 \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
 \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
-The wild \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeつめたい　ひかりに　つつまれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeつめたい　ひかりに　つつまれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeつめたい　ひかりに　つつまれた！
 \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
-The wild \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこごえる　くうきに　つつまれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeこごえる　くうきに　つつまれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeこごえる　くうきに　つつまれた！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　で　にげられない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ć\x0001\x0001　で　にげられない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ć\x0001\x0001　で　にげられない！
 \xf000Ă\x0001\x0000 \xfffeもう　にげられない！
-The wild \xf000Ă\x0001\x0000 \xfffeもう　にげられない！
-The foe's \xf000Ă\x0001\x0000 \xfffeもう　にげられない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeもう　にげられない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeもう　にげられない！
 \xf000Ă\x0001\x0000 \xfffeにげられない！
-The wild \xf000Ă\x0001\x0000 \xfffeにげられない！
-The foe's \xf000Ă\x0001\x0000 \xfffeにげられない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeにげられない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeにげられない！
 \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-The wild \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-The foe's \xf000Ă\x0001\x0000 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
+¡El \xf000ā\x0001\x0000 salvaje 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
+¡El \xf000ā\x0001\x0000 enemigo 　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
 \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
-The wild \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeかいふくどうさを　ふうじられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeかいふくどうさを　ふうじられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeかいふくどうさを　ふうじられた！
 \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
-The wild \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeかいふくふうじの　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeかいふくふうじの　こうかが　きれた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeかいふくふうじの　こうかが　きれた！
 \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
-The wild \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
-The foe's \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　できない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeかいふくふうじで　かいふく　できない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeかいふくふうじで　かいふく　できない！
 \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-The wild \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-The foe's \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 salvajeは　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 enemigoは　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
 しかし　\xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　The wild \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
+しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeたいりょくが　まんたんだ！
+しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeたいりょくが　まんたんだ！
 \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ď\x0001\x0001タイプに　なった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ď\x0001\x0001タイプに　なった！
 \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-The wild \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-The foe's \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
+¡El \xf000ā\x0001\x0000 salvajeから\xfffeたいりょくを　すいとった！
+¡El \xf000ā\x0001\x0000 enemigoから\xfffeたいりょくを　すいとった！
 いきおいあまって　\xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
-いきおいあまって　The wild \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
-いきおいあまって　The foe's \xf000Ă\x0001\x0000 \xfffeじめんに　ぶつかった！
+いきおいあまって　¡El \xf000ā\x0001\x0000 salvaje \xfffeじめんに　ぶつかった！
+いきおいあまって　¡El \xf000ā\x0001\x0000 enemigo \xfffeじめんに　ぶつかった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ć\x0001\x0001を　つかえない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ć\x0001\x0001を　つかえない！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffewoke up!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000Evasiveness rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose greatly!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense rose greatly!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack rose greatly!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Def rose greatly!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed rose greatly!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy greatly rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness greatly rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeDefense sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Attack sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSp. Defense sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeSpeed sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAccuracy sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeEvasiveness sharply rose!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000はりきりだした！
 \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-The wild \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-The foe's \xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
+¡El \xf000ā\x0001\x0000 salvajeは　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
+¡El \xf000ā\x0001\x0000 enemigoは　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
 \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
-The wild \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
-The foe's \xf000Ă\x0001\x0000 \xfffeいのちが　すこし　けずられた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeいのちが　すこし　けずられた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeいのちが　すこし　けずられた！
 …しかし　\xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
-…しかし　The wild \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
-…しかし　The foe's \xf000Ă\x0001\x0000 \xfffeこのばに　いなかった！
+…しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeこのばに　いなかった！
+…しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeこのばに　いなかった！
 …しかし　\xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
-…しかし　The wild \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
-…しかし　The foe's \xf000Ă\x0001\x0000 \xfffeつかえる　どうぐを　もっていなかった！
+…しかし　¡El \xf000ā\x0001\x0000 salvaje \xfffeつかえる　どうぐを　もっていなかった！
+…しかし　¡El \xf000ā\x0001\x0000 enemigo \xfffeつかえる　どうぐを　もっていなかった！
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000あたりやすくなった！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeの　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoの　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeの　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoの　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000ĉ\x0001\x0001で\xfffetook damage!
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000ĉ\x0001\x0001で\xfffetook damage!
 \xf000Ă\x0001\x0000 \xfffeはりきっている！
-The wild \xf000Ă\x0001\x0000 \xfffeはりきっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeはりきっている！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeはりきっている！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeはりきっている！
 \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-The wild \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-The foe's \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 salvajeは \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
+¡El \xf000ā\x0001\x0000 enemigoは \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
 \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-The wild \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-The foe's \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
+¡El \xf000ā\x0001\x0000 salvajeは \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
+¡El \xf000ā\x0001\x0000 enemigoは \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　The wild \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　The foe's \xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 salvajeの\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 enemigoの\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeの\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoの\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた！
-The wild \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-The wild \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeのろわれている！
-The wild \xf000Ă\x0001\x0000 \xfffeのろわれている！
-The foe's \xf000Ă\x0001\x0000 \xfffeのろわれている！
-\xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-The wild \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-The foe's \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-\xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-The wild \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+\xf000Ă\x0001\x0000 \xfffecut its own HP y laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffecut its own HP y laid a curse on\xf000븀\x0000¡El \xf000ā\x0001\x0001 salvaje!
+\xf000Ă\x0001\x0000 \xfffecut its own HP y laid a curse on\xf000븀\x0000¡El \xf000ā\x0001\x0001 enemigo!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecut its own HP y laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+¡El \xf000ā\x0001\x0000 salvaje \xfffecut its own HP y laid a curse on\xf000븀\x0000¡El \xf000ā\x0001\x0001 salvaje!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecut its own HP y laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+¡El \xf000ā\x0001\x0000 enemigo \xfffecut its own HP y laid a curse on\xf000븀\x0000¡El \xf000ā\x0001\x0001 enemigo!
+\xf000Ă\x0001\x0000 \xfffeis afflicted by the curse!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeis afflicted by the curse!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeis afflicted by the curse!
+\xf000Ă\x0001\x0000 \xfffeforesaw an attack!
+¡El \xf000ā\x0001\x0000 salvaje \xfffeforesaw an attack!
+¡El \xf000ā\x0001\x0000 enemigo \xfffeforesaw an attack!
+\xf000Ă\x0001\x0000 \xfffechose Doom Desire as its destiny!
+¡El \xf000ā\x0001\x0000 salvaje \xfffechose Doom Desire as its destiny!
+¡El \xf000ā\x0001\x0000 enemigo \xfffechose Doom Desire as its destiny!
+\xf000Ă\x0001\x0000 \xfffetook the\xf000ć\x0001\x0001attack!
+¡El \xf000ā\x0001\x0000 salvaje \xfffetook the\xf000ć\x0001\x0001attack!
+¡El \xf000ā\x0001\x0000 enemigo \xfffetook the\xf000ć\x0001\x0001attack!
 \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
 \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-The wild \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-The foe's \xf000Ă\x0001\x0000 \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001 and \xf000븀\x0000おなじタイプになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじゅうりょくが　つよくて\xf000븀\x0000\xf000ć\x0001\x0001が　だせない！
+\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001 y \xf000븀\x0000おなじタイプになった！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvaje y \xf000븀\x0000おなじタイプになった！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigo y \xf000븀\x0000おなじタイプになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001 y \xf000븀\x0000おなじタイプになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvaje y \xf000븀\x0000おなじタイプになった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001 y \xf000븀\x0000おなじタイプになった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigo y \xf000븀\x0000おなじタイプになった！
 \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
-The wild \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
-The foe's \xf000Ă\x0001\x0000 \xfffeおたがいのパワーを　シェアした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeおたがいのパワーを　シェアした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeおたがいのパワーを　シェアした！
 \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
-The wild \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
-The foe's \xf000Ă\x0001\x0000 \xfffeおたがいのガードを　シェアした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeおたがいのガードを　シェアした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeおたがいのガードを　シェアした！
 \xf000Ă\x0001\x0000 \xfffeみがるになった！
-The wild \xf000Ă\x0001\x0000 \xfffeみがるになった！
-The foe's \xf000Ă\x0001\x0000 \xfffeみがるになった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeみがるになった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeみがるになった！
 \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-The wild \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-The foe's \xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
+¡El \xf000ā\x0001\x0000 salvajeにも\xfffeひばなが　ふりかかった！
+¡El \xf000ā\x0001\x0000 enemigoにも\xfffeひばなが　ふりかかった！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
 \xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001から\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoから\xf000븀\x0000\xf000ĉ\x0001\x0002を　うけとった！
 \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　The wild \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　The foe's \xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
-The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 salvajeを\xfffeじょうくうに　つれさった！
+\xf000Ă\x0001\x0000は　¡El \xf000ā\x0001\x0001 enemigoを\xfffeじょうくうに　つれさった！
+¡El \xf000ā\x0001\x0000 salvajeは　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeを\xf000븀\x0000じょうくうに　つれさった！
+¡El \xf000ā\x0001\x0000 enemigoは　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoを\xf000븀\x0000じょうくうに　つれさった！
 \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeフリーフォールから　かいほうされた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeフリーフォールから　かいほうされた！
 \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-The wild \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-The foe's \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeうちおとされて　じめんに　おちた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeうちおとされて　じめんに　おちた！
 \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-The wild \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-The foe's \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeじゅんばんを　さきおくりした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeじゅんばんを　さきおくりした！
 \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-The wild \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-The foe's \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeおことばに　あまえることにした！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeおことばに　あまえることにした！
 \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-The wild \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-The foe's \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
+¡El \xf000ā\x0001\x0000 salvajeと\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
+¡El \xf000ā\x0001\x0000 enemigoと\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
 \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-The wild \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-The foe's \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
+¡El \xf000ā\x0001\x0000 salvajeを\xfffeちゅうに　うかせた！
+¡El \xf000ā\x0001\x0000 enemigoを\xfffeちゅうに　うかせた！
 \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeテレキネシスから　かいほうされた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeテレキネシスから　かいほうされた！
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を　まっている…
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を　まっている…
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を　まっている…
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 salvajeを　まっている…
+\xf000Ă\x0001\x0000 \xfffe¡El \xf000ā\x0001\x0001 enemigoを　まっている…
+¡El \xf000ā\x0001\x0000 salvaje \xfffe\xf000Ă\x0001\x0001を　まっている…
+¡El \xf000ā\x0001\x0000 salvaje \xfffe¡El \xf000ā\x0001\x0001 salvajeを　まっている…
+¡El \xf000ā\x0001\x0000 enemigo \xfffe\xf000Ă\x0001\x0001を　まっている…
+¡El \xf000ā\x0001\x0000 enemigo \xfffe¡El \xf000ā\x0001\x0001 enemigoを　まっている…
 \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-The wild \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-The foe's \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
+¡El \xf000ā\x0001\x0000 salvajeと\xfffeいきが　ピッタリだ！
+¡El \xf000ā\x0001\x0000 enemigoと\xfffeいきが　ピッタリだ！
 \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-The wild \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
+¡El \xf000ā\x0001\x0000 salvaje \xfffeひのうみの　ダメージをうけた！
+¡El \xf000ā\x0001\x0000 enemigo \xfffeひのうみの　ダメージをうけた！
