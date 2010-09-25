@@ -1,134 +1,134 @@
-Welcome to Mystery Gift!
-Please choose how you want to\xfffereceive your gift.
+Welcome to Mystery regalo!
+Por favor elige how you want to\xffferecibe tu regalo.
 DS Wireless Communications will\xfffebe launched.
-Searching for a gift.\xfffePlease wait...
-Receive this gift?
-Search for a different gift?
-Your request has been sent.\xfffePlease wait a moment...
-Receiving your gift.\xfffeDon’t turn off the power.
-The gift has been received!\xf000븁\x0000Please pick up your gift from the\xfffedeliveryman in any Poké Center.
-This gift is being shared by\xfffeanother person.\xf000븁\x0000You may accept this gift, but you\xfffewill not be able to distribute it\xf000븀\x0000to your friends.\xf000븁\x0000Will you accept this gift?
+Searching for a regalo.\xfffePor favor wait...
+Recibir este regalo?
+Search for a different regalo?
+Your request has been sent.\xfffePor favor wait a moment...
+Receiving your regalo.\xfffeDon’t turn off El power.
+El regalo has been Recibird!\xf000븁\x0000Por favor pick up your regalo de El\xfffedeliveryman in any Poké Center.
+este regalo is being Compartird by\xfffeanoElr person.\xf000븁\x0000You may accept este regalo, but you\xfffewill not be able to distribute it\xf000븀\x0000to your friends.\xf000븁\x0000Will you accept este regalo?
 ふしぎなカードが\xfffe１まいも　ありません
-Pokémon Ranger\xfffeMANAPHY Egg Transfer
-Recieve Gift
+Pokémon Ranger\xfffeTransferencia del huevo de Manaphy
+Recibir regalo
 Check Card
-Exit
-Get from a Friend
-Get via Nintendo WFC
-Cancel
-Yes
+Salir
+Get de a Friend
+Conseguir via Nintendo WFC
+Cancelarar
+Sí
 No
-Get via Wireless
-Our deliveryman is overloaded with\xfffegifts for you!\xf000븁\x0000Please see him at any Poké Mart and\xfffepick up some of your gifts.
-You’ve already received this gift.\xfffeYou may not get another one.
-There were no gifts to be found.
+Conseguir via Wireless
+Our deliveryman is overloaded with\xffferegalos for you!\xf000븁\x0000Por favor see him at any Poké Mart and\xfffepick up some of your regalos.
+You’ve already Recibird este regalo.\xfffeYou may not get anoElr one.
+Elre were no regalos to be found.
 Your request was turned down.
-You are out of room for\xfffeWonder Cards.\xf000븁\x0000You may not accept another gift.
-There was a problem with\xfffereceiving the gift.\xf000븁\x0000Press the A Button to return to\xfffethe title screen.
-A gift has been found, but it cannot\xfffebe received using this version.\xf000븀\x0000Press the A Button to return to\xfffethe menu.
-The person sharing has\xfffebeen disconnected...
+You are out of room for\xfffeWonder Cards.\xf000븁\x0000You may not accept anoElr regalo.
+Elre was a problem with\xfffereceiving El regalo.\xf000븁\x0000Press El A Button to return to\xfffeEl title screen.
+A regalo has been found, but it cannot\xfffebe Recibird using este version.\xf000븀\x0000Press El A Button to return to\xfffeEl menu.
+El person sharing has\xfffebeen disconnected...
 ポケモンレンジャーと\xfffeせつぞく　しています
-Press the A Button.
+Press El A Button.
 レポートを　かいています\xfffeしばらく　おまち　ください
 タマゴを　てんそうちゅう　です
 タマゴの　じゅしんに\xfffeしっぱい　しました
-Please touch Pokémon Ranger’s\xfffegame screen.
+Por favor touch Pokémon Ranger’s\xfffegame screen.
 ポケモンレンジャーの\xfffeじゅんび　まち　です
-Wonder Card\xfffeWhat would you like to do?
-Please pick up your gift from the\xfffedeliveryman in any Poké Mart.
-You have already received\xfffethis gift before.
-This card does not have\xfffea gift attached.
-Date received
-This gift can be distributed　\xf000Ĵ\x0001\x0000 time(s).
+Wonder Card\xfffeWhat Deseas do?
+Por favor pick up your regalo de El\xfffedeliveryman in any Poké Mart.
+You have already Recibird\xfffeeste regalo before.
+este card does not have\xfffea regalo attached.
+Date Recibird
+este regalo can be distributed　\xf000Ĵ\x0001\x0000 time(s).
 Info
-Share
+Compartir
 Trash
-Exit
-Would you like to share this gift?
-Yes
+Salir
+Deseas compartir este regalo?
+Sí
 No
 \xf000ĵ\x0001\x0000／\xf000ĳ\x0001\x0001／\xf000ĳ\x0001\x0002
 この　カードを　どうしますか？
-This gift can be shared with as\xfffemany friends as you like.
+Este regalo can be compartido con los\xfffeamigos que quieras.
 Pal Distribution Registration
 \xf000ă\x0001\x0000
 ID No. \xf000Ķ\x0001\x0000
-Current\xfffeentries
+Entradas\xfffeactuales
 \xf000\xff00\x0001\x0001\xf000Ĳ\x0001\x0000\xf000\xff00\x0001\x0000／４
-Send
-Cancel
-Gift distribution under way...\xfffeDon’t turn off the power.
-Your gift distribution\xfffewas successful.
-Throw this card away?
-You haven’t received your gift yet.\xfffeDo you want to discard this card?
-Discarding...\xfffeDon’t turn off the power.
-Yes
+Enviar
+Cancelar
+regalo distribution under way...\xfffeDon’t turn off El power.
+Your regalo distribution\xfffewas successful.
+Throw este card away?
+You haven’t Recibird your regalo yet.\xfffeDo you want to discard este card?
+Discarding...\xfffeDon’t turn off El power.
+Sí
 No
 \xf000\xff00\x0001\x0003\xf000ă\x0001\x0000\xf000\xff00\x0001\x0002　\xf000\xff00\x0001\x0000ＩＤＮｏ．\xf000Ķ\x0001\x0001
 ＩＤＮｏ．\xf000Ķ\x0001\x0001
 Application No.:
 \xf000ĵ\x0001\x0000ー\xf000ĵ\x0001\x0001
-Receiving a Recruitment Message\xfffefrom a Pokémon Ranger.
-Awaiting transfer from Pokémon\xfffeRanger.
-Receiving the MANAPHY Egg...\xfffeDon’t turn off the power.
-The transfer has been completed.\xfffeA Button: title screen.
-The connection with Pokémon Ranger\xfffehas been lost... Press the A Button.
+Receiving a Recruitment Message\xfffede a Pokémon Ranger.
+Awaiting transfer de Pokémon\xfffeRanger.
+Receiving El MANAPHY Egg...\xfffeDon’t turn off El power.
+El transfer has been completed.\xfffeA Button: title screen.
+El connection with Pokémon Ranger\xfffehas been lost... Press El A Button.
 フィオレちほう　から　おくられてきた\xfffeマナフィのタマゴ　だ！
 マナフィのタマゴ
 DS Wireless Communications\xfffewill be launched.
 Connect to Nintendo Wi-Fi Connection?
-The Lock Capsule is held in the\xfffestrictest safekeeping.
-The Lock Capsule was delivered safely!
-カードアルバムを　みる
-やめる
+Welcome to Mystery regalo!
+Recibir Wonder Card
+View Wonder Cards
+Quit
 ふしぎな　おくりものを　うけとるため\xfffeつうしんを　かいしします\xf000븀\x0000\xfffeよろしいですか？
-はい
-いいえ
-おくりものの　うけとりかたを\xfffeえらんで　ください
-ワイヤレスで　うけとる
-Ｗｉ－Ｆｉで　うけとる
-せきがいせんで　うけとる
-もどる
+Sí
+No
+Por favor elige how you want\xfffeto recibe tu regalo.
+Wireless
+Nintendo WFC
+InfraRed
+Atras
 おくりものの　うけとりかたを\xfffeえらんで　ください
 いらないカードを　１まい　えらんで\xfffeすててください
 カードを　すてないと\xfffeおくりものを　もらえません\xf000븀\x0000\xfffeよろしいですか？
-はい
-いいえ
+Sí
+No
 ＤＳワイヤレスつうしん　を\xfffeかいし　します
-はい
-いいえ
+Sí
+No
 Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　しますか？
-はい
-いいえ
+Sí
+No
 せきがいせん　つうしんを\xfffeかいし　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-はい
-いいえ
+Sí
+No
 おくりものを　さがしています\xfffeしばらく　おまちください……
 うけとる　おくりものを\xfffeえらんで　ください
 おくりものの　うけとりを\xfffeやめますか？
-はい
-いいえ
+Sí
+No
 この　おくりものを\xfffeうけとりますか？
-はい
-いいえ
+Sí
+No
 おくりものを　うけとっています\xfffeでんげんを　きらないで　ください……
 おくりものを　うけとりました！\xf000븁\x0000\xfffeポケモンセンターにいる\xfffeはいたついん　から　うけとってね！\xf000븁\x0000
 アルバムを　ほぞん　しています……\xfffeでんげんを　きらないで　ください
-What to do with this card?
+What to do with este card?
 Switch
 Delete
-Back
+Atras
 おくりものを　もらっていないので\xfffeすてることは　できません！\xf000븁\x0000\xfffeポケモンセンターに　いる\xfffeはいたついんから　もらってください\xf000븁\x0000
 カードを　すてました\xf000븁\x0000
 Select where to switch to.
-Are you sure you want to\xfffedelete this card?
-Yes
+Are you sure you want to\xfffedelete este card?
+Sí
 No
-Where do you want Info about?
-ふしぎな　おくりもの　について
-カードアルバム　について
-アルバムが　いっぱいのとき
-Back
+What do you want Info about?
+About Mystery regalo
+About El card album
+When El album is full
+Atras
 More Information
 ふしぎな　おくりもの　では\xfffeつうしんを　つかって\xf000븀\x0000\xfffeすてきな　おくりものが　うけとれます\xf000븁\x0000\xfffeおくりものを　うけとれたら\xfffeぼうけんを　かいし　して\xf000븀\x0000\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから　もらってください\xf000븁\x0000
 ふしぎな　おくりものを　うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが　かざられます\xf000븁\x0000\xfffeふしぎなカードを　みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとったか　どうかの\xf000븀\x0000\xfffeかくにんが　できます\xf000븁\x0000\xfffeまだ　もらっていない　おくりものは\xfffeうけとりに　いきましょう\xf000븁\x0000\xfffeなお　アルバムに　ほぞん　できる\xfffeかずには　かぎりが　あります\xf000븁\x0000\xfffeぼうけんを　はじめていて\xfffeポケモンレポートが　あるときは\xf000븀\x0000\xfffe１２まい　まで　ほぞん　できます\xf000븁\x0000\xfffeぼうけんを　はじめるまえで\xfffeポケモンレポートが　ないときは\xf000븀\x0000\xfffe３まい　まで　ほぞん　できます\xf000븁\x0000\xfffeカードが　いっぱいになると　あらたに\xfffeおくりものを　うけとれなく　なるので\xf000븀\x0000\xfffeアルバムを　せいり　してください\xf000븁\x0000
@@ -140,14 +140,14 @@ More Information
 おくりもの　が\xfffeみつかりません　でした\xf000븁\x0000
 もうしこみ　が　きょひ　されました\xf000븁\x0000
 ふしぎなカードが　いっぱい　です！\xf000븁\x0000\xfffeおくりものを\xfffeうけとることが　できません！\xf000븁\x0000\xfffeふしぎなカードを\xfffeせいり　しますか？
-はい
-いいえ
+Sí
+No
 おくりものを　うけとるのに\xfffeしっぱい　しました\xf000븁\x0000
 おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
 ゲームを　はじめて　いないので\xfffeこれ　いじょうは　うけとれません\xf000븀\x0000\xfffeぼうけんを　スタートしましょう！\xf000븁\x0000
 カードアルバム
 A: Select
-Back
+Atras
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 ふしぎなカード
@@ -155,515 +155,515 @@ Back
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 Ａ：おわる
 　
-ポケモンえいがを　みにきてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１０を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１１を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１２を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１３を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１４を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１５を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１６を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１７を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１８を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１９を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０２０を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンセンターに　きてくれて\xfffeありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンタートウキョーに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターオーサカに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターフクオカに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターナゴヤに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターサッポロに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターヨコハマに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンワールドチャンピオンシップスに\xfffeさんかしてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-イベントに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンの　イベントに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンを　あそんでくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おみせに　きてくれて　ありがとう！ \xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-バトルたいかいに　さんかしてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ゲームイベントに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ゲームイベントからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-チャレンジひろばからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　アニメを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ダウンロード　してくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンレンジャーを　あそんでくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
+ポケモンえいがを　みにきてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１０を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１１を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１２を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１３を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１４を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１５を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１６を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１７を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１８を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０１９を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンえいが２０２０を　\xfffeみにThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンセンターに　きてくれて\xfffeThankyou!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンタートウキョーに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンターオーサカに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンターフクオカに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンターナゴヤに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンターサッポロに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンセンターヨコハマに　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+ポケモンワールドチャンピオンシップスに\xfffeさんかしてくれて　Thankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１３に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１４に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１５に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１６に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１７に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１８に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０１９に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｗｏｒｌｄｓ２０２０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+イベントに　きてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンを　あそんでくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+おみせに　Thanks for coming! \xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ゲームイベントからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンだいすきクラブからの\xfffeプレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンサンデーからの\xfffeプレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+チャレンジひろばからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルチャレンジからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+トレーナーズコートからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルツアーからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ダウンロード　してくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
 レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
 レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドを　\xfffeあそんでくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ＰＤＷを　あそんでくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ＰＤＷからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンイベント２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパークに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパークからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケパーク２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンえいがを\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１０を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１１を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１２を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１３を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１４を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１５を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１６を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１７を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１８を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１９を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０２０を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターに\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンタートウキョーに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターオーサカに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターフクオカに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターナゴヤに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターサッポロに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターヨコハマに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓに　きてくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１０に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１１に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１２に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１３に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１４に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１５に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１６に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１７に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１８に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１９に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０２０に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-イベントに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンの　イベントに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンを　あそんでくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-おみせに　きてくれて　ありがとう！ \xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルたいかいに　さんかしてくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ゲームイベントに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ゲームイベントからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンサンデーを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-チャレンジひろばからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルチャレンジからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-トレーナーズコートからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルツアーからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンの　アニメを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ダウンロード　してくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンレンジャーを　あそんでくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
+ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ポケモンドリームワールドからの　\xfffeプレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ＰＤＷからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ポケモンイベント２０１０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１１に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１２に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１３に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１４に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１５に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１６に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１７に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１８に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０１９に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンイベント２０２０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタに　きてくれて　\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１１に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１２に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１３に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１４に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１５に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１６に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１７に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１８に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０１９に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケモンフェスタ２０２０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパークに　きてくれて　\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパークからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケパーク２０１０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１１に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１２に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１３に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１４に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１５に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１６に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１７に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１８に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０１９に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+ポケパーク２０２０に　\xfffeThanks for coming!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.\xfffe
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+Por favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.
+ポケモンえいがを\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１０を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１１を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１２を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１３を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１４を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１５を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１６を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１７を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１８を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０１９を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンえいが２０２０を　\xfffeみにThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターに\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンタートウキョーに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターオーサカに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターフクオカに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターナゴヤに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターサッポロに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンセンターヨコハマに　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　Thankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１３に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１４に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１５に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１６に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１７に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１８に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０１９に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｗｏｒｌｄｓ２０２０に　\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+イベントに　きてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンを　あそんでくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+おみせに　Thanks for coming! \xfffe¡El repartidor tiene un\xffferegalo para darte!
+バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ゲームイベントからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンだいすきクラブからの\xfffeプレゼント！\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンサンデーからの\xfffeプレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+チャレンジひろばからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+バトルチャレンジからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+トレーナーズコートからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+バトルツアーからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ダウンロード　してくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
 レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　はいたついんが\xfffeおわたししました！
 レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドを　\xfffeあそんでくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＰＤＷを　あそんでくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＰＤＷからの　プレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパークに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパークからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケパーク２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
+ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンドリームワールドからの　\xfffeプレゼント！\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ＰＤＷからの　プレゼント！\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１１に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１２に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１３に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１４に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１５に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１６に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１７に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１８に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０１９に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンイベント２０２０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタに　きてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１１に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１２に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１３に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１４に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１５に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１６に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１７に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１８に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０１９に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケモンフェスタ２０２０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパークに　きてくれて\xfffeThankyou!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパークからの　プレゼント！\xfffePor favor Recibir your regalo\xfffede el repartidor\xfffein El Pokemon Center.！\xfffe
+ポケパーク２０１０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１１に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１２に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１３に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１４に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１５に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１６に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１７に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１８に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０１９に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+ポケパーク２０２０に\xfffeThanks for coming!\xfffe¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
+¡El repartidor tiene un\xffferegalo para darte!
