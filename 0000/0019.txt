@@ -7,7 +7,7 @@
 \xf000Ȃ\x0001\x0000
 ／
 \xf000ȁ\x0001\x0000
-ちゅうだん　しています！\xfffeしばらく　おまちください！
+ちゅうだん　しています！\xfffe¡Por favor espere!
 プレイデータが　こわれて　いるので\xfffeさいせいを　ちゅうだん　します！
-スキップ　しています！\xfffeしばらく　おまちください
-いちじ　ていしちゅう……\xfffeしばらく　おまちください！
+スキップ　しています！\xfffe¡Por favor espere!
+Pausado…\xfffe¡Por favor espere!
