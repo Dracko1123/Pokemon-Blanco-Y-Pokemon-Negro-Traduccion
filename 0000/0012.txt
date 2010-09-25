@@ -9,6 +9,7 @@ Caja 2
 Caja 3
 Caja 4
 Caja 5
+Caja 6
 Caja 7
 Caja 8
 Caja 9
