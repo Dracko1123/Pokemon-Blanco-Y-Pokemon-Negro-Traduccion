@@ -1,1680 +1,1680 @@
 (!)
 (!)
 (!)
-¡\xf000ā\x0001\x0000 usó Destructor!
+¡El \xf000ā\x0001\x0000 usó Destructor!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDestructor!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDestructor!
-¡\xf000ā\x0001\x0000 usó Golpe Karate!
+¡El \xf000ā\x0001\x0000 usó Golpe Karate!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Karate!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Karate!
-¡\xf000ā\x0001\x0000 usó Doblebofetón!
+¡El \xf000ā\x0001\x0000 usó Doblebofetón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoblebofetón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoblebofetón!
-¡\xf000ā\x0001\x0000 usó Puño Cometa!
+¡El \xf000ā\x0001\x0000 usó Puño Cometa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Cometa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Cometa!
-¡\xf000ā\x0001\x0000 usó Megapuño!
+¡El \xf000ā\x0001\x0000 usó Megapuño!
 ¡El \xf000ā\x0001\x0000 salvaje usó Megapuño!
 ¡El \xf000ā\x0001\x0000 enemigo usó Megapuño!
-¡\xf000ā\x0001\x0000 usó Día de Pago!
+¡El \xf000ā\x0001\x0000 usó Día de Pago!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDía de Pago!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDía de Pago!
-¡\xf000ā\x0001\x0000 usó Puño Fuego!"
+¡El \xf000ā\x0001\x0000 usó Puño Fuego!"
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Fuego!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Fuego!
-¡\xf000ā\x0001\x0000 usó Puño Hielo!
+¡El \xf000ā\x0001\x0000 usó Puño Hielo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Hielo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Hielo!
-¡\xf000ā\x0001\x0000 usó Puño Trueno!
+¡El \xf000ā\x0001\x0000 usó Puño Trueno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Trueno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Trueno!
-¡\xf000ā\x0001\x0000 usó Arañazo!
+¡El \xf000ā\x0001\x0000 usó Arañazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó Arañazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeArañazo!
-¡\xf000ā\x0001\x0000 usó Agarre!
+¡El \xf000ā\x0001\x0000 usó Agarre!
 ¡El \xf000ā\x0001\x0000 salvaje usó Agarre!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAgarre!
-¡\xf000ā\x0001\x0000 usó Guillotina!
+¡El \xf000ā\x0001\x0000 usó Guillotina!
 ¡El \xf000ā\x0001\x0000 salvaje usó Guillotina!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGuillotina!
-¡\xf000ā\x0001\x0000 usó V. Cortante!
+¡El \xf000ā\x0001\x0000 usó V. Cortante!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeV. Cortante!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeV. Cortante!
-¡\xf000ā\x0001\x0000 usó Danza Espada!
+¡El \xf000ā\x0001\x0000 usó Danza Espada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Espada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Espada!
-¡\xf000ā\x0001\x0000 usó Corte!
+¡El \xf000ā\x0001\x0000 usó Corte!
 ¡El \xf000ā\x0001\x0000 salvaje usó Corte!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCorte!
-¡\xf000ā\x0001\x0000 usó Tornado!
+¡El \xf000ā\x0001\x0000 usó Tornado!
 ¡El \xf000ā\x0001\x0000 salvaje usó Tornado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTornado!
-¡\xf000ā\x0001\x0000 usó Ataque Ala!
+¡El \xf000ā\x0001\x0000 usó Ataque Ala!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtaque Ala!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtaque Ala!
-¡\xf000ā\x0001\x0000 usó Remolino!
+¡El \xf000ā\x0001\x0000 usó Remolino!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRemolino!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRemolino!
-¡\xf000ā\x0001\x0000 usó Vuelo!
+¡El \xf000ā\x0001\x0000 usó Vuelo!
 ¡El \xf000ā\x0001\x0000 salvaje usó Vuelo!
 ¡El \xf000ā\x0001\x0000 enemigo usó Vuelo!
-¡\xf000ā\x0001\x0000 usó Atadura!
+¡El \xf000ā\x0001\x0000 usó Atadura!
 ¡El \xf000ā\x0001\x0000 salvaje usó Atadura!
 ¡El \xf000ā\x0001\x0000 enemigo usó Atadura!
-¡\xf000ā\x0001\x0000 usó Portazo!
+¡El \xf000ā\x0001\x0000 usó Portazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó Portazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó Portazo!
-¡\xf000ā\x0001\x0000 usó Látigo Cepa!
+¡El \xf000ā\x0001\x0000 usó Látigo Cepa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLátigo Cepa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLátigo Cepa!
-¡\xf000ā\x0001\x0000 usó Pisotón!
+¡El \xf000ā\x0001\x0000 usó Pisotón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePisotón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePisotón!
-¡\xf000ā\x0001\x0000 usó Doble Patada!
+¡El \xf000ā\x0001\x0000 usó Doble Patada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble Patada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble Patada!
-¡\xf000ā\x0001\x0000 usó Megapatada!
+¡El \xf000ā\x0001\x0000 usó Megapatada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMegapatada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMegapatada!
-¡\xf000ā\x0001\x0000 usó Patada Salto!
+¡El \xf000ā\x0001\x0000 usó Patada Salto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePatada Salto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePatada Salto!
-¡\xf000ā\x0001\x0000 usó Patada Giro!
+¡El \xf000ā\x0001\x0000 usó Patada Giro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePatada Giro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePatada Giro!
-¡\xf000ā\x0001\x0000 usó Ataque Arena!
+¡El \xf000ā\x0001\x0000 usó Ataque Arena!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtaque Arena!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtaque Arena!
-¡\xf000ā\x0001\x0000 usó Golpe Cabeza!
+¡El \xf000ā\x0001\x0000 usó Golpe Cabeza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Cabeza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Cabeza!
-¡\xf000ā\x0001\x0000 usó Cornada!
+¡El \xf000ā\x0001\x0000 usó Cornada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCornada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCornada!
-¡\xf000ā\x0001\x0000 usó Ataque Furia!
+¡El \xf000ā\x0001\x0000 usó Ataque Furia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtaque Furia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtaque Furia!
-¡\xf000ā\x0001\x0000 usó Perforador!
+¡El \xf000ā\x0001\x0000 usó Perforador!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePerforador!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePerforador!
-¡\xf000ā\x0001\x0000 usó Placaje!
+¡El \xf000ā\x0001\x0000 usó Placaje!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePlacaje!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePlacaje!
-¡\xf000ā\x0001\x0000 usó Golpe Cuerpo!
+¡El \xf000ā\x0001\x0000 usó Golpe Cuerpo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Cuerpo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Cuerpo!
-¡\xf000ā\x0001\x0000 usó Repetición!
+¡El \xf000ā\x0001\x0000 usó Repetición!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRepetición!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRepetición!
-¡\xf000ā\x0001\x0000 usó Derribo!
+¡El \xf000ā\x0001\x0000 usó Derribo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDerribo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDerribo!
-¡\xf000ā\x0001\x0000 usó Golpe!
+¡El \xf000ā\x0001\x0000 usó Golpe!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe!
-¡\xf000ā\x0001\x0000 usó Doble Filo!
+¡El \xf000ā\x0001\x0000 usó Doble Filo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble Filo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble Filo!
-¡\xf000ā\x0001\x0000 usó Látigo!
+¡El \xf000ā\x0001\x0000 usó Látigo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLátigo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLátigo!
-¡\xf000ā\x0001\x0000 usó Picotazo Ven!"
+¡El \xf000ā\x0001\x0000 usó Picotazo Ven!"
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePicotazo Ven!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePicotazo Ven!
-¡\xf000ā\x0001\x0000 usó Dobleataque!
+¡El \xf000ā\x0001\x0000 usó Dobleataque!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDobleataque!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDobleataque!
-¡\xf000ā\x0001\x0000 usó Pin Misil!
+¡El \xf000ā\x0001\x0000 usó Pin Misil!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePin Misil!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePin Misil!
-¡\xf000ā\x0001\x0000 usó Malicioso!"
+¡El \xf000ā\x0001\x0000 usó Malicioso!"
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMalicioso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMalicioso!
-¡\xf000ā\x0001\x0000 usó Mordisco!
+¡El \xf000ā\x0001\x0000 usó Mordisco!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMordisco!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMordisco!
-¡\xf000ā\x0001\x0000 usó Gruñido!
+¡El \xf000ā\x0001\x0000 usó Gruñido!
 ¡El \xf000ā\x0001\x0000 salvaje usó Gruñido!
 ¡El \xf000ā\x0001\x0000 enemigo usó Gruñido!
-¡\xf000ā\x0001\x0000 usó Rugido!
+¡El \xf000ā\x0001\x0000 usó Rugido!
 ¡El \xf000ā\x0001\x0000 salvaje usó Rugido!
 ¡El \xf000ā\x0001\x0000 enemigo usó Rugido!
-¡\xf000ā\x0001\x0000 usó Canto!
+¡El \xf000ā\x0001\x0000 usó Canto!
 ¡El \xf000ā\x0001\x0000 salvaje usó Canto!
 ¡El \xf000ā\x0001\x0000 enemigo usó Canto!
-¡\xf000ā\x0001\x0000 usó Supersónico!
+¡El \xf000ā\x0001\x0000 usó Supersónico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSupersónico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSupersónico!
-¡\xf000ā\x0001\x0000 usó Bomba Sónica!
+¡El \xf000ā\x0001\x0000 usó Bomba Sónica!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Sónica!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Sónica!
-¡\xf000ā\x0001\x0000 usó Anulación!
+¡El \xf000ā\x0001\x0000 usó Anulación!
 ¡El \xf000ā\x0001\x0000 salvaje usó Anulación!
 ¡El \xf000ā\x0001\x0000 enemigo usó Anulación!
-¡\xf000ā\x0001\x0000 usó Ácido!
+¡El \xf000ā\x0001\x0000 usó Ácido!
 ¡El \xf000ā\x0001\x0000 salvaje usó Ácido!
 ¡El \xf000ā\x0001\x0000 enemigo usó Ácido!
-¡\xf000ā\x0001\x0000 usó Ascuas!
+¡El \xf000ā\x0001\x0000 usó Ascuas!
 ¡El \xf000ā\x0001\x0000 salvaje usó Ascuas!
 ¡El \xf000ā\x0001\x0000 enemigo usó Ascuas!
-¡\xf000ā\x0001\x0000 usó Lanzallamas!
+¡El \xf000ā\x0001\x0000 usó Lanzallamas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLanzallamas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLanzallamas!
-¡\xf000ā\x0001\x0000 usó Neblina!
+¡El \xf000ā\x0001\x0000 usó Neblina!
 ¡El \xf000ā\x0001\x0000 salvaje usó Neblina!
 ¡El \xf000ā\x0001\x0000 enemigo usó Neblina!
-¡\xf000ā\x0001\x0000 usó Pistola Agua!
+¡El \xf000ā\x0001\x0000 usó Pistola Agua!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePistola Agua!
 ¡El \xf000ā\x0001\x0000 enemigo usó\nPistola Agua!
-¡\xf000ā\x0001\x0000 usó Hidrobomba!
+¡El \xf000ā\x0001\x0000 usó Hidrobomba!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHidrobomba!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHidrobomba!
-¡\xf000ā\x0001\x0000 usó Surf!
+¡El \xf000ā\x0001\x0000 usó Surf!
 ¡El \xf000ā\x0001\x0000 salvaje usó Surf!
 ¡El \xf000ā\x0001\x0000 enemigo usó Surf!
-¡\xf000ā\x0001\x0000 usó Rayo Hielo!
+¡El \xf000ā\x0001\x0000 usó Rayo Hielo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Hielo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Hielo!
-¡\xf000ā\x0001\x0000 usó Ventisca!
+¡El \xf000ā\x0001\x0000 usó Ventisca!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVentisca!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVentisca!
-¡\xf000ā\x0001\x0000 usó Psicorrayo!
+¡El \xf000ā\x0001\x0000 usó Psicorrayo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsicorrayo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsicorrayo!
-¡\xf000ā\x0001\x0000 usó Rayo Burbuja!
+¡El \xf000ā\x0001\x0000 usó Rayo Burbuja!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Burbuja!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Burbuja!
-¡\xf000ā\x0001\x0000 usó Rayo Aurora!
+¡El \xf000ā\x0001\x0000 usó Rayo Aurora!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Aurora!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Aurora!
-¡\xf000ā\x0001\x0000 usó Hiperrayo!
+¡El \xf000ā\x0001\x0000 usó Hiperrayo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHiperrayo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHiperrayo!
-¡\xf000ā\x0001\x0000 usó Picotazo!
+¡El \xf000ā\x0001\x0000 usó Picotazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePicotazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePicotazo!
-¡\xf000ā\x0001\x0000 usó Pico Taladro!
+¡El \xf000ā\x0001\x0000 usó Pico Taladro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePico Taladro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePico Taladro!
-¡\xf000ā\x0001\x0000 usó Sumisión!
+¡El \xf000ā\x0001\x0000 usó Sumisión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSumisión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSumisión!
-¡\xf000ā\x0001\x0000 usó Patada Baja!
+¡El \xf000ā\x0001\x0000 usó Patada Baja!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePatada Baja!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePatada Baja!
-¡\xf000ā\x0001\x0000 usó Contador!
+¡El \xf000ā\x0001\x0000 usó Contador!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeContador!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeContador!
-¡\xf000ā\x0001\x0000 usó Mov. Sísmico!
+¡El \xf000ā\x0001\x0000 usó Mov. Sísmico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMov. Sísmico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMov. Sísmico!
-¡\xf000ā\x0001\x0000 usó Fuerza!
+¡El \xf000ā\x0001\x0000 usó Fuerza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuerza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuerza!
-¡\xf000ā\x0001\x0000 usó Absorber!
+¡El \xf000ā\x0001\x0000 usó Absorber!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAbsorber!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAbsorber!
-¡\xf000ā\x0001\x0000 usó Megaagotar!
+¡El \xf000ā\x0001\x0000 usó Megaagotar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMegaagotar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMegaagotar!
-¡\xf000ā\x0001\x0000 usó Drenadoras!
+¡El \xf000ā\x0001\x0000 usó Drenadoras!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDrenadoras!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDrenadoras!
-¡\xf000ā\x0001\x0000 usó Desarrollo!
+¡El \xf000ā\x0001\x0000 usó Desarrollo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDesarrollo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDesarrollo!
-¡\xf000ā\x0001\x0000 usó Hoja Afilada!
+¡El \xf000ā\x0001\x0000 usó Hoja Afilada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHoja Afilada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHoja Afilada!
-¡\xf000ā\x0001\x0000 usó Rayo Solar!
+¡El \xf000ā\x0001\x0000 usó Rayo Solar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Solar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Solar!
-¡\xf000ā\x0001\x0000 usó Polvo Veneno!
+¡El \xf000ā\x0001\x0000 usó Polvo Veneno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePolvo Veneno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePolvo Veneno!
-¡\xf000ā\x0001\x0000 usó Paralizador!
+¡El \xf000ā\x0001\x0000 usó Paralizador!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeParalizador!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeParalizador!
-¡\xf000ā\x0001\x0000 usó Somnífero!
+¡El \xf000ā\x0001\x0000 usó Somnífero!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSomnífero!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSomnífero!
-¡\xf000ā\x0001\x0000 usó Danza Pétalo!
+¡El \xf000ā\x0001\x0000 usó Danza Pétalo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Pétalo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Pétalo!
-¡\xf000ā\x0001\x0000 usó Disp. Demora!
+¡El \xf000ā\x0001\x0000 usó Disp. Demora!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDisp. Demora!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDisp. Demora!
-¡\xf000ā\x0001\x0000 usó Furia Dragón!
+¡El \xf000ā\x0001\x0000 usó Furia Dragón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuria Dragón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuria Dragón!
-¡\xf000ā\x0001\x0000 usó Giro Fuego!
+¡El \xf000ā\x0001\x0000 usó Giro Fuego!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGiro Fuego!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGiro Fuego!
-¡\xf000ā\x0001\x0000 usó Impactrueno!
+¡El \xf000ā\x0001\x0000 usó Impactrueno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeImpactrueno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeImpactrueno!
-¡\xf000ā\x0001\x0000 usó Rayo!
+¡El \xf000ā\x0001\x0000 usó Rayo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo!
-¡\xf000ā\x0001\x0000 usó Onda Trueno!
+¡El \xf000ā\x0001\x0000 usó Onda Trueno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOnda Trueno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOnda Trueno!
-¡\xf000ā\x0001\x0000 usó Trueno!
+¡El \xf000ā\x0001\x0000 usó Trueno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTrueno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTrueno!
-¡\xf000ā\x0001\x0000 usó Lanzarrocas!
+¡El \xf000ā\x0001\x0000 usó Lanzarrocas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLanzarrocas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLanzarrocas!
-¡\xf000ā\x0001\x0000 usó Terremoto!
+¡El \xf000ā\x0001\x0000 usó Terremoto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTerremoto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTerremoto!
-¡\xf000ā\x0001\x0000 usó Fisura!
+¡El \xf000ā\x0001\x0000 usó Fisura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFisura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFisura!
-¡\xf000ā\x0001\x0000 usó Excavar!
+¡El \xf000ā\x0001\x0000 usó Excavar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeExcavar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeExcavar!
-¡\xf000ā\x0001\x0000 usó Tóxico!
+¡El \xf000ā\x0001\x0000 usó Tóxico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTóxico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTóxico!
-¡\xf000ā\x0001\x0000 usó Confusión!
+¡El \xf000ā\x0001\x0000 usó Confusión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeConfusión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeConfusión!
-¡\xf000ā\x0001\x0000 usó Psíquico!
+¡El \xf000ā\x0001\x0000 usó Psíquico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsíquico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsíquico!
-¡\xf000ā\x0001\x0000 usó Hipnosis!
+¡El \xf000ā\x0001\x0000 usó Hipnosis!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHipnosis!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHipnosis!
-¡\xf000ā\x0001\x0000 usó Meditación!
+¡El \xf000ā\x0001\x0000 usó Meditación!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMeditación!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMeditación!
-¡\xf000ā\x0001\x0000 usó Agilidad!
+¡El \xf000ā\x0001\x0000 usó Agilidad!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAgilidad!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAgilidad!
-¡\xf000ā\x0001\x0000 usó At. Rápido!
+¡El \xf000ā\x0001\x0000 usó At. Rápido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAt. Rápido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAt. Rápido!
-¡\xf000ā\x0001\x0000 usó Furia!
+¡El \xf000ā\x0001\x0000 usó Furia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuria!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuria!
-¡\xf000ā\x0001\x0000 usó Teletransp!
+¡El \xf000ā\x0001\x0000 usó Teletransp!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTeletransp!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTeletransp!
-¡\xf000ā\x0001\x0000 usó Tinieblas!
+¡El \xf000ā\x0001\x0000 usó Tinieblas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTinieblas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTinieblas!
-¡\xf000ā\x0001\x0000 usó Mimético!
+¡El \xf000ā\x0001\x0000 usó Mimético!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMimético!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMimético!
-¡\xf000ā\x0001\x0000 usó Chirrido!
+¡El \xf000ā\x0001\x0000 usó Chirrido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChirrido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChirrido!
-¡\xf000ā\x0001\x0000 usó Doble Equipo!
+¡El \xf000ā\x0001\x0000 usó Doble Equipo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble Equipo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble Equipo!
-¡\xf000ā\x0001\x0000 usó Recuperación!
+¡El \xf000ā\x0001\x0000 usó Recuperación!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRecuperación!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRecuperación!
-¡\xf000ā\x0001\x0000 usó Fortaleza!
+¡El \xf000ā\x0001\x0000 usó Fortaleza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFortaleza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFortaleza!
-¡\xf000ā\x0001\x0000 usó Reducción!
+¡El \xf000ā\x0001\x0000 usó Reducción!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeReducción!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeReducción!
-¡\xf000ā\x0001\x0000 usó Pantallahumo!
+¡El \xf000ā\x0001\x0000 usó Pantallahumo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePantallahumo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePantallahumo!
-¡\xf000ā\x0001\x0000 usó Rayo Confuso!
+¡El \xf000ā\x0001\x0000 usó Rayo Confuso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Confuso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Confuso!
-¡\xf000ā\x0001\x0000 usó Refugio!
+¡El \xf000ā\x0001\x0000 usó Refugio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRefugio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRefugio!
-¡\xf000ā\x0001\x0000 usó Rizo Defensa!
+¡El \xf000ā\x0001\x0000 usó Rizo Defensa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRizo Defensa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRizo Defensa!
-¡\xf000ā\x0001\x0000 usó Barrera!
+¡El \xf000ā\x0001\x0000 usó Barrera!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBarrera!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBarrera!
-¡\xf000ā\x0001\x0000 usó Pantalla Luz!
+¡El \xf000ā\x0001\x0000 usó Pantalla Luz!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePantalla Luz!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePantalla Luz!
-¡\xf000ā\x0001\x0000 usó Niebla!
+¡El \xf000ā\x0001\x0000 usó Niebla!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeNiebla!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeNiebla!
-¡\xf000ā\x0001\x0000 usó Reflejo!
+¡El \xf000ā\x0001\x0000 usó Reflejo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeReflejo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeReflejo!
-¡\xf000ā\x0001\x0000 usó Foco Energía!
+¡El \xf000ā\x0001\x0000 usó Foco Energía!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFoco Energía!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFoco Energía!
-¡\xf000ā\x0001\x0000 usó Venganza!
+¡El \xf000ā\x0001\x0000 usó Venganza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVenganza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVenganza!
-¡\xf000ā\x0001\x0000 usó Metrónomo!
+¡El \xf000ā\x0001\x0000 usó Metrónomo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMetrónomo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMetrónomo!
-¡\xf000ā\x0001\x0000 usó Mov. Espejo!
+¡El \xf000ā\x0001\x0000 usó Mov. Espejo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMov. Espejo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMov. Espejo!
-¡\xf000ā\x0001\x0000 usó Autodestruc!
+¡El \xf000ā\x0001\x0000 usó Autodestruc!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAutodestruc!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAutodestruc!
-¡\xf000ā\x0001\x0000 usó Bomba Huevo!
+¡El \xf000ā\x0001\x0000 usó Bomba Huevo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Huevo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Huevo!
-¡\xf000ā\x0001\x0000 usó Lengüetazo!
+¡El \xf000ā\x0001\x0000 usó Lengüetazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLengüetazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLengüetazo!
-¡\xf000ā\x0001\x0000 usó Polución!
+¡El \xf000ā\x0001\x0000 usó Polución!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePolución!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePolución!
-¡\xf000ā\x0001\x0000 usó Residuos!
+¡El \xf000ā\x0001\x0000 usó Residuos!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeResiduos!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeResiduos!
-¡\xf000ā\x0001\x0000 usó Hueso Palo!
+¡El \xf000ā\x0001\x0000 usó Hueso Palo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHueso Palo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHueso Palo!
-¡\xf000ā\x0001\x0000 usó Llamarada!
+¡El \xf000ā\x0001\x0000 usó Llamarada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLlamarada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLlamarada!
-¡\xf000ā\x0001\x0000 usó Cascada!
+¡El \xf000ā\x0001\x0000 usó Cascada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCascada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCascada!
-¡\xf000ā\x0001\x0000 usó Tenaza!
+¡El \xf000ā\x0001\x0000 usó Tenaza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTenaza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTenaza!
-¡\xf000ā\x0001\x0000 usó Rapidez!
+¡El \xf000ā\x0001\x0000 usó Rapidez!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRapidez!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRapidez!
-¡\xf000ā\x0001\x0000 usó Cabezazo!
+¡El \xf000ā\x0001\x0000 usó Cabezazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCabezazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCabezazo!
-¡\xf000ā\x0001\x0000 usó Clavo Cañón!
+¡El \xf000ā\x0001\x0000 usó Clavo Cañón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeClavo Cañón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeClavo Cañón!
-¡\xf000ā\x0001\x0000 usó Restricción!
+¡El \xf000ā\x0001\x0000 usó Restricción!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRestricción!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRestricción!
-¡\xf000ā\x0001\x0000 usó Amnesia!
+¡El \xf000ā\x0001\x0000 usó Amnesia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAmnesia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAmnesia!
-¡\xf000ā\x0001\x0000 usó Kinético!
+¡El \xf000ā\x0001\x0000 usó Kinético!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeKinético!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeKinético!
-¡\xf000ā\x0001\x0000 usó Amortiguador!
+¡El \xf000ā\x0001\x0000 usó Amortiguador!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAmortiguador!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAmortiguador!
-¡\xf000ā\x0001\x0000 usó Pat. S. Alta!
+¡El \xf000ā\x0001\x0000 usó Pat. S. Alta!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePat. S. Alta!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePat. S. Alta!
-¡\xf000ā\x0001\x0000 usó Deslumbrar!
+¡El \xf000ā\x0001\x0000 usó Deslumbrar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDeslumbrar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDeslumbrar!
-¡\xf000ā\x0001\x0000 usó Come Sueños!
+¡El \xf000ā\x0001\x0000 usó Come Sueños!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCome Sueños!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCome Sueños!
-¡\xf000ā\x0001\x0000 usó Gas Venenoso!
+¡El \xf000ā\x0001\x0000 usó Gas Venenoso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGas Venenoso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGas Venenoso!
-¡\xf000ā\x0001\x0000 usó Presa!
+¡El \xf000ā\x0001\x0000 usó Presa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePresa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePresa!
-¡\xf000ā\x0001\x0000 usó Chupavidas!
+¡El \xf000ā\x0001\x0000 usó Chupavidas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChupavidas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChupavidas!
-¡\xf000ā\x0001\x0000 usó Beso Amoroso!
+¡El \xf000ā\x0001\x0000 usó Beso Amoroso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBeso Amoroso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBeso Amoroso!
-¡\xf000ā\x0001\x0000 usó Ataque Aéreo!
+¡El \xf000ā\x0001\x0000 usó Ataque Aéreo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtaque Aéreo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtaque Aéreo!
-¡\xf000ā\x0001\x0000 usó Transform!
+¡El \xf000ā\x0001\x0000 usó Transform!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTransform!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTransform!
-¡\xf000ā\x0001\x0000 usó Burbuja!
+¡El \xf000ā\x0001\x0000 usó Burbuja!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBurbuja!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBurbuja!
-¡\xf000ā\x0001\x0000 usó Puño Mareo!
+¡El \xf000ā\x0001\x0000 usó Puño Mareo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Mareo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Mareo!
-¡\xf000ā\x0001\x0000 usó Espora!
+¡El \xf000ā\x0001\x0000 usó Espora!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEspora!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEspora!
-¡\xf000ā\x0001\x0000 usó Destello!
+¡El \xf000ā\x0001\x0000 usó Destello!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDestello!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDestello!
-¡\xf000ā\x0001\x0000 usó Psicoonda!
+¡El \xf000ā\x0001\x0000 usó Psicoonda!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsicoonda!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsicoonda!
-¡\xf000ā\x0001\x0000 usó Salpicadura!
+¡El \xf000ā\x0001\x0000 usó Salpicadura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSalpicadura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSalpicadura!
-¡\xf000ā\x0001\x0000 usó Armad. Ácida!
+¡El \xf000ā\x0001\x0000 usó Armad. Ácida!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeArmad. Ácida!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeArmad. Ácida!
-¡\xf000ā\x0001\x0000 usó Martillazo!
+¡El \xf000ā\x0001\x0000 usó Martillazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMartillazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMartillazo!
-¡\xf000ā\x0001\x0000 usó Explosión!
+¡El \xf000ā\x0001\x0000 usó Explosión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeExplosión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeExplosión!
-¡\xf000ā\x0001\x0000 usó Golpes Furia!
+¡El \xf000ā\x0001\x0000 usó Golpes Furia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpes Furia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpes Furia!
-¡\xf000ā\x0001\x0000 usó Huesomerang!
+¡El \xf000ā\x0001\x0000 usó Huesomerang!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHuesomerang!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHuesomerang!
-¡\xf000ā\x0001\x0000 usó Descanso!
+¡El \xf000ā\x0001\x0000 usó Descanso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDescanso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDescanso!
-¡\xf000ā\x0001\x0000 usó Avalancha!
+¡El \xf000ā\x0001\x0000 usó Avalancha!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAvalancha!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAvalancha!
-¡\xf000ā\x0001\x0000 usó Hip.Colmillo!
+¡El \xf000ā\x0001\x0000 usó Hip.Colmillo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHip.Colmillo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHip.Colmillo!
-¡\xf000ā\x0001\x0000 usó Afilar!
+¡El \xf000ā\x0001\x0000 usó Afilar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAfilar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAfilar!
-¡\xf000ā\x0001\x0000 usó Conversión!
+¡El \xf000ā\x0001\x0000 usó Conversión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeConversión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeConversión!
-¡\xf000ā\x0001\x0000 usó Triataque!
+¡El \xf000ā\x0001\x0000 usó Triataque!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTriataque!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTriataque!
-¡\xf000ā\x0001\x0000 usó Superdiente!
+¡El \xf000ā\x0001\x0000 usó Superdiente!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSuperdiente!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSuperdiente!
-¡\xf000ā\x0001\x0000 usó Cuchillada!
+¡El \xf000ā\x0001\x0000 usó Cuchillada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCuchillada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCuchillada!
-¡\xf000ā\x0001\x0000 usó Sustituto!
+¡El \xf000ā\x0001\x0000 usó Sustituto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSustituto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSustituto!
-¡\xf000ā\x0001\x0000 usó Combate!
+¡El \xf000ā\x0001\x0000 usó Combate!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCombate!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCombate!
-¡\xf000ā\x0001\x0000 usó Esquema!
+¡El \xf000ā\x0001\x0000 usó Esquema!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEsquema!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEsquema!
-¡\xf000ā\x0001\x0000 usó Triplepatada!
+¡El \xf000ā\x0001\x0000 usó Triplepatada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTriplepatada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTriplepatada!
-¡\xf000ā\x0001\x0000 usó Ladrón!
+¡El \xf000ā\x0001\x0000 usó Ladrón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLadrón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLadrón!
-¡\xf000ā\x0001\x0000 usó Telaraña!
+¡El \xf000ā\x0001\x0000 usó Telaraña!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTelaraña!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTelaraña!
-¡\xf000ā\x0001\x0000 usó Telépata!
+¡El \xf000ā\x0001\x0000 usó Telépata!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTelépata!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTelépata!
-¡\xf000ā\x0001\x0000 usó Pesadilla!
+¡El \xf000ā\x0001\x0000 usó Pesadilla!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePesadilla!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePesadilla!
-¡\xf000ā\x0001\x0000 usó Rueda Fuego!
+¡El \xf000ā\x0001\x0000 usó Rueda Fuego!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRueda Fuego!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRueda Fuego!
-¡\xf000ā\x0001\x0000 usó Ronquido!
+¡El \xf000ā\x0001\x0000 usó Ronquido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRonquido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRonquido!
-¡\xf000ā\x0001\x0000 usó Maldición!
+¡El \xf000ā\x0001\x0000 usó Maldición!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMaldición!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMaldición!
-¡\xf000ā\x0001\x0000 usó Azote!
+¡El \xf000ā\x0001\x0000 usó Azote!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAzote!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAzote!
-¡\xf000ā\x0001\x0000 usó Conversión2!
+¡El \xf000ā\x0001\x0000 usó Conversión2!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeConversión2!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeConversión2!
-¡\xf000ā\x0001\x0000 usó Aerochorro!
+¡El \xf000ā\x0001\x0000 usó Aerochorro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAerochorro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAerochorro!
-¡\xf000ā\x0001\x0000 usó Esporagodón!
+¡El \xf000ā\x0001\x0000 usó Esporagodón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEsporagodón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEsporagodón!
-¡\xf000ā\x0001\x0000 usó Inversión!
+¡El \xf000ā\x0001\x0000 usó Inversión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeInversión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeInversión!
-¡\xf000ā\x0001\x0000 usó Rencor!
+¡El \xf000ā\x0001\x0000 usó Rencor!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRencor!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRencor!
-¡\xf000ā\x0001\x0000 usó Nieve Polvo!
+¡El \xf000ā\x0001\x0000 usó Nieve Polvo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeNieve Polvo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeNieve Polvo!
-¡\xf000ā\x0001\x0000 usó Protección!
+¡El \xf000ā\x0001\x0000 usó Protección!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeProtección!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeProtección!
-¡\xf000ā\x0001\x0000 usó Ultrapuño!
+¡El \xf000ā\x0001\x0000 usó Ultrapuño!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeUltrapuño!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeUltrapuño!
-¡\xf000ā\x0001\x0000 usó Cara Susto!
+¡El \xf000ā\x0001\x0000 usó Cara Susto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCara Susto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCara Susto!
-¡\xf000ā\x0001\x0000 usó Finta!
+¡El \xf000ā\x0001\x0000 usó Finta!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFinta!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFinta!
-¡\xf000ā\x0001\x0000 usó Beso Dulce!
+¡El \xf000ā\x0001\x0000 usó Beso Dulce!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBeso Dulce!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBeso Dulce!
-¡\xf000ā\x0001\x0000 usó Tambor!
+¡El \xf000ā\x0001\x0000 usó Tambor!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTambor!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTambor!
-¡\xf000ā\x0001\x0000 usó Bomba Lodo!
+¡El \xf000ā\x0001\x0000 usó Bomba Lodo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Lodo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Lodo!
-¡\xf000ā\x0001\x0000 usó Bofetón Lodo!
+¡El \xf000ā\x0001\x0000 usó Bofetón Lodo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBofetón Lodo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBofetón Lodo!
-¡\xf000ā\x0001\x0000 usó Pulpocañón!
+¡El \xf000ā\x0001\x0000 usó Pulpocañón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePulpocañón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePulpocañón!
-¡\xf000ā\x0001\x0000 usó Púas!
+¡El \xf000ā\x0001\x0000 usó Púas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePúas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePúas!
-¡\xf000ā\x0001\x0000 usó Electrocañón!
+¡El \xf000ā\x0001\x0000 usó Electrocañón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeElectrocañón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeElectrocañón!
-¡\xf000ā\x0001\x0000 usó Profecía!
+¡El \xf000ā\x0001\x0000 usó Profecía!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeProfecía!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeProfecía!
-¡\xf000ā\x0001\x0000 usó Mismodestino!
+¡El \xf000ā\x0001\x0000 usó Mismodestino!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMismodestino!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMismodestino!
-¡\xf000ā\x0001\x0000 usó Canto Mortal!
+¡El \xf000ā\x0001\x0000 usó Canto Mortal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCanto Mortal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCanto Mortal!
-¡\xf000ā\x0001\x0000 usó Viento Hielo!
+¡El \xf000ā\x0001\x0000 usó Viento Hielo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeViento Hielo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeViento Hielo!
-¡\xf000ā\x0001\x0000 usó Detección!
+¡El \xf000ā\x0001\x0000 usó Detección!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDetección!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDetección!
-¡\xf000ā\x0001\x0000 usó Ataque Óseo!
+¡El \xf000ā\x0001\x0000 usó Ataque Óseo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtaque Óseo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtaque Óseo!
-¡\xf000ā\x0001\x0000 usó Fijar Blanco!
+¡El \xf000ā\x0001\x0000 usó Fijar Blanco!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFijar Blanco!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFijar Blanco!
-¡\xf000ā\x0001\x0000 usó Enfado!
+¡El \xf000ā\x0001\x0000 usó Enfado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEnfado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEnfado!
-¡\xf000ā\x0001\x0000 usó Torm. Arena!
+¡El \xf000ā\x0001\x0000 usó Torm. Arena!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTorm. Arena!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTorm. Arena!
-¡\xf000ā\x0001\x0000 usó Gigadrenado!
+¡El \xf000ā\x0001\x0000 usó Gigadrenado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGigadrenado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGigadrenado!
-¡\xf000ā\x0001\x0000 usó Aguante!
+¡El \xf000ā\x0001\x0000 usó Aguante!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAguante!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAguante!
-¡\xf000ā\x0001\x0000 usó Encanto!
+¡El \xf000ā\x0001\x0000 usó Encanto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEncanto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEncanto!
-¡\xf000ā\x0001\x0000 usó Desenrollar!
+¡El \xf000ā\x0001\x0000 usó Desenrollar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDesenrollar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDesenrollar!
-¡\xf000ā\x0001\x0000 usó Falsotortazo!
+¡El \xf000ā\x0001\x0000 usó Falsotortazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFalsotortazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFalsotortazo!
-¡\xf000ā\x0001\x0000 usó Contoneo!
+¡El \xf000ā\x0001\x0000 usó Contoneo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeContoneo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeContoneo!
-¡\xf000ā\x0001\x0000 usó Batido!
+¡El \xf000ā\x0001\x0000 usó Batido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBatido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBatido!
-¡\xf000ā\x0001\x0000 usó Chispa!
+¡El \xf000ā\x0001\x0000 usó Chispa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChispa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChispa!
-¡\xf000ā\x0001\x0000 usó Cortefuria!
+¡El \xf000ā\x0001\x0000 usó Cortefuria!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCortefuria!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCortefuria!
-¡\xf000ā\x0001\x0000 usó Ala de Acero!
+¡El \xf000ā\x0001\x0000 usó Ala de Acero!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAla de Acero!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAla de Acero!
-¡\xf000ā\x0001\x0000 usó Mal de Ojo!
+¡El \xf000ā\x0001\x0000 usó Mal de Ojo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMal de Ojo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMal de Ojo!
-¡\xf000ā\x0001\x0000 usó Atracción!
+¡El \xf000ā\x0001\x0000 usó Atracción!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAtracción!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAtracción!
-¡\xf000ā\x0001\x0000 usó Sonámbulo!
+¡El \xf000ā\x0001\x0000 usó Sonámbulo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSonámbulo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSonámbulo!
-¡\xf000ā\x0001\x0000 usó Campana Cura!
+¡El \xf000ā\x0001\x0000 usó Campana Cura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCampana Cura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCampana Cura!
-¡\xf000ā\x0001\x0000 usó Retroceso!
+¡El \xf000ā\x0001\x0000 usó Retroceso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRetroceso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRetroceso!
-¡\xf000ā\x0001\x0000 usó Presente!
+¡El \xf000ā\x0001\x0000 usó Presente!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePresente!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePresente!
-¡\xf000ā\x0001\x0000 usó Frustración!
+¡El \xf000ā\x0001\x0000 usó Frustración!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFrustración!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFrustración!
-¡\xf000ā\x0001\x0000 usó Velo Sagrado!
+¡El \xf000ā\x0001\x0000 usó Velo Sagrado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVelo Sagrado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVelo Sagrado!
-¡\xf000ā\x0001\x0000 usó Divide Dolor!
+¡El \xf000ā\x0001\x0000 usó Divide Dolor!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDivide Dolor!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDivide Dolor!
-¡\xf000ā\x0001\x0000 usó Fuegosagrado!
+¡El \xf000ā\x0001\x0000 usó Fuegosagrado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuegosagrado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuegosagrado!
-¡\xf000ā\x0001\x0000 usó Magnitud!
+¡El \xf000ā\x0001\x0000 usó Magnitud!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMagnitud!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMagnitud!
-¡\xf000ā\x0001\x0000 usó Puñodinámico!
+¡El \xf000ā\x0001\x0000 usó Puñodinámico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuñodinámico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuñodinámico!
-¡\xf000ā\x0001\x0000 usó Megacuerno!
+¡El \xf000ā\x0001\x0000 usó Megacuerno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMegacuerno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMegacuerno!
-¡\xf000ā\x0001\x0000 usó Dragoaliento!
+¡El \xf000ā\x0001\x0000 usó Dragoaliento!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDragoaliento!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDragoaliento!
-¡\xf000ā\x0001\x0000 usó Relevo!
+¡El \xf000ā\x0001\x0000 usó Relevo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRelevo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRelevo!
-¡\xf000ā\x0001\x0000 usó Otra Vez!
+¡El \xf000ā\x0001\x0000 usó Otra Vez!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOtra Vez!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOtra Vez!
-¡\xf000ā\x0001\x0000 usó Persecución!
+¡El \xf000ā\x0001\x0000 usó Persecución!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePersecución!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePersecución!
-¡\xf000ā\x0001\x0000 usó Giro Rápido!
+¡El \xf000ā\x0001\x0000 usó Giro Rápido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGiro Rápido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGiro Rápido!
-¡\xf000ā\x0001\x0000 usó Dulce Aroma!
+¡El \xf000ā\x0001\x0000 usó Dulce Aroma!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDulce Aroma!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDulce Aroma!
-¡\xf000ā\x0001\x0000 usó Cola Férrea!
+¡El \xf000ā\x0001\x0000 usó Cola Férrea!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCola Férrea!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCola Férrea!
-¡\xf000ā\x0001\x0000 usó Garra Metal!
+¡El \xf000ā\x0001\x0000 usó Garra Metal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGarra Metal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGarra Metal!
-¡\xf000ā\x0001\x0000 usó Tiro Vital!
+¡El \xf000ā\x0001\x0000 usó Tiro Vital!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTiro Vital!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTiro Vital!
-¡\xf000ā\x0001\x0000 usó Sol Matinal!
+¡El \xf000ā\x0001\x0000 usó Sol Matinal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSol Matinal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSol Matinal!
-¡\xf000ā\x0001\x0000 usó Síntesis!
+¡El \xf000ā\x0001\x0000 usó Síntesis!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSíntesis!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSíntesis!
-¡\xf000ā\x0001\x0000 usó Luz Lunar!
+¡El \xf000ā\x0001\x0000 usó Luz Lunar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLuz Lunar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLuz Lunar!
-¡\xf000ā\x0001\x0000 usó Poder Oculto!
+¡El \xf000ā\x0001\x0000 usó Poder Oculto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePoder Oculto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePoder Oculto!
-¡\xf000ā\x0001\x0000 usó Tajo Cruzado!
+¡El \xf000ā\x0001\x0000 usó Tajo Cruzado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTajo Cruzado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTajo Cruzado!
-¡\xf000ā\x0001\x0000 usó Ciclón!
+¡El \xf000ā\x0001\x0000 usó Ciclón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCiclón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCiclón!
-¡\xf000ā\x0001\x0000 usó Danza Lluvia!
+¡El \xf000ā\x0001\x0000 usó Danza Lluvia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Lluvia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Lluvia!
-¡\xf000ā\x0001\x0000 usó Día Soleado!
+¡El \xf000ā\x0001\x0000 usó Día Soleado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDía Soleado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDía Soleado!
-¡\xf000ā\x0001\x0000 usó Triturar!
+¡El \xf000ā\x0001\x0000 usó Triturar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTriturar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTriturar!
-¡\xf000ā\x0001\x0000 usó Manto Espejo!
+¡El \xf000ā\x0001\x0000 usó Manto Espejo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeManto Espejo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeManto Espejo!
-¡\xf000ā\x0001\x0000 usó Más Psique!
+¡El \xf000ā\x0001\x0000 usó Más Psique!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMás Psique!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMás Psique!
-¡\xf000ā\x0001\x0000 usó Vel. Extrema!
+¡El \xf000ā\x0001\x0000 usó Vel. Extrema!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVel. Extrema!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVel. Extrema!
-¡\xf000ā\x0001\x0000 usó Poder Pasado!
+¡El \xf000ā\x0001\x0000 usó Poder Pasado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePoder Pasado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePoder Pasado!
-¡\xf000ā\x0001\x0000 usó Bola Sombra!
+¡El \xf000ā\x0001\x0000 usó Bola Sombra!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBola Sombra!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBola Sombra!
-¡\xf000ā\x0001\x0000 usó Premonición!
+¡El \xf000ā\x0001\x0000 usó Premonición!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePremonición!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePremonición!
-¡\xf000ā\x0001\x0000 usó Golpe Roca!
+¡El \xf000ā\x0001\x0000 usó Golpe Roca!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Roca!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Roca!
-¡\xf000ā\x0001\x0000 usó Torbellino!
+¡El \xf000ā\x0001\x0000 usó Torbellino!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTorbellino!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTorbellino!
-¡\xf000ā\x0001\x0000 usó Paliza!
+¡El \xf000ā\x0001\x0000 usó Paliza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePaliza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePaliza!
-¡\xf000ā\x0001\x0000 usó Sorpresa!
+¡El \xf000ā\x0001\x0000 usó Sorpresa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSorpresa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSorpresa!
-¡\xf000ā\x0001\x0000 usó Alboroto!
+¡El \xf000ā\x0001\x0000 usó Alboroto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAlboroto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAlboroto!
-¡\xf000ā\x0001\x0000 usó Reserva!
+¡El \xf000ā\x0001\x0000 usó Reserva!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeReserva!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeReserva!
-¡\xf000ā\x0001\x0000 usó Escupir!
+¡El \xf000ā\x0001\x0000 usó Escupir!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEscupir!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEscupir!
-¡\xf000ā\x0001\x0000 usó Tragar!
+¡El \xf000ā\x0001\x0000 usó Tragar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTragar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTragar!
-¡\xf000ā\x0001\x0000 usó Onda Ígnea!
+¡El \xf000ā\x0001\x0000 usó Onda Ígnea!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOnda Ígnea!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOnda Ígnea!
-¡\xf000ā\x0001\x0000 usó Granizo!
+¡El \xf000ā\x0001\x0000 usó Granizo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGranizo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGranizo!
-¡\xf000ā\x0001\x0000 usó Tormento!
+¡El \xf000ā\x0001\x0000 usó Tormento!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTormento!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTormento!
-¡\xf000ā\x0001\x0000 usó Camelo!
+¡El \xf000ā\x0001\x0000 usó Camelo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCamelo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCamelo!
-¡\xf000ā\x0001\x0000 usó Fuego Fatuo!
+¡El \xf000ā\x0001\x0000 usó Fuego Fatuo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuego Fatuo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuego Fatuo!
-¡\xf000ā\x0001\x0000 usó Legado!
+¡El \xf000ā\x0001\x0000 usó Legado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLegado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLegado!
-¡\xf000ā\x0001\x0000 usó Imagen!
+¡El \xf000ā\x0001\x0000 usó Imagen!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeImagen!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeImagen!
-¡\xf000ā\x0001\x0000 usó Puño Certero!
+¡El \xf000ā\x0001\x0000 usó Puño Certero!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Certero!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Certero!
-¡\xf000ā\x0001\x0000 usó Estímulo!
+¡El \xf000ā\x0001\x0000 usó Estímulo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEstímulo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEstímulo!
-¡\xf000ā\x0001\x0000 usó Señuelo!
+¡El \xf000ā\x0001\x0000 usó Señuelo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSeñuelo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSeñuelo!
-¡\xf000ā\x0001\x0000 usó Adaptación!
+¡El \xf000ā\x0001\x0000 usó Adaptación!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAdaptación!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAdaptación!
-¡\xf000ā\x0001\x0000 usó Carga!
+¡El \xf000ā\x0001\x0000 usó Carga!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCarga!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCarga!
-¡\xf000ā\x0001\x0000 usó Mofa!
+¡El \xf000ā\x0001\x0000 usó Mofa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMofa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMofa!
-¡\xf000ā\x0001\x0000 usó Refuerzo!
+¡El \xf000ā\x0001\x0000 usó Refuerzo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRefuerzo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRefuerzo!
-¡\xf000ā\x0001\x0000 usó Truco!
+¡El \xf000ā\x0001\x0000 usó Truco!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTruco!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTruco!
-¡\xf000ā\x0001\x0000 usó Imitación!
+¡El \xf000ā\x0001\x0000 usó Imitación!
 ¡El \xf000ā\x0001\x0000 salvaje usó\nImitación!
 ¡El \xf000ā\x0001\x0000 enemigo usó\nImitación!
-¡\xf000ā\x0001\x0000 pidió un Deseo!
+¡El \xf000ā\x0001\x0000 pidió un Deseo!
 ¡El \xf000ā\x0001\x0000 salvaje\xfffepidió un Deseo!
 ¡El \xf000ā\x0001\x0000 enemigo\xfffepidió un Deseo!
-¡\xf000ā\x0001\x0000 usó Ayuda!
+¡El \xf000ā\x0001\x0000 usó Ayuda!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAyuda!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAyuda!
-¡\xf000ā\x0001\x0000 usó Arraigo!
+¡El \xf000ā\x0001\x0000 usó Arraigo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeArraigo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeArraigo!
-¡\xf000ā\x0001\x0000 usó Fuerza Bruta!
+¡El \xf000ā\x0001\x0000 usó Fuerza Bruta!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuerza Bruta!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuerza Bruta!
-¡\xf000ā\x0001\x0000 usó Capa Mágica!
+¡El \xf000ā\x0001\x0000 usó Capa Mágica!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCapa Mágica!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCapa Mágica!
-¡\xf000ā\x0001\x0000 usó Reciclaje!
+¡El \xf000ā\x0001\x0000 usó Reciclaje!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeReciclaje!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeReciclaje!
-¡\xf000ā\x0001\x0000 usó Desquite!
+¡El \xf000ā\x0001\x0000 usó Desquite!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDesquite!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDesquite!
-¡\xf000ā\x0001\x0000 usó Demolición!
+¡El \xf000ā\x0001\x0000 usó Demolición!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDemolición!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDemolición!
-¡\xf000ā\x0001\x0000 usó Bostezo!
+¡El \xf000ā\x0001\x0000 usó Bostezo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBostezo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBostezo!
-¡\xf000ā\x0001\x0000 usó Desarme!
+¡El \xf000ā\x0001\x0000 usó Desarme!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDesarme!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDesarme!
-¡\xf000ā\x0001\x0000 usó Esfuerzo!
+¡El \xf000ā\x0001\x0000 usó Esfuerzo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEsfuerzo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEsfuerzo!
-¡\xf000ā\x0001\x0000 usó Estallido!
+¡El \xf000ā\x0001\x0000 usó Estallido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEstallido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEstallido!
-¡\xf000ā\x0001\x0000 usó Intercambio!
+¡El \xf000ā\x0001\x0000 usó Intercambio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeIntercambio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeIntercambio!
-¡\xf000ā\x0001\x0000 usó Cerca!
+¡El \xf000ā\x0001\x0000 usó Cerca!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCerca!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCerca!
-¡\xf000ā\x0001\x0000 usó Alivio!
+¡El \xf000ā\x0001\x0000 usó Alivio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAlivio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAlivio!
-¡\xf000ā\x0001\x0000 usó Rabia!
+¡El \xf000ā\x0001\x0000 usó Rabia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRabia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRabia!
-¡\xf000ā\x0001\x0000 usó Robo!
+¡El \xf000ā\x0001\x0000 usó Robo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRobo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRobo!
-¡\xf000ā\x0001\x0000 usó Daño Secreto!
+¡El \xf000ā\x0001\x0000 usó Daño Secreto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDaño Secreto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDaño Secreto!
-¡\xf000ā\x0001\x0000 usó Buceo!
+¡El \xf000ā\x0001\x0000 usó Buceo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBuceo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBuceo!
-¡\xf000ā\x0001\x0000 usó Empujón!
+¡El \xf000ā\x0001\x0000 usó Empujón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEmpujón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEmpujón!
-¡\xf000ā\x0001\x0000 usó Camuflaje!
+¡El \xf000ā\x0001\x0000 usó Camuflaje!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCamuflaje!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCamuflaje!
-¡\xf000ā\x0001\x0000 usó Ráfaga!
+¡El \xf000ā\x0001\x0000 usó Ráfaga!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRáfaga!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRáfaga!
-¡\xf000ā\x0001\x0000 usó Resplandor!
+¡El \xf000ā\x0001\x0000 usó Resplandor!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeResplandor!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeResplandor!
-¡\xf000ā\x0001\x0000 usó Bola Neblina!
+¡El \xf000ā\x0001\x0000 usó Bola Neblina!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBola Neblina!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBola Neblina!
-¡\xf000ā\x0001\x0000 usó Danza Pluma!
+¡El \xf000ā\x0001\x0000 usó Danza Pluma!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Pluma!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Pluma!
-¡\xf000ā\x0001\x0000 usó Danza Caos!
+¡El \xf000ā\x0001\x0000 usó Danza Caos!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Caos!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Caos!
-¡\xf000ā\x0001\x0000 usó Patada Ígnea!
+¡El \xf000ā\x0001\x0000 usó Patada Ígnea!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePatada Ígnea!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePatada Ígnea!
-¡\xf000ā\x0001\x0000 usó Chapoteolodo!
+¡El \xf000ā\x0001\x0000 usó Chapoteolodo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChapoteolodo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChapoteolodo!
-¡\xf000ā\x0001\x0000 usó Bola Hielo!
+¡El \xf000ā\x0001\x0000 usó Bola Hielo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBola Hielo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBola Hielo!
-¡\xf000ā\x0001\x0000 usó Brazo Pincho!
+¡El \xf000ā\x0001\x0000 usó Brazo Pincho!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBrazo Pincho!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBrazo Pincho!
-¡\xf000ā\x0001\x0000 usó Relajo!
+¡El \xf000ā\x0001\x0000 usó Relajo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRelajo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRelajo!
-¡\xf000ā\x0001\x0000 usó Vozarrón!
+¡El \xf000ā\x0001\x0000 usó Vozarrón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVozarrón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVozarrón!
-¡\xf000ā\x0001\x0000 usó Colmillo Ven!
+¡El \xf000ā\x0001\x0000 usó Colmillo Ven!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeColmillo Ven!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeColmillo Ven!
-¡\xf000ā\x0001\x0000 usó Garra Brutal!
+¡El \xf000ā\x0001\x0000 usó Garra Brutal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGarra Brutal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGarra Brutal!
-¡\xf000ā\x0001\x0000 usó Anillo Ígneo!
+¡El \xf000ā\x0001\x0000 usó Anillo Ígneo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAnillo Ígneo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAnillo Ígneo!
-¡\xf000ā\x0001\x0000 usó Hidrocañón!
+¡El \xf000ā\x0001\x0000 usó Hidrocañón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHidrocañón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHidrocañón!
-¡\xf000ā\x0001\x0000 usó Puño Meteoro!
+¡El \xf000ā\x0001\x0000 usó Puño Meteoro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Meteoro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Meteoro!
-¡\xf000ā\x0001\x0000 usó Impresionar!
+¡El \xf000ā\x0001\x0000 usó Impresionar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeImpresionar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeImpresionar!
-¡\xf000ā\x0001\x0000 usó Meteorobola!
+¡El \xf000ā\x0001\x0000 usó Meteorobola!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMeteorobola!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMeteorobola!
-¡\xf000ā\x0001\x0000 usó Aromaterapia!
+¡El \xf000ā\x0001\x0000 usó Aromaterapia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAromaterapia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAromaterapia!
-¡\xf000ā\x0001\x0000 usó Llanto Falso!
+¡El \xf000ā\x0001\x0000 usó Llanto Falso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLlanto Falso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLlanto Falso!
-¡\xf000ā\x0001\x0000 usó Aire Afilado!
+¡El \xf000ā\x0001\x0000 usó Aire Afilado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAire Afilado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAire Afilado!
-¡\xf000ā\x0001\x0000 usó Sofoco!
+¡El \xf000ā\x0001\x0000 usó Sofoco!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSofoco!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSofoco!
-¡\xf000ā\x0001\x0000 usó Rastreo!
+¡El \xf000ā\x0001\x0000 usó Rastreo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRastreo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRastreo!
-¡\xf000ā\x0001\x0000 usó Tumba Rocas!
+¡El \xf000ā\x0001\x0000 usó Tumba Rocas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTumba Rocas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTumba Rocas!
-¡\xf000ā\x0001\x0000 usó Viento Plata!
+¡El \xf000ā\x0001\x0000 usó Viento Plata!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeViento Plata!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeViento Plata!
-¡\xf000ā\x0001\x0000 usó Eco Metálico!
+¡El \xf000ā\x0001\x0000 usó Eco Metálico!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEco Metálico!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEco Metálico!
-¡\xf000ā\x0001\x0000 usó Silbato!
+¡El \xf000ā\x0001\x0000 usó Silbato!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSilbato!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSilbato!
-¡\xf000ā\x0001\x0000 usó Cosquillas!
+¡El \xf000ā\x0001\x0000 usó Cosquillas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCosquillas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCosquillas!
-¡\xf000ā\x0001\x0000 usó Masa Cósmica!
+¡El \xf000ā\x0001\x0000 usó Masa Cósmica!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMasa Cósmica!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMasa Cósmica!
-¡\xf000ā\x0001\x0000 usó Salpicar!
+¡El \xf000ā\x0001\x0000 usó Salpicar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSalpicar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSalpicar!
-¡\xf000ā\x0001\x0000 usó Doble Rayo!
+¡El \xf000ā\x0001\x0000 usó Doble Rayo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble Rayo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble Rayo!
-¡\xf000ā\x0001\x0000 usó Puño Sombra!
+¡El \xf000ā\x0001\x0000 usó Puño Sombra!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Sombra!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Sombra!
-¡\xf000ā\x0001\x0000 usó Paranormal!
+¡El \xf000ā\x0001\x0000 usó Paranormal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeParanormal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeParanormal!
-¡\xf000ā\x0001\x0000 usó Gancho Alto!
+¡El \xf000ā\x0001\x0000 usó Gancho Alto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGancho Alto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\nGancho Alto!
-¡\xf000ā\x0001\x0000 usó Bucle Arena!
+¡El \xf000ā\x0001\x0000 usó Bucle Arena!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBucle Arena!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBucle Arena!
-¡\xf000ā\x0001\x0000 usó Frío Polar!
+¡El \xf000ā\x0001\x0000 usó Frío Polar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFrío Polar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFrío Polar!
-¡\xf000ā\x0001\x0000 usó Agua Lodosa!
+¡El \xf000ā\x0001\x0000 usó Agua Lodosa!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAgua Lodosa!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAgua Lodosa!
-¡\xf000ā\x0001\x0000 usó Recurrente!
+¡El \xf000ā\x0001\x0000 usó Recurrente!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRecurrente!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRecurrente!
-¡\xf000ā\x0001\x0000 usó Golpe Aéreo!
+¡El \xf000ā\x0001\x0000 usó Golpe Aéreo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Aéreo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Aéreo!
-¡\xf000ā\x0001\x0000 usó Carámbano!
+¡El \xf000ā\x0001\x0000 usó Carámbano!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCarámbano!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCarámbano!
-¡\xf000ā\x0001\x0000 usó Def. Férrea!
+¡El \xf000ā\x0001\x0000 usó Def. Férrea!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDef. Férrea!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDef. Férrea!
-¡\xf000ā\x0001\x0000 usó Bloqueo!
+¡El \xf000ā\x0001\x0000 usó Bloqueo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBloqueo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBloqueo!
-¡\xf000ā\x0001\x0000 usó Aullido!
+¡El \xf000ā\x0001\x0000 usó Aullido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAullido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAullido!
-¡\xf000ā\x0001\x0000 usó Garra Dragón!
+¡El \xf000ā\x0001\x0000 usó Garra Dragón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGarra Dragón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGarra Dragón!
-¡\xf000ā\x0001\x0000 usó Planta Feroz!
+¡El \xf000ā\x0001\x0000 usó Planta Feroz!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePlanta Feroz!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePlanta Feroz!
-¡\xf000ā\x0001\x0000 usó Corpulencia!
+¡El \xf000ā\x0001\x0000 usó Corpulencia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCorpulencia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCorpulencia!
-¡\xf000ā\x0001\x0000 usó Bote!
+¡El \xf000ā\x0001\x0000 usó Bote!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBote!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBote!
-¡\xf000ā\x0001\x0000 usó Disp. Lodo!
+¡El \xf000ā\x0001\x0000 usó Disp. Lodo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDisp. Lodo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDisp. Lodo!
-¡\xf000ā\x0001\x0000 usó Cola Veneno!
+¡El \xf000ā\x0001\x0000 usó Cola Veneno!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCola Veneno!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCola Veneno!
-¡\xf000ā\x0001\x0000 usó Antojo!
+¡El \xf000ā\x0001\x0000 usó Antojo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAntojo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAntojo!
-¡\xf000ā\x0001\x0000 usó Placaje Eléc!
+¡El \xf000ā\x0001\x0000 usó Placaje Eléc!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePlacaje Eléc!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePlacaje Eléc!
-¡\xf000ā\x0001\x0000 usó Hoja Mágica!
+¡El \xf000ā\x0001\x0000 usó Hoja Mágica!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHoja Mágica!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHoja Mágica!
-¡\xf000ā\x0001\x0000 usó Hidrochorro!
+¡El \xf000ā\x0001\x0000 usó Hidrochorro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHidrochorro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHidrochorro!
-¡\xf000ā\x0001\x0000 usó Paz Mental!
+¡El \xf000ā\x0001\x0000 usó Paz Mental!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePaz Mental!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePaz Mental!
-¡\xf000ā\x0001\x0000 usó Hoja Aguda!
+¡El \xf000ā\x0001\x0000 usó Hoja Aguda!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHoja Aguda!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHoja Aguda!
-¡\xf000ā\x0001\x0000 usó Danza Dragón!
+¡El \xf000ā\x0001\x0000 usó Danza Dragón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Dragón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Dragón!
-¡\xf000ā\x0001\x0000 usó Pedrada!
+¡El \xf000ā\x0001\x0000 usó Pedrada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePedrada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePedrada!
-¡\xf000ā\x0001\x0000 usó Onda Voltio!
+¡El \xf000ā\x0001\x0000 usó Onda Voltio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOnda Voltio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOnda Voltio!
-¡\xf000ā\x0001\x0000 usó Hidropulso!
+¡El \xf000ā\x0001\x0000 usó Hidropulso!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHidropulso!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHidropulso!
-¡\xf000ā\x0001\x0000 usó Deseo Oculto!
+¡El \xf000ā\x0001\x0000 usó Deseo Oculto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDeseo Oculto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDeseo Oculto!
-¡\xf000ā\x0001\x0000 usó Psicoataque!
+¡El \xf000ā\x0001\x0000 usó Psicoataque!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsicoataque!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsicoataque!
-¡\xf000ā\x0001\x0000 usó Respiro!
+¡El \xf000ā\x0001\x0000 usó Respiro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRespiro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRespiro!
-¡\xf000ā\x0001\x0000 usó Gravedad!
+¡El \xf000ā\x0001\x0000 usó Gravedad!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGravedad!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGravedad!
-¡\xf000ā\x0001\x0000 usó Gran Ojo!
+¡El \xf000ā\x0001\x0000 usó Gran Ojo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGran Ojo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGran Ojo!
-¡\xf000ā\x0001\x0000 usó Espabila!
+¡El \xf000ā\x0001\x0000 usó Espabila!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEspabila!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEspabila!
-¡\xf000ā\x0001\x0000 usó Machada!
+¡El \xf000ā\x0001\x0000 usó Machada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMachada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMachada!
-¡\xf000ā\x0001\x0000 usó Giro Bola!
+¡El \xf000ā\x0001\x0000 usó Giro Bola!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGiro Bola!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGiro Bola!
-¡\xf000ā\x0001\x0000 usó Deseo Cura!
+¡El \xf000ā\x0001\x0000 usó Deseo Cura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDeseo Cura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDeseo Cura!
-¡\xf000ā\x0001\x0000 usó Salmuera!
+¡El \xf000ā\x0001\x0000 usó Salmuera!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSalmuera!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSalmuera!
-¡\xf000ā\x0001\x0000 usó Don Natural!
+¡El \xf000ā\x0001\x0000 usó Don Natural!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDon Natural!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDon Natural!
-¡\xf000ā\x0001\x0000 usó Amago!
+¡El \xf000ā\x0001\x0000 usó Amago!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAmago!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAmago!
-¡\xf000ā\x0001\x0000 usó Picoteo!
+¡El \xf000ā\x0001\x0000 usó Picoteo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePicoteo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePicoteo!
-¡\xf000ā\x0001\x0000 usó Viento Afín!
+¡El \xf000ā\x0001\x0000 usó Viento Afín!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeViento Afín!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeViento Afín!
-¡\xf000ā\x0001\x0000 usó Acupresión!
+¡El \xf000ā\x0001\x0000 usó Acupresión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAcupresión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAcupresión!
-¡\xf000ā\x0001\x0000 usó Repr. Metal!
+¡El \xf000ā\x0001\x0000 usó Repr. Metal!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRepr. Metal!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRepr. Metal!
-¡\xf000ā\x0001\x0000 usó Ida y Vuelta!
+¡El \xf000ā\x0001\x0000 usó Ida y Vuelta!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeIda y Vuelta!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeIda y Vuelta!
-¡\xf000ā\x0001\x0000 usó A Bocajarro!
+¡El \xf000ā\x0001\x0000 usó A Bocajarro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeA Bocajarro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeA Bocajarro!
-¡\xf000ā\x0001\x0000 usó Vendetta!
+¡El \xf000ā\x0001\x0000 usó Vendetta!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVendetta!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVendetta!
-¡\xf000ā\x0001\x0000 usó Buena Baza!
+¡El \xf000ā\x0001\x0000 usó Buena Baza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBuena Baza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBuena Baza!
-¡\xf000ā\x0001\x0000 usó Embargo!
+¡El \xf000ā\x0001\x0000 usó Embargo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEmbargo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEmbargo!
-¡\xf000ā\x0001\x0000 usó Lanzamiento!
+¡El \xf000ā\x0001\x0000 usó Lanzamiento!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLanzamiento!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLanzamiento!
-¡\xf000ā\x0001\x0000 usó Psico-cambio!
+¡El \xf000ā\x0001\x0000 usó Psico-cambio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsico-cambio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsico-cambio!
-¡\xf000ā\x0001\x0000 usó As Oculto!
+¡El \xf000ā\x0001\x0000 usó As Oculto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAs Oculto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAs Oculto!
-¡\xf000ā\x0001\x0000 usó Anticura!
+¡El \xf000ā\x0001\x0000 usó Anticura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAnticura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAnticura!
-¡\xf000ā\x0001\x0000 usó Estrujón!
+¡El \xf000ā\x0001\x0000 usó Estrujón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEstrujón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEstrujón!
-¡\xf000ā\x0001\x0000 usó Truco Fuerza!
+¡El \xf000ā\x0001\x0000 usó Truco Fuerza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTruco Fuerza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTruco Fuerza!
-¡\xf000ā\x0001\x0000 usó Bilis!
+¡El \xf000ā\x0001\x0000 usó Bilis!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBilis!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBilis!
-¡\xf000ā\x0001\x0000 usó Conjuro!
+¡El \xf000ā\x0001\x0000 usó Conjuro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeConjuro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeConjuro!
-¡\xf000ā\x0001\x0000 usó Yo Primero!
+¡El \xf000ā\x0001\x0000 usó Yo Primero!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeYo Primero!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeYo Primero!
-¡\xf000ā\x0001\x0000 usó Copión!
+¡El \xf000ā\x0001\x0000 usó Copión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCopión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCopión!
-¡\xf000ā\x0001\x0000 usó Cambia Fue.!
+¡El \xf000ā\x0001\x0000 usó Cambia Fue.!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambia Fue.!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambia Fue.!
-¡\xf000ā\x0001\x0000 usó Cambia Def.!
+¡El \xf000ā\x0001\x0000 usó Cambia Def.!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambia Def.!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambia Def.!
-¡\xf000ā\x0001\x0000 usó Castigo!
+¡El \xf000ā\x0001\x0000 usó Castigo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCastigo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCastigo!
-¡\xf000ā\x0001\x0000 usó Última Baza!
+¡El \xf000ā\x0001\x0000 usó Última Baza!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeÚltima Baza!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeÚltima Baza!
-¡\xf000ā\x0001\x0000 usó Abatidoras!
+¡El \xf000ā\x0001\x0000 usó Abatidoras!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAbatidoras!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAbatidoras!
-¡\xf000ā\x0001\x0000 usó Golpe Bajo!
+¡El \xf000ā\x0001\x0000 usó Golpe Bajo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Bajo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Bajo!
-¡\xf000ā\x0001\x0000 usó Púas Tóxicas!
+¡El \xf000ā\x0001\x0000 usó Púas Tóxicas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePúas Tóxicas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePúas Tóxicas!
-¡\xf000ā\x0001\x0000 usó Cambia Almas!
+¡El \xf000ā\x0001\x0000 usó Cambia Almas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambia Almas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambia Almas!
-¡\xf000ā\x0001\x0000 usó Acua Aro!
+¡El \xf000ā\x0001\x0000 usó Acua Aro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAcua Aro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAcua Aro!
-¡\xf000ā\x0001\x0000 usó Levitón!
+¡El \xf000ā\x0001\x0000 usó Levitón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLevitón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLevitón!
-¡\xf000ā\x0001\x0000 usó Envite Ígneo!
+¡El \xf000ā\x0001\x0000 usó Envite Ígneo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEnvite Ígneo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEnvite Ígneo!
-¡\xf000ā\x0001\x0000 usó Palmeo!
+¡El \xf000ā\x0001\x0000 usó Palmeo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePalmeo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePalmeo!
-¡\xf000ā\x0001\x0000 usó Esfera Aural!
+¡El \xf000ā\x0001\x0000 usó Esfera Aural!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEsfera Aural!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEsfera Aural!
-¡\xf000ā\x0001\x0000 usó Pulimento!
+¡El \xf000ā\x0001\x0000 usó Pulimento!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePulimento!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePulimento!
-¡\xf000ā\x0001\x0000 usó Puya Nociva!
+¡El \xf000ā\x0001\x0000 usó Puya Nociva!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuya Nociva!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuya Nociva!
-¡\xf000ā\x0001\x0000 usó Pulso Umbrío!
+¡El \xf000ā\x0001\x0000 usó Pulso Umbrío!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePulso Umbrío!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePulso Umbrío!
-¡\xf000ā\x0001\x0000 usó Tajo Umbrío!
+¡El \xf000ā\x0001\x0000 usó Tajo Umbrío!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTajo Umbrío!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTajo Umbrío!
-¡\xf000ā\x0001\x0000 usó Acua Cola!
+¡El \xf000ā\x0001\x0000 usó Acua Cola!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAcua Cola!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAcua Cola!
-¡\xf000ā\x0001\x0000 usó Bomba Germen!
+¡El \xf000ā\x0001\x0000 usó Bomba Germen!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Germen!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Germen!
-¡\xf000ā\x0001\x0000 usó Tajo Aéreo!
+¡El \xf000ā\x0001\x0000 usó Tajo Aéreo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTajo Aéreo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTajo Aéreo!
-¡\xf000ā\x0001\x0000 usó Tijera X!
+¡El \xf000ā\x0001\x0000 usó Tijera X!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTijera X!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTijera X!
-¡\xf000ā\x0001\x0000 usó Zumbido!
+¡El \xf000ā\x0001\x0000 usó Zumbido!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeZumbido!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeZumbido!
-¡\xf000ā\x0001\x0000 usó Pulso Dragón!
+¡El \xf000ā\x0001\x0000 usó Pulso Dragón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePulso Dragón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePulso Dragón!
-¡\xf000ā\x0001\x0000 usó Carga Dragón!
+¡El \xf000ā\x0001\x0000 usó Carga Dragón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCarga Dragón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCarga Dragón!
-¡\xf000ā\x0001\x0000 usó Joya de Luz!
+¡El \xf000ā\x0001\x0000 usó Joya de Luz!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeJoya de Luz!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeJoya de Luz!
-¡\xf000ā\x0001\x0000 usó Puño Drenaje!
+¡El \xf000ā\x0001\x0000 usó Puño Drenaje!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Drenaje!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Drenaje!
-¡\xf000ā\x0001\x0000 usó Onda Vacío!
+¡El \xf000ā\x0001\x0000 usó Onda Vacío!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOnda Vacío!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOnda Vacío!
-¡\xf000ā\x0001\x0000 usó Onda Certera!
+¡El \xf000ā\x0001\x0000 usó Onda Certera!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOnda Certera!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOnda Certera!
-¡\xf000ā\x0001\x0000 usó Energibola!
+¡El \xf000ā\x0001\x0000 usó Energibola!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEnergibola!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEnergibola!
-¡\xf000ā\x0001\x0000 usó Pájaro Osado!
+¡El \xf000ā\x0001\x0000 usó Pájaro Osado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePájaro Osado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePájaro Osado!
-¡\xf000ā\x0001\x0000 usó Tierra Viva!
+¡El \xf000ā\x0001\x0000 usó Tierra Viva!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTierra Viva!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTierra Viva!
-¡\xf000ā\x0001\x0000 usó Trapicheo!
+¡El \xf000ā\x0001\x0000 usó Trapicheo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTrapicheo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTrapicheo!
-¡\xf000ā\x0001\x0000 usó Giga Impacto!
+¡El \xf000ā\x0001\x0000 usó Giga Impacto!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGiga Impacto!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGiga Impacto!
-¡\xf000ā\x0001\x0000 usó Maquinación!
+¡El \xf000ā\x0001\x0000 usó Maquinación!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMaquinación!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMaquinación!
-¡\xf000ā\x0001\x0000 usó Puño Bala!
+¡El \xf000ā\x0001\x0000 usó Puño Bala!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePuño Bala!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePuño Bala!
-¡\xf000ā\x0001\x0000 usó Alud!
+¡El \xf000ā\x0001\x0000 usó Alud!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAlud!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAlud!
-¡\xf000ā\x0001\x0000 usó Canto Helado!
+¡El \xf000ā\x0001\x0000 usó Canto Helado!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCanto Helado!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCanto Helado!
-¡\xf000ā\x0001\x0000 usó Garra Umbría!
+¡El \xf000ā\x0001\x0000 usó Garra Umbría!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGarra Umbría!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGarra Umbría!
-¡\xf000ā\x0001\x0000 usó Colm. Rayo!
+¡El \xf000ā\x0001\x0000 usó Colm. Rayo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeColm. Rayo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeColm. Rayo!
-¡\xf000ā\x0001\x0000 usó Colm. Hielo!
+¡El \xf000ā\x0001\x0000 usó Colm. Hielo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeColm. Hielo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeColm. Hielo!
-¡\xf000ā\x0001\x0000 usó Colm. Ígneo!
+¡El \xf000ā\x0001\x0000 usó Colm. Ígneo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeColm. Ígneo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeColm. Ígneo!
-¡\xf000ā\x0001\x0000 usó Sombra Vil!
+¡El \xf000ā\x0001\x0000 usó Sombra Vil!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSombra Vil!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSombra Vil!
-¡\xf000ā\x0001\x0000 usó Bomba Fango!
+¡El \xf000ā\x0001\x0000 usó Bomba Fango!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Fango!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Fango!
-¡\xf000ā\x0001\x0000 usó Psico-corte!
+¡El \xf000ā\x0001\x0000 usó Psico-corte!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsico-corte!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsico-corte!
-¡\xf000ā\x0001\x0000 usó Cabezazo Zen!
+¡El \xf000ā\x0001\x0000 usó Cabezazo Zen!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCabezazo Zen!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCabezazo Zen!
-¡\xf000ā\x0001\x0000 usó Disp. Espejo!
+¡El \xf000ā\x0001\x0000 usó Disp. Espejo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDisp. Espejo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDisp. Espejo!
-¡\xf000ā\x0001\x0000 usó Foco Respl.!
+¡El \xf000ā\x0001\x0000 usó Foco Respl.!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFoco Respl.!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFoco Respl.!
-¡\xf000ā\x0001\x0000 usó Treparrocas!
+¡El \xf000ā\x0001\x0000 usó Treparrocas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTreparrocas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTreparrocas!
-¡\xf000ā\x0001\x0000 usó Despejar!
+¡El \xf000ā\x0001\x0000 usó Despejar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDespejar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDespejar!
-¡\xf000ā\x0001\x0000 usó Espacio Raro!
+¡El \xf000ā\x0001\x0000 usó Espacio Raro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEspacio Raro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEspacio Raro!
-¡\xf000ā\x0001\x0000 usó Cometa Draco!
+¡El \xf000ā\x0001\x0000 usó Cometa Draco!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCometa Draco!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCometa Draco!
-¡\xf000ā\x0001\x0000 usó Chispazo!
+¡El \xf000ā\x0001\x0000 usó Chispazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChispazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChispazo!
-¡\xf000ā\x0001\x0000 usó Humareda!
+¡El \xf000ā\x0001\x0000 usó Humareda!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHumareda!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHumareda!
-¡\xf000ā\x0001\x0000 usó Lluevehojas!
+¡El \xf000ā\x0001\x0000 usó Lluevehojas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLluevehojas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLluevehojas!
-¡\xf000ā\x0001\x0000 usó Latigazo!
+¡El \xf000ā\x0001\x0000 usó Latigazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLatigazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLatigazo!
-¡\xf000ā\x0001\x0000 usó Romperrocas!
+¡El \xf000ā\x0001\x0000 usó Romperrocas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRomperrocas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRomperrocas!
-¡\xf000ā\x0001\x0000 usó Veneno X!
+¡El \xf000ā\x0001\x0000 usó Veneno X!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVeneno X!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVeneno X!
-¡\xf000ā\x0001\x0000 usó Lanza Mugre!
+¡El \xf000ā\x0001\x0000 usó Lanza Mugre!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLanza Mugre!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLanza Mugre!
-¡\xf000ā\x0001\x0000 usó Cabezahierro!
+¡El \xf000ā\x0001\x0000 usó Cabezahierro!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCabezahierro!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCabezahierro!
-¡\xf000ā\x0001\x0000 usó Bomba Imán!
+¡El \xf000ā\x0001\x0000 usó Bomba Imán!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba Imán!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba Imán!
-¡\xf000ā\x0001\x0000 usó Roca Afilada!
+¡El \xf000ā\x0001\x0000 usó Roca Afilada!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRoca Afilada!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRoca Afilada!
-¡\xf000ā\x0001\x0000 usó Seducción!
+¡El \xf000ā\x0001\x0000 usó Seducción!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSeducción!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSeducción!
-¡\xf000ā\x0001\x0000 usó Trampa Rocas!
+¡El \xf000ā\x0001\x0000 usó Trampa Rocas!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTrampa Rocas!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTrampa Rocas!
-¡\xf000ā\x0001\x0000 usó Hierba Lazo!
+¡El \xf000ā\x0001\x0000 usó Hierba Lazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHierba Lazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHierba Lazo!
-¡\xf000ā\x0001\x0000 usó Cháchara!
+¡El \xf000ā\x0001\x0000 usó Cháchara!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCháchara!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCháchara!
-¡\xf000ā\x0001\x0000 usó Sentencia!
+¡El \xf000ā\x0001\x0000 usó Sentencia!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSentencia!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSentencia!
-¡\xf000ā\x0001\x0000 usó Picadura!
+¡El \xf000ā\x0001\x0000 usó Picadura!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffePicadura!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffePicadura!
-¡\xf000ā\x0001\x0000 usó Rayo Carga!
+¡El \xf000ā\x0001\x0000 usó Rayo Carga!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo Carga!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo Carga!
-¡\xf000ā\x0001\x0000 usó Mazazo!
+¡El \xf000ā\x0001\x0000 usó Mazazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMazazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMazazo!
-¡\xf000ā\x0001\x0000 usó Acua Jet!
+¡El \xf000ā\x0001\x0000 usó Acua Jet!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAcua Jet!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAcua Jet!
-¡\xf000ā\x0001\x0000 usó Al Ataque!
+¡El \xf000ā\x0001\x0000 usó Al Ataque!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAl Ataque!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAl Ataque!
-¡\xf000ā\x0001\x0000 usó A Defender!
+¡El \xf000ā\x0001\x0000 usó A Defender!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeA Defender!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeA Defender!
-¡\xf000ā\x0001\x0000 usó Auxilio!
+¡El \xf000ā\x0001\x0000 usó Auxilio!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAuxilio!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAuxilio!
-¡\xf000ā\x0001\x0000 usó Testarazo!
+¡El \xf000ā\x0001\x0000 usó Testarazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTestarazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTestarazo!
-¡\xf000ā\x0001\x0000 usó Doble Golpe!
+¡El \xf000ā\x0001\x0000 usó Doble Golpe!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble Golpe!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble Golpe!
-¡\xf000ā\x0001\x0000 usó Distorsión!
+¡El \xf000ā\x0001\x0000 usó Distorsión!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDistorsión!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDistorsión!
-¡\xf000ā\x0001\x0000 usó Corte Vacío!
+¡El \xf000ā\x0001\x0000 usó Corte Vacío!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCorte Vacío!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCorte Vacío!
-¡\xf000ā\x0001\x0000 usó Danza Lunar!
+¡El \xf000ā\x0001\x0000 usó Danza Lunar!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Lunar!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Lunar!
-¡\xf000ā\x0001\x0000 usó Agarrón!
+¡El \xf000ā\x0001\x0000 usó Agarrón!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAgarrón!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAgarrón!
-¡\xf000ā\x0001\x0000 usó Lluvia Ígnea!
+¡El \xf000ā\x0001\x0000 usó Lluvia Ígnea!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLluvia Ígnea!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLluvia Ígnea!
-¡\xf000ā\x0001\x0000 usó Brecha Negra!
+¡El \xf000ā\x0001\x0000 usó Brecha Negra!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBrecha Negra!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBrecha Negra!
-¡\xf000ā\x0001\x0000 usó Fogonazo!
+¡El \xf000ā\x0001\x0000 usó Fogonazo!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFogonazo!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFogonazo!
-¡\xf000ā\x0001\x0000 usó Vien. Aciago!
+¡El \xf000ā\x0001\x0000 usó Vien. Aciago!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVien. Aciago!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVien. Aciago!
-¡\xf000ā\x0001\x0000 usó Golpe Umbrío!
+¡El \xf000ā\x0001\x0000 usó Golpe Umbrío!
 ¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGolpe Umbrío!
 ¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGolpe Umbrío!
-\xf000ā\x0001\x0000 usó\xfffeGarra afilada!
-\xf000ā\x0001\x0000 salvaje usó\xfffeGarra afilada!
-\xf000ā\x0001\x0000 enemigo usó\xfffeGarra afilada!
-\xf000ā\x0001\x0000 usó\xfffeAmplia guardia!
-\xf000ā\x0001\x0000 salvaje usó\xfffeAmplia guardia!
-\xf000ā\x0001\x0000 enemigo usó\xfffeAmplia guardia!
-\xf000ā\x0001\x0000 usó\xfffeCompartir guardia!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCompartir guardia!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCompartir guardia!
-\xf000ā\x0001\x0000 usó\xfffeCompartir poder!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCompartir poder!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCompartir poder!
-\xf000ā\x0001\x0000 usó\xfffeSala maravilla!
-\xf000ā\x0001\x0000 salvaje usó\xfffeSala maravilla!
-\xf000ā\x0001\x0000 enemigo usó\xfffeSala maravilla!
-\xf000ā\x0001\x0000 usó\xfffeImpacto psícopata!
-\xf000ā\x0001\x0000 salvaje usó\xfffeImpacto psícopata!
-\xf000ā\x0001\x0000 enemigo usó\xfffeImpacto psícopata!
-\xf000ā\x0001\x0000 usó\xfffeImpacto venenoso!
-\xf000ā\x0001\x0000 salvaje usó\xfffeImpacto venenoso!
-\xf000ā\x0001\x0000 enemigo usó\xfffeImpacto venenoso!
-\xf000ā\x0001\x0000 usó\xfffePurga cuerpo!
-\xf000ā\x0001\x0000 salvaje usó\xfffePurga cuerpo!
-\xf000ā\x0001\x0000 enemigo usó\xfffePurga cuerpo!
-\xf000ā\x0001\x0000 usó\xfffeSuper Powder!
-\xf000ā\x0001\x0000 salvaje usó\xfffeSuper Powder!
-\xf000ā\x0001\x0000 enemigo usó\xfffeSuper Powder!
-\xf000ā\x0001\x0000 usó\xfffeTeleKinético!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTeleKinético!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTeleKinético!
-\xf000ā\x0001\x0000 usó\xfffeHabitación mágica!
-\xf000ā\x0001\x0000 salvaje usó\xfffeHabitación mágica!
-\xf000ā\x0001\x0000 enemigo usó\xfffeHabitación mágica!
-\xf000ā\x0001\x0000 usó\xfffeTirando bajo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTirando bajo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTirando bajo!
-\xf000ā\x0001\x0000 usó\xfffeTormenta montaña!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTormenta montaña!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTormenta montaña!
-\xf000ā\x0001\x0000 usó\xfffeLlama explosión!
-\xf000ā\x0001\x0000 salvaje usó\xfffeLlama explosión!
-\xf000ā\x0001\x0000 enemigo usó\xfffeLlama explosión!
-\xf000ā\x0001\x0000 usó\xfffeOla lodo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeOla lodo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeOla lodo!
-\xf000ā\x0001\x0000 usó\xfffeDanza Mariposa!
-\xf000ā\x0001\x0000 salvaje usó\xfffeDanza Mariposa!
-\xf000ā\x0001\x0000 enemigo usó\xfffeDanza Mariposa!
-\xf000ā\x0001\x0000 usó\xfffeBombardero pesado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBombardero pesado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBombardero pesado!
-\xf000ā\x0001\x0000 usó\xfffeSincronía
-\xf000ā\x0001\x0000 salvaje usó\xfffeSincronía
-\xf000ā\x0001\x0000 enemigo usó\xfffeSincronía
-\xf000ā\x0001\x0000 usó\xfffeBola eléctrica!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBola eléctrica!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBola eléctrica!
-\xf000ā\x0001\x0000 usó\xfffeEmpapar!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEmpapar!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEmpapar!
-\xf000ā\x0001\x0000 usó\xfffeCarga nitro!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCarga nitro!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCarga nitro!
-\xf000ā\x0001\x0000 usó\xfffeCoil!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCoil!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCoil!
-\xf000ā\x0001\x0000 usó\xfffeBarre tobillo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBarre tobillo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBarre tobillo!
-\xf000ā\x0001\x0000 usó\xfffeBomba ácida!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBomba ácida!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBomba ácida!
-\xf000ā\x0001\x0000 usó\xfffeAstucia!
-\xf000ā\x0001\x0000 salvaje usó\xfffeAstucia!
-\xf000ā\x0001\x0000 enemigo usó\xfffeAstucia!
-\xf000ā\x0001\x0000 usó\xfffeRayo simple!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRayo simple!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRayo simple!
-\xf000ā\x0001\x0000 usó\xfffeHacer amigos!
-\xf000ā\x0001\x0000 salvaje usó\xfffeHacer amigos!
-\xf000ā\x0001\x0000 enemigo usó\xfffeHacer amigos!
-\xf000ā\x0001\x0000 usó\xfffeTu primero!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTu primero!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTu primero!
-\xf000ā\x0001\x0000 usó\xfffeCanta una ronda!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCanta una ronda!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCanta una ronda!
-\xf000ā\x0001\x0000 usó\xfffeVoz eco!
-\xf000ā\x0001\x0000 salvaje usó\xfffeVoz eco!
-\xf000ā\x0001\x0000 enemigo usó\xfffeVoz eco!
-\xf000ā\x0001\x0000 usó\xfffePoco a poco!
-\xf000ā\x0001\x0000 salvaje usó\xfffePoco a poco!
-\xf000ā\x0001\x0000 enemigo usó\xfffePoco a poco!
-\xf000ā\x0001\x0000 usó\xfffeSmog puro!
-\xf000ā\x0001\x0000 salvaje usó\xfffeSmog puro!
-\xf000ā\x0001\x0000 enemigo usó\xfffeSmog puro!
-\xf000ā\x0001\x0000 usó\xfffePoder ayuda!
-\xf000ā\x0001\x0000 salvaje usó\xfffePoder ayuda!
-\xf000ā\x0001\x0000 enemigo usó\xfffePoder ayuda!
-\xf000ā\x0001\x0000 usó\xfffeGuardia rápida!
-\xf000ā\x0001\x0000 salvaje usó\xfffeGuardia rápida!
-\xf000ā\x0001\x0000 enemigo usó\xfffeGuardia rápida!
-\xf000ā\x0001\x0000 usó\xfffeCambio de lado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCambio de lado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCambio de lado!
-\xf000ā\x0001\x0000 usó\xfffeEbullición de agua!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEbullición de agua!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEbullición de agua!
-\xf000ā\x0001\x0000 usó\xfffeShell Break!
-\xf000ā\x0001\x0000 salvaje usó\xfffeShell Break!
-\xf000ā\x0001\x0000 enemigo usó\xfffeShell Break!
-\xf000ā\x0001\x0000 usó\xfffeRayo curativo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRayo curativo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRayo curativo!
-\xf000ā\x0001\x0000 usó\xfffeOjo malvado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeOjo malvado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeOjo malvado!
-\xf000ā\x0001\x0000 usó\xfffeCaida libre!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCaida libre!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCaida libre!
-\xf000ā\x0001\x0000 usó\xfffeCambio de marcha!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCambio de marcha!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCambio de marcha!
-\xf000ā\x0001\x0000 usó\xfffeTiro superior!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTiro superior!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTiro superior!
-\xf000ā\x0001\x0000 usó\xfffeIncinerar!
-\xf000ā\x0001\x0000 salvaje usó\xfffeIncinerar!
-\xf000ā\x0001\x0000 enemigo usó\xfffeIncinerar!
-\xf000ā\x0001\x0000 usó\xfffePosponer!
-\xf000ā\x0001\x0000 salvaje usó\xfffePosponer!
-\xf000ā\x0001\x0000 enemigo usó\xfffePosponer!
-\xf000ā\x0001\x0000 usó\xfffeAcróbata!
-\xf000ā\x0001\x0000 salvaje usó\xfffeAcróbata!
-\xf000ā\x0001\x0000 enemigo usó\xfffeAcróbata!
-\xf000ā\x0001\x0000 usó\xfffeMirror Type!
-\xf000ā\x0001\x0000 salvaje usó\xfffeMirror Type!
-\xf000ā\x0001\x0000 enemigo usó\xfffeMirror Type!
-\xf000ā\x0001\x0000 usó\xfffeVenganza!
-\xf000ā\x0001\x0000 salvaje usó\xfffeVenganza!
-\xf000ā\x0001\x0000 enemigo usó\xfffeVenganza!
-\xf000ā\x0001\x0000 usó\xfffeJuega vida!
-\xf000ā\x0001\x0000 salvaje usó\xfffeJuega vida!
-\xf000ā\x0001\x0000 enemigo usó\xfffeJuega vida!
-\xf000ā\x0001\x0000 usó\xfffePase regalo!
-\xf000ā\x0001\x0000 salvaje usó\xfffePase regalo!
-\xf000ā\x0001\x0000 enemigo usó\xfffePase regalo!
-\xf000ā\x0001\x0000 usó\xfffePurgatorio!
-\xf000ā\x0001\x0000 salvaje usó\xfffePurgatorio!
-\xf000ā\x0001\x0000 enemigo usó\xfffePurgatorio!
-\xf000ā\x0001\x0000 usó\xfffeJuramento de agua!
-\xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de agua!
-\xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de agua!
-\xf000ā\x0001\x0000 usó\xfffeJuramento de fuego!
-\xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de fuego!
-\xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de fuego!
-\xf000ā\x0001\x0000 usó\xfffeJuramento de tierra!
-\xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de tierra!
-\xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de tierra!
-\xf000ā\x0001\x0000 usó\xfffeCambio de voltaje!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCambio de voltaje!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCambio de voltaje!
-\xf000ā\x0001\x0000 usó\xfffeBug Opposition!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBug Opposition!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBug Opposition!
-\xf000ā\x0001\x0000 usó\xfffeNivelar!
-\xf000ā\x0001\x0000 salvaje usó\xfffeNivelar!
-\xf000ā\x0001\x0000 enemigo usó\xfffeNivelar!
-\xf000ā\x0001\x0000 usó\xfffeAliento helado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeAliento helado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeAliento helado!
-\xf000ā\x0001\x0000 usó\xfffeCola dragón!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCola dragón!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCola dragón!
-\xf000ā\x0001\x0000 usó\xfffeAnimar!
-\xf000ā\x0001\x0000 salvaje usó\xfffeAnimar!
-\xf000ā\x0001\x0000 enemigo usó\xfffeAnimar!
-\xf000ā\x0001\x0000 usó\xfffeRed eléctrica!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRed eléctrica!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRed eléctrica!
-\xf000ā\x0001\x0000 usó\xfffeRayo salvaje!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRayo salvaje!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRayo salvaje!
-\xf000ā\x0001\x0000 usó\xfffeTaladro lineal!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTaladro lineal!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTaladro lineal!
-\xf000ā\x0001\x0000 usó\xfffeDoble pico!
-\xf000ā\x0001\x0000 salvaje usó\xfffeDoble pico!
-\xf000ā\x0001\x0000 enemigo usó\xfffeDoble pico!
-\xf000ā\x0001\x0000 usó\xfffeSella corazones!
-\xf000ā\x0001\x0000 salvaje usó\xfffeSella corazones!
-\xf000ā\x0001\x0000 enemigo usó\xfffeSella corazones!
-\xf000ā\x0001\x0000 usó\xfffeEstacazo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEstacazo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEstacazo!
-\xf000ā\x0001\x0000 usó\xfffeEspada sagrada!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEspada sagrada!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEspada sagrada!
-\xf000ā\x0001\x0000 usó\xfffeConcha afilada!
-\xf000ā\x0001\x0000 salvaje usó\xfffeConcha afilada!
-\xf000ā\x0001\x0000 enemigo usó\xfffeConcha afilada!
-\xf000ā\x0001\x0000 usó\xfffeSello calor!
-\xf000ā\x0001\x0000 salvaje usó\xfffeSello calor!
-\xf000ā\x0001\x0000 enemigo usó\xfffeSello calor!
-\xf000ā\x0001\x0000 usó\xfffeLicuadora hierba!
-\xf000ā\x0001\x0000 salvaje usó\xfffeLicuadora hierba!
-\xf000ā\x0001\x0000 enemigo usó\xfffeLicuadora hierba!
-\xf000ā\x0001\x0000 usó\xfffeRodillo duro!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRodillo duro!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRodillo duro!
-\xf000ā\x0001\x0000 usó\xfffeGuardia algodón!
-\xf000ā\x0001\x0000 salvaje usó\xfffeGuardia algodón!
-\xf000ā\x0001\x0000 enemigo usó\xfffeGuardia algodón!
-\xf000ā\x0001\x0000 usó\xfffeEstallido nocturno!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEstallido nocturno!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEstallido nocturno!
-\xf000ā\x0001\x0000 usó\xfffePsico-descanso!
-\xf000ā\x0001\x0000 salvaje usó\xfffePsico-descanso!
-\xf000ā\x0001\x0000 enemigo usó\xfffePsico-descanso!
-\xf000ā\x0001\x0000 usó\xfffeBofetón barrido!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBofetón barrido!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBofetón barrido!
-\xf000ā\x0001\x0000 usó\xfffeTempestad!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTempestad!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTempestad!
-\xf000ā\x0001\x0000 usó\xfffeRoptura afro!
-\xf000ā\x0001\x0000 salvaje usó\xfffeRoptura afro!
-\xf000ā\x0001\x0000 enemigo usó\xfffeRoptura afro!
-\xf000ā\x0001\x0000 usó\xfffeLanzatuercas!
-\xf000ā\x0001\x0000 salvaje usó\xfffeLanzatuercas!
-\xf000ā\x0001\x0000 enemigo usó\xfffeLanzatuercas!
-\xf000ā\x0001\x0000 usó\xfffeBomba llama!
-\xf000ā\x0001\x0000 salvaje usó\xfffeBomba llama!
-\xf000ā\x0001\x0000 enemigo usó\xfffeBomba llama!
-\xf000ā\x0001\x0000 usó\xfffeTechno Buster!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTechno Buster!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTechno Buster!
-\xf000ā\x0001\x0000 usó\xfffeCanción antigua!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCanción antigua!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCanción antigua!
-\xf000ā\x0001\x0000 usó\xfffeEspada misteriosa!
-\xf000ā\x0001\x0000 salvaje usó\xfffeEspada misteriosa!
-\xf000ā\x0001\x0000 enemigo usó\xfffeEspada misteriosa!
-\xf000ā\x0001\x0000 usó\xfffeMundo congelado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeMundo congelado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeMundo congelado!
-\xf000ā\x0001\x0000 usó\xfffeChoque eléctrico!
-\xf000ā\x0001\x0000 salvaje usó\xfffeChoque eléctrico!
-\xf000ā\x0001\x0000 enemigo usó\xfffeChoque eléctrico!
-\xf000ā\x0001\x0000 usó\xfffeFuego azul!
-\xf000ā\x0001\x0000 salvaje usó\xfffeFuego azul!
-\xf000ā\x0001\x0000 enemigo usó\xfffeFuego azul!
-\xf000ā\x0001\x0000 usó\xfffeDanza fuego!
-\xf000ā\x0001\x0000 salvaje usó\xfffeDanza fuego!
-\xf000ā\x0001\x0000 enemigo usó\xfffeDanza fuego!
-\xf000ā\x0001\x0000 usó\xfffeCriorrayo!
-\xf000ā\x0001\x0000 salvaje usó\xfffeCriorrayo!
-\xf000ā\x0001\x0000 enemigo usó\xfffeCriorrayo!
-\xf000ā\x0001\x0000 usó\xfffeLlamarada fria!
-\xf000ā\x0001\x0000 salvaje usó\xfffeLlamarada fria!
-\xf000ā\x0001\x0000 enemigo usó\xfffeLlamarada fria!
-\xf000ā\x0001\x0000 usó\xfffeMandato!
-\xf000ā\x0001\x0000 salvaje usó\xfffeMandato!
-\xf000ā\x0001\x0000 enemigo usó\xfffeMandato!
-\xf000ā\x0001\x0000 usó\xfffeDerribe carámbano!
-\xf000ā\x0001\x0000 salvaje usó\xfffeDerribe carámbano!
-\xf000ā\x0001\x0000 enemigo usó\xfffeDerribe carámbano!
-\xf000ā\x0001\x0000 usó\xfffeV-Generate!
-\xf000ā\x0001\x0000 salvaje usó\xfffeV-Generate!
-\xf000ā\x0001\x0000 enemigo usó\xfffeV-Generate!
-\xf000ā\x0001\x0000 usó\xfffeFuego cruzado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeFuego cruzado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeFuego cruzado!
-\xf000ā\x0001\x0000 usó\xfffeTrueno cruzado!
-\xf000ā\x0001\x0000 salvaje usó\xfffeTrueno cruzado!
-\xf000ā\x0001\x0000 enemigo usó\xfffeTrueno cruzado!
+¡El \xf000ā\x0001\x0000 usó\xfffeGarra afilada!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGarra afilada!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGarra afilada!
+¡El \xf000ā\x0001\x0000 usó\xfffeAmplia guardia!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAmplia guardia!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAmplia guardia!
+¡El \xf000ā\x0001\x0000 usó\xfffeCompartir guardia!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCompartir guardia!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCompartir guardia!
+¡El \xf000ā\x0001\x0000 usó\xfffeCompartir poder!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCompartir poder!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCompartir poder!
+¡El \xf000ā\x0001\x0000 usó\xfffeSala maravilla!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSala maravilla!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSala maravilla!
+¡El \xf000ā\x0001\x0000 usó\xfffeImpacto psícopata!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeImpacto psícopata!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeImpacto psícopata!
+¡El \xf000ā\x0001\x0000 usó\xfffeImpacto venenoso!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeImpacto venenoso!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeImpacto venenoso!
+¡El \xf000ā\x0001\x0000 usó\xfffePurga cuerpo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePurga cuerpo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePurga cuerpo!
+¡El \xf000ā\x0001\x0000 usó\xfffeSuper Powder!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSuper Powder!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSuper Powder!
+¡El \xf000ā\x0001\x0000 usó\xfffeTeleKinético!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTeleKinético!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTeleKinético!
+¡El \xf000ā\x0001\x0000 usó\xfffeHabitación mágica!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHabitación mágica!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHabitación mágica!
+¡El \xf000ā\x0001\x0000 usó\xfffeTirando bajo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTirando bajo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTirando bajo!
+¡El \xf000ā\x0001\x0000 usó\xfffeTormenta montaña!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTormenta montaña!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTormenta montaña!
+¡El \xf000ā\x0001\x0000 usó\xfffeLlama explosión!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLlama explosión!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLlama explosión!
+¡El \xf000ā\x0001\x0000 usó\xfffeOla lodo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOla lodo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOla lodo!
+¡El \xf000ā\x0001\x0000 usó\xfffeDanza Mariposa!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza Mariposa!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza Mariposa!
+¡El \xf000ā\x0001\x0000 usó\xfffeBombardero pesado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBombardero pesado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBombardero pesado!
+¡El \xf000ā\x0001\x0000 usó\xfffeSincronía
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSincronía
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSincronía
+¡El \xf000ā\x0001\x0000 usó\xfffeBola eléctrica!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBola eléctrica!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBola eléctrica!
+¡El \xf000ā\x0001\x0000 usó\xfffeEmpapar!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEmpapar!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEmpapar!
+¡El \xf000ā\x0001\x0000 usó\xfffeCarga nitro!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCarga nitro!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCarga nitro!
+¡El \xf000ā\x0001\x0000 usó\xfffeCoil!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCoil!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCoil!
+¡El \xf000ā\x0001\x0000 usó\xfffeBarre tobillo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBarre tobillo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBarre tobillo!
+¡El \xf000ā\x0001\x0000 usó\xfffeBomba ácida!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba ácida!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba ácida!
+¡El \xf000ā\x0001\x0000 usó\xfffeAstucia!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAstucia!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAstucia!
+¡El \xf000ā\x0001\x0000 usó\xfffeRayo simple!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo simple!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo simple!
+¡El \xf000ā\x0001\x0000 usó\xfffeHacer amigos!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeHacer amigos!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeHacer amigos!
+¡El \xf000ā\x0001\x0000 usó\xfffeTu primero!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTu primero!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTu primero!
+¡El \xf000ā\x0001\x0000 usó\xfffeCanta una ronda!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCanta una ronda!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCanta una ronda!
+¡El \xf000ā\x0001\x0000 usó\xfffeVoz eco!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVoz eco!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVoz eco!
+¡El \xf000ā\x0001\x0000 usó\xfffePoco a poco!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePoco a poco!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePoco a poco!
+¡El \xf000ā\x0001\x0000 usó\xfffeSmog puro!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSmog puro!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSmog puro!
+¡El \xf000ā\x0001\x0000 usó\xfffePoder ayuda!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePoder ayuda!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePoder ayuda!
+¡El \xf000ā\x0001\x0000 usó\xfffeGuardia rápida!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGuardia rápida!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGuardia rápida!
+¡El \xf000ā\x0001\x0000 usó\xfffeCambio de lado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambio de lado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambio de lado!
+¡El \xf000ā\x0001\x0000 usó\xfffeEbullición de agua!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEbullición de agua!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEbullición de agua!
+¡El \xf000ā\x0001\x0000 usó\xfffeShell Break!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeShell Break!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeShell Break!
+¡El \xf000ā\x0001\x0000 usó\xfffeRayo curativo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo curativo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo curativo!
+¡El \xf000ā\x0001\x0000 usó\xfffeOjo malvado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeOjo malvado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeOjo malvado!
+¡El \xf000ā\x0001\x0000 usó\xfffeCaida libre!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCaida libre!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCaida libre!
+¡El \xf000ā\x0001\x0000 usó\xfffeCambio de marcha!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambio de marcha!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambio de marcha!
+¡El \xf000ā\x0001\x0000 usó\xfffeTiro superior!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTiro superior!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTiro superior!
+¡El \xf000ā\x0001\x0000 usó\xfffeIncinerar!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeIncinerar!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeIncinerar!
+¡El \xf000ā\x0001\x0000 usó\xfffePosponer!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePosponer!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePosponer!
+¡El \xf000ā\x0001\x0000 usó\xfffeAcróbata!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAcróbata!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAcróbata!
+¡El \xf000ā\x0001\x0000 usó\xfffeMirror Type!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMirror Type!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMirror Type!
+¡El \xf000ā\x0001\x0000 usó\xfffeVenganza!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeVenganza!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeVenganza!
+¡El \xf000ā\x0001\x0000 usó\xfffeJuega vida!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeJuega vida!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeJuega vida!
+¡El \xf000ā\x0001\x0000 usó\xfffePase regalo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePase regalo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePase regalo!
+¡El \xf000ā\x0001\x0000 usó\xfffePurgatorio!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePurgatorio!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePurgatorio!
+¡El \xf000ā\x0001\x0000 usó\xfffeJuramento de agua!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de agua!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de agua!
+¡El \xf000ā\x0001\x0000 usó\xfffeJuramento de fuego!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de fuego!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de fuego!
+¡El \xf000ā\x0001\x0000 usó\xfffeJuramento de tierra!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeJuramento de tierra!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeJuramento de tierra!
+¡El \xf000ā\x0001\x0000 usó\xfffeCambio de voltaje!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCambio de voltaje!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCambio de voltaje!
+¡El \xf000ā\x0001\x0000 usó\xfffeBug Opposition!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBug Opposition!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBug Opposition!
+¡El \xf000ā\x0001\x0000 usó\xfffeNivelar!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeNivelar!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeNivelar!
+¡El \xf000ā\x0001\x0000 usó\xfffeAliento helado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAliento helado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAliento helado!
+¡El \xf000ā\x0001\x0000 usó\xfffeCola dragón!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCola dragón!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCola dragón!
+¡El \xf000ā\x0001\x0000 usó\xfffeAnimar!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeAnimar!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeAnimar!
+¡El \xf000ā\x0001\x0000 usó\xfffeRed eléctrica!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRed eléctrica!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRed eléctrica!
+¡El \xf000ā\x0001\x0000 usó\xfffeRayo salvaje!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRayo salvaje!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRayo salvaje!
+¡El \xf000ā\x0001\x0000 usó\xfffeTaladro lineal!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTaladro lineal!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTaladro lineal!
+¡El \xf000ā\x0001\x0000 usó\xfffeDoble pico!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDoble pico!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDoble pico!
+¡El \xf000ā\x0001\x0000 usó\xfffeSella corazones!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSella corazones!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSella corazones!
+¡El \xf000ā\x0001\x0000 usó\xfffeEstacazo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEstacazo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEstacazo!
+¡El \xf000ā\x0001\x0000 usó\xfffeEspada sagrada!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEspada sagrada!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEspada sagrada!
+¡El \xf000ā\x0001\x0000 usó\xfffeConcha afilada!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeConcha afilada!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeConcha afilada!
+¡El \xf000ā\x0001\x0000 usó\xfffeSello calor!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeSello calor!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeSello calor!
+¡El \xf000ā\x0001\x0000 usó\xfffeLicuadora hierba!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLicuadora hierba!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLicuadora hierba!
+¡El \xf000ā\x0001\x0000 usó\xfffeRodillo duro!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRodillo duro!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRodillo duro!
+¡El \xf000ā\x0001\x0000 usó\xfffeGuardia algodón!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeGuardia algodón!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeGuardia algodón!
+¡El \xf000ā\x0001\x0000 usó\xfffeEstallido nocturno!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEstallido nocturno!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEstallido nocturno!
+¡El \xf000ā\x0001\x0000 usó\xfffePsico-descanso!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffePsico-descanso!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffePsico-descanso!
+¡El \xf000ā\x0001\x0000 usó\xfffeBofetón barrido!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBofetón barrido!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBofetón barrido!
+¡El \xf000ā\x0001\x0000 usó\xfffeTempestad!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTempestad!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTempestad!
+¡El \xf000ā\x0001\x0000 usó\xfffeRoptura afro!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeRoptura afro!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeRoptura afro!
+¡El \xf000ā\x0001\x0000 usó\xfffeLanzatuercas!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLanzatuercas!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLanzatuercas!
+¡El \xf000ā\x0001\x0000 usó\xfffeBomba llama!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeBomba llama!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeBomba llama!
+¡El \xf000ā\x0001\x0000 usó\xfffeTechno Buster!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTechno Buster!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTechno Buster!
+¡El \xf000ā\x0001\x0000 usó\xfffeCanción antigua!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCanción antigua!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCanción antigua!
+¡El \xf000ā\x0001\x0000 usó\xfffeEspada misteriosa!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeEspada misteriosa!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeEspada misteriosa!
+¡El \xf000ā\x0001\x0000 usó\xfffeMundo congelado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMundo congelado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMundo congelado!
+¡El \xf000ā\x0001\x0000 usó\xfffeChoque eléctrico!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeChoque eléctrico!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeChoque eléctrico!
+¡El \xf000ā\x0001\x0000 usó\xfffeFuego azul!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuego azul!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuego azul!
+¡El \xf000ā\x0001\x0000 usó\xfffeDanza fuego!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDanza fuego!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDanza fuego!
+¡El \xf000ā\x0001\x0000 usó\xfffeCriorrayo!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeCriorrayo!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeCriorrayo!
+¡El \xf000ā\x0001\x0000 usó\xfffeLlamarada fria!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeLlamarada fria!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeLlamarada fria!
+¡El \xf000ā\x0001\x0000 usó\xfffeMandato!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeMandato!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeMandato!
+¡El \xf000ā\x0001\x0000 usó\xfffeDerribe carámbano!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeDerribe carámbano!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeDerribe carámbano!
+¡El \xf000ā\x0001\x0000 usó\xfffeV-Generate!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeV-Generate!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeV-Generate!
+¡El \xf000ā\x0001\x0000 usó\xfffeFuego cruzado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeFuego cruzado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeFuego cruzado!
+¡El \xf000ā\x0001\x0000 usó\xfffeTrueno cruzado!
+¡El \xf000ā\x0001\x0000 salvaje usó\xfffeTrueno cruzado!
+¡El \xf000ā\x0001\x0000 enemigo usó\xfffeTrueno cruzado!
