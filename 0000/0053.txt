@@ -1,46 +1,46 @@
 -\xfffe-\xfffe-
-The best Ball with the ultimate level\xfffeof performance. It will catch any\xfffewild Pokémon without fail.
-An ultra-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a Great Ball.
-A good, high-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a standard Poké Ball.
-A device for catching wild Pokémon.\xfffeIt is thrown like a ball at the target.\xfffeIt is designed as a capsule system.
-A special Poké Ball that is used only\xfffein the Great Marsh. It is decorated\xfffein a camouflage pattern.
-A somewhat different Poké Ball that\xfffeworks especially well on Water- and\xfffeBug-type Pokémon.
-A somewhat different Poké Ball that\xfffeworks especially well on Pokémon\xfffethat live in the sea.
-A somewhat different Poké Ball that\xfffeworks especially well on weaker\xfffePokémon in the wild.
-A somewhat different Poké Ball that\xfffeworks especially well on Pokémon\xfffespecies that were previously caught.
-A somewhat different Ball that\xfffebecomes progressively better the\xfffemore turns there are in a battle.
-A comfortable Poké Ball that makes\xfffea caught wild Pokémon quickly grow\xfffefriendly.
-A somewhat rare Poké Ball that has\xfffebeen specially made to commemorate\xfffean event of some sort.
-A somewhat different Poké Ball that\xfffemakes it easier to catch wild Pokémon\xfffeat night or in dark places like caves.
-A remedial Poké Ball that restores\xfffethe caught Pokémon’s HP and\xfffeeliminates any status problem.
-A somewhat different Poké Ball that\xfffeprovides a better catch rate if it is\xfffeused at the start of a wild encounter.
-A quite rare Poké Ball that has been\xfffespecially crafted to commemorate\xfffean occasion of some sort.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby just 20 points.
-A spray-type medicine.\xfffeIt lifts the effect of poison from\xfffeone Pokémon.
-A spray-type medicine.\xfffeIt heals a single Pokémon that is\xfffesuffering from a burn.
-A spray-type medicine.\xfffeIt defrosts a Pokémon that has been\xfffefrozen solid.
-A spray-type medicine.\xfffeIt awakens a Pokémon from the\xfffeclutches of sleep.
-A spray-type medicine.\xfffeIt eliminates paralysis from a single\xfffePokémon.
-A medicine that fully restores the\xfffeHP and heals any status problems\xfffeof a single Pokémon.
-A spray-type medicine for wounds.\xfffeIt completely restores the HP of a\xfffesingle Pokémon.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby 200 points.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A spray-type medicine.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-A medicine that revives a fainted\xfffePokémon. It restores half the\xfffePokémon’s maximum HP.
-A medicine that revives a fainted\xfffePokémon. It fully restores the\xfffePokémon’s HP.
-Water with a high mineral content.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A fizzy soda drink.\xfffeIt restores the HP of one Pokémon\xfffeby 60 points.
-A very sweet drink.\xfffeIt restores the HP of one Pokémon\xfffeby 80 points.
-Milk with a high nutrition content.\xfffeIt restores the HP of one Pokémon\xfffe by 100 points.
-A very bitter medicine powder.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A very bitter root.\xfffeIt restores the HP of one Pokémon\xfffeby 200 points.
-A very bitter medicine powder.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-A very bitter medicinal herb.\xfffeIt revives a fainted Pokémon, fully\xffferestoring its HP.
-It restores the PP of a Pokémon’s\xfffeselected move by a maximum of\xfffe10 points.
-It fully restores the PP of a single\xfffeselected move that has been learned\xfffeby the target Pokémon.
-It restores the PP of all the\xfffemoves learned by the targeted\xfffePokémon by 10 points each.
-It fully restores the PP of all the\xfffemoves learned by the targeted\xfffePokémon.
-Lavaridge Town’s local specialty.\xfffeIt heals all the status problems of\xfffeone Pokémon.
+La mejor Poké Ball con el mejor índice\xfffede captura. Capturará cualquier\xfffePokémon salvaje sin fallar.
+Una Poké Ball con un nivel de captura alto \xfffeproporciona un ratio de captura mas\xfffealto que una Super Ball.
+Una Poké Ball con un buen nivel de captura \xfffeproporciona un ratio de captura mas\xfffealto que una Poké Ball normal.
+Artefacto para capturar Pokémon salvajes.\xfffeSe lanza como una pelota al objetivo.\xfffeEsta diseñada como un sistema de capsula.
+Una Poké Ball especial que sólo se usa\xfffeen la Zona Safari. Está decorada\xfffecon estampados de camuflaje.
+Una Poké Ball diferente que funciona\xfffeespecialmente mejor en los Pokémon de tipo\xfffeAgua- y tipo Bicho.
+Una Poké Ball diferente que funciona\xfffeespecialmente mejor en los Pokémon\xfffeque viven en el mar.
+Una Poké Ball diferente que funciona\xfffeespecialmente bien en los Pokémon\xfffecon un nivel inferior al de tu Pokémon.
+Una Poké Ball diferente que funciona\xfffeespecialmente mejor en las especies Pokémon\xfffque ya han sido capturadas.
+Una Poké Ball diferente que funciona\xfffecada turno mejor, cuantos mas\xfffeturnos hayas luchado mas efectiva será.
+Una Poké Ball confortable que hace que\xfffeun Pokémon salvaje se haga más\xfffeamistoso rápidamente.
+Una Poké Ball rara que se ha hecho especialmente\xfffepara conmemorar algo.\xfffeEs igual que una Poké Ball.
+Una Poké Ball rara que hace más facil capturar\xfffePokémon salvajes en lugares oscuros\xfffecomo las cuevas o por la noche.
+Una Poké Ball que restaura \xfffelos PS del Pokémon capturado y\xfffeeliminacualquier problema de estado.
+Una Poké Ball rara que proporciona\xfffeun mejor ratio de captura si se usa\xfffeal empezar un encuentro con un Pokémon salvaje.
+Una Poké Ball rara que ha sido diseñada\xfffespecialmente para conmemorar algo\xfffetiene el mismo ratio que una Poké Ball.
+Una medicina de tipo espray para las heridas. \ XfffeRestaura 20 puntos de salud \xfffede un Pokémon.
+Una medicina de tipo espray.\xfffeQuita los efectos del veneno sobre\xfffeun Pokémon.
+Una medicina de tipo espray.\xfffeQuita los efectos del quemazón sobre \xfffeun Pokémon.
+Una medicina de tipo espray.\xfffeDescongela a un Pokémon que ha sido\xfffecongelado.
+Una medicina de tipo espray.\xfffeDespierta a un Pokémon que\xfffeestá roncando.
+Una medicina de tipo espray.\xfffeQuita los efectos de la parálisis sobre\xfffe un Pokémon.
+Una medicina que restaura completamente\xfffela salud y cura cualquier problema de estado sobre\xfffeof un sólo Pokémon.
+Una medicina de tipo espray para las heridas.\xfffeRestaura completamente los salud de \xfffeun sólo Pokémon.
+Una medicina de tipo espray para las heridas.\xfffeRestaura 200 puntos de salud de\xfffeun sólo Pokémon.
+Una medicina de tipo espray para las heridas.\xfffeRestaura 50 puntos de salud de\xfffeun sólo Pokémon.
+Una medicina de tipo espray.\xfffeCura todos los problemas de estado\xfffede un sólo Pokémon.
+Una medicina que revive a un\xfffePokémon. Restaura media salud\xfffede un Pokémon.
+Una medicina que revive a un\xfffePokémon. Restaura completamente la salud\xfffede un Pokémon.
+Agua con un alto contenido mineral.\xfffeRestaura 50 puntos de salud \xfffede un Pokémon.
+Una bebida refrescante de Soda.\xfffeRestaura 60 puntos de salud \xfffede un Pokémon.
+Una bebida muy dulce.\xfffeRestaura 80 puntos de salud\xfffede un Pokémon.
+Leche un alto nivel nutricional.\xfffeRestaura 100 puntos de salud\xfffe de un Pokémon.
+Una medicina muy amarga en polvo.\xfffeRestaura 50 puntos de salud\xfffede un Pokémon.
+Una raíz muy amarga.\xfffeRestaura 200 puntos de salud\xfffede un Pokémon.
+Una medicina muy amarga en polvo.\xfffeCura todos los problemas de estado\xfffede un sólo Pokémon.
+Una hierba medicinal muy amarga.\xfffeRevive completamente un Pokémon debilitado\xffferestaurando toda su salud.
+Restaura 10 puntos de PP de un \xfffemovimiento seleccionado\xfffede un sólo Pokémon.
+Restaura completamente los PP de un\xfffemovimiento seleccionado\xfffede un sólo Pokémon.
+Restaura 10 puntos de PP de todos\xfffelos movimientos aprendidos por el\xfffePokémon.
+Restaura completamente los PP de todos\xfffemovimientos aprendidos por el\xfffePokémon.
+Especialidad local del pueblo Lavacalda.\xfffeCura todos los problemas de estado\xfffede un Pokémon.
 A 100% pure juice made of Berries.\xfffeIt restores the HP of one Pokémon\xfffeby just 20 points.
 It revives all fainted Pokémon.\xfffeIn doing so, it also fully restores\xfffetheir HP.
 A nutritious drink for Pokémon.\xfffeIt raises the base HP of a single\xfffePokémon.
