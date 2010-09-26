@@ -1,37 +1,37 @@
 Opciones
-Velocidad de texto
-Escenario de batalla
+Velocidad texto
+Animación batalla
 Estilo de Batalla
 Sonido
-Modo de botón
+Idioma
 Marco
 IR Report
 Confirmar
 Salir
-Lento	
-Medio
-Rapido
+Lenta
+Media
+Rápida
 On
 Off
 Shift
 Set
 Estereo
 Mono
-Normal
-Kanji
+Español
+Inglés
 Escribir
 Off
 かく
 かかない
-メッセージの　はやさを\xfffe３しゅるいから　えらべます
-せんとうのとき　ポケモンの　わざの\xfffeアニメを　みるかどうか　えらべます
-しょうぶの　ルールを\xfffeえらぶことが　できます
-ゲームの　おとを\xfffeえらぶことが　できます
-もじの　ひょうじを\xfffeきりかえることが　できます
+La velocidad del texto puede cambiarse\xfffeen tres velocidades distintas.
+Elige si quieres mostrar las animaciones en combate.
+Elige cómo deseas luchar \xfffecambiando o con un Pokémon fijo.
+Elige como quieres escuchar el sonido\xfffeen estereo o en mono.
+Elige el idioma.\fffeEspañol o Inglés.
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-えらんだ　せっていに　かえますか？
+¿Deseas continuar?\xfffeSi sales, los cambios se perderán.
 Sí
 No
 ダミーメッセージ
