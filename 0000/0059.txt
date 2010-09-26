@@ -1,4 +1,4 @@
-Mailbox
+Buzón Correo
 \xf000Ȁ\x0001\x0000
 ／
 Cancelar
@@ -7,7 +7,7 @@ Leer
 Borrar
 Dar
 Cancelar
-¿Que quieres hacer con \xfffeel correo de \xf000Ā\x0001\x0000's?
+¿Que quieres hacer con \xfffeel correo de \xf000Ā\x0001\x0000?
 El mensaje se perderá.\xfffe¿Estás de acuerdo?
 El mensaje ha sido borrado.
 ¿Hacer que un Pokémon lleve la Carta?
