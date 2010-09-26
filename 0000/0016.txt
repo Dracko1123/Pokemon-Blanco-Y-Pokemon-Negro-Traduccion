@@ -1,411 +1,411 @@
-¡\xf000Ă\x0001\x0000 se debilitó!
-¡El \xf000ā\x0001\x0000 salvaje se debilitó!
-¡El \xf000ā\x0001\x0000 enemigo se debilitó!
-\xf000Ă\x0001\x0000 \xffferestauró salud!
-¡El \xf000ā\x0001\x0000 salvaje \xffferestauró salud!
-¡El \xf000ā\x0001\x0000 enemigo \xffferestauró salud!
-¡Es muy eficaz \xf000Ă\x0001\x0000! \xfffe
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje! \xfffe
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo \xfffe
-¡Es muy eficaz \xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001!\xfffe
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001!\xfffe
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001!\xfffe
-¡Es muy eficaz \xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
-¡Es muy eficaz ¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!
-\xf000Ă\x0001\x0000 \xfffeis not very effective...
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis not very effective...
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis not very effective...
-\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
-¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
-¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001!\xfffeno es muy eficaz...
-\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
-¡El \xf000ā\x0001\x0000 salvaje y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
-¡El \xf000ā\x0001\x0000 enemigo y \xf000Ă\x0001\x0001 y \xfffe\xf000Ă\x0001\x0002!no es muy eficaz...
-However, \xf000Ă\x0001\x0000's attack\xfffedidn't ly well!
-However, ¡El \xf000ā\x0001\x0000 salvaje's attack\xfffedidn't ly well!
-However, ¡El \xf000ā\x0001\x0000 enemigo attack\xfffedidn't ly well!
-\xf000Ă\x0001\x0000's\xfffeAttack rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack rose!
-\xf000Ă\x0001\x0000's\xfffeDefense rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness rose!
-\xf000Ă\x0001\x0000's\xfffeAttack rose greatly!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack rose greatly!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack rose greatly!
-\xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense rose greatly!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack rose greatly!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Def rose greatly!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Def rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed rose greatly!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed rose greatly!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy greatly rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy greatly rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness greatly rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness greatly rose!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy sharply rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness sharply rose!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAttack fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack fell!
-\xf000Ă\x0001\x0000's\xfffeDefense fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness fell!
-\xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeDefense greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy greatly fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness greatly fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy sharply fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness sharply fell!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack won't go higher!
-\xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense won't go higher!
-\xf000Ă\x0001\x0000's\xfffeSpeed won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed won't go higher!
-\xf000Ă\x0001\x0000's\xfffeAccuracy won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy won't go higher!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness won't go higher!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness won't go higher!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness won't go higher!
-\xf000Ă\x0001\x0000's\xfffeAttack won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAttack won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAttack won't go lower!
-\xf000Ă\x0001\x0000's\xfffeDefense won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeDefense won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeDefense won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Attack won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Attack won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSp. Defense won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSp. Defense won't go lower!
-\xf000Ă\x0001\x0000's\xfffeSpeed won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeSpeed won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeSpeed won't go lower!
-\xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeAccuracy won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeAccuracy won't go lower!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffeEvasiveness won't go lower!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffeEvasiveness won't go lower!
-\xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-¡El \xf000ā\x0001\x0000 salvaje's\xfffechanged ability returned to normal!
-¡El \xf000ā\x0001\x0000 enemigo's\xfffechanged ability returned to normal!
-\xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-¡El \xf000ā\x0001\x0000 salvaje \xfffeのうりょくは　さがらない！
-¡El \xf000ā\x0001\x0000 enemigo \xfffeのうりょくは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-¡El \xf000ā\x0001\x0000 salvaje \xfffeこうげきは　さがらない！
-¡El \xf000ā\x0001\x0000 enemigo \xfffeこうげきは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-¡El \xf000ā\x0001\x0000 salvaje \xfffeぼうぎょは　さがらない！
-¡El \xf000ā\x0001\x0000 enemigo \xfffeぼうぎょは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-¡El \xf000ā\x0001\x0000 salvaje \xfffeめいちゅうりつは　さがらない！
-¡El \xf000ā\x0001\x0000 enemigo \xfffeめいちゅうりつは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-¡El \xf000ā\x0001\x0000 salvaje \xfffeisn't affected by it...
-¡El \xf000ā\x0001\x0000 enemigo \xfffeisn't affected by it...
-\xf000Ă\x0001\x0000 \xfffeavoided the attack!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeavoided the attack!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeavoided the attack!
-\xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeisn't phased by it!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeisn't phased by it!
-\xf000Ă\x0001\x0000 increased the \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased the wild \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased the foe's \xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000's \xfffeform changed!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffeform changed!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeform changed!
-\xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvaje dropped\xfffe\xf000ĉ\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigo dropped\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffestatus returned to normal!
-¡El \xf000ā\x0001\x0000 enemigo \xfffestatus returned to normal!
-\xf000Ă\x0001\x0000 \xfffemoved to the middle!
-¡El \xf000ā\x0001\x0000 salvaje \xfffemoved to the middle!
-¡El \xf000ā\x0001\x0000 enemigo \xfffemoved to the middle!
-\xf000Ă\x0001\x0000 \xfffegot covered in poison!
-¡El \xf000ā\x0001\x0000 salvaje \xfffegot covered in poison!
-¡El \xf000ā\x0001\x0000 enemigo \xfffegot covered in poison!
-\xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-¡El \xf000ā\x0001\x0000 salvaje \xfffegot covered in a deadly poison!
-¡El \xf000ā\x0001\x0000 enemigo \xfffegot covered in a deadly poison!
-\xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-¡El \xf000ā\x0001\x0000 salvaje got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-¡El \xf000ā\x0001\x0000 enemigo got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-\xf000Ă\x0001\x0000 \xfffetook damage from the poison!
-¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage from the poison!
-¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage from the poison!
-\xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffepoison was removed completely!
-¡El \xf000ā\x0001\x0000 enemigo \xfffepoison was removed completely!
-\xf000Ă\x0001\x0000 \xfffeis already poisoned!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis already poisoned!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis already poisoned!
-\xf000Ă\x0001\x0000 \xfffecan't be poisoned!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be poisoned!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecan't become poisoned!
-\xf000Ă\x0001\x0000 \xfffegot burned!
-¡El \xf000ā\x0001\x0000 salvaje \xfffegot burned!
-¡El \xf000ā\x0001\x0000 enemigo \xfffegot burned!
-\xf000Ă\x0001\x0000got burned by the \xfffe\xf000ĉ\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvajegot burned by the \xfffe\xf000ĉ\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigogot burned by the \xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffetook damage from the burn!
-¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage from the burn!
-¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage from the burn!
-\xf000Ă\x0001\x0000's \xfffeburn was healed!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffeburn was healed!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeburn was healed!
-\xf000Ă\x0001\x0000is already burnt.
-¡El \xf000ā\x0001\x0000 salvajeis already burnt.
-¡El \xf000ā\x0001\x0000 enemigois already burnt.
-\xf000Ă\x0001\x0000 \xfffecannot be burned!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecannot be burned!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecannot be burned!
-\xf000Ă\x0001\x0000 is paralyzed\xfffey can't move!
-¡El \xf000ā\x0001\x0000 salvaje is paralyzed\xfffey can't move!
-¡El \xf000ā\x0001\x0000 enemigo is paralyzed\xfffey can't move!
-\xf000Ă\x0001\x0000 \xfffeis paralyzed y cannot move!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis paralyzed y cannot move!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis paralyzed y cannot move!
-\xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer paralyzed!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer paralyzed!
-\xf000Ă\x0001\x0000 \xfffeis already paralyzed!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis already paralyzed!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis already paralyzed!
-\xf000Ă\x0001\x0000 \xfffecan't be paralyzed!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be paralyzed!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecan't be paralyzed!
-\xf000Ă\x0001\x0000 \xfffebecame frozen!
-¡El \xf000ā\x0001\x0000 salvaje \xfffebecame frozen!
-¡El \xf000ā\x0001\x0000 enemigo \xfffebecame frozen!
-\xf000Ă\x0001\x0000 \xfffeis frozen solid y cannot move!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis frozen solid y cannot move!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis frozen solid y cannot move!
-\xf000Ă\x0001\x0000 \xfffehas thawed out!
-¡El \xf000ā\x0001\x0000 salvaje \xfffehas thawed out!
-¡El \xf000ā\x0001\x0000 enemigo \xfffehas thawed out!
-\xf000Ă\x0001\x0000 \xfffeis already frozen!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis already frozen!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis already frozen!
-\xf000Ă\x0001\x0000 \xfffecan't be frozen!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecan't be frozen!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecan't be frozen!
-\xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffey thawed out!
-¡El \xf000ā\x0001\x0000 salvaje used \xf000ć\x0001\x0001\xfffey thawed out!
-¡El \xf000ā\x0001\x0000 enemigo used \xf000ć\x0001\x0001\xfffey thawed out!
-\xf000Ă\x0001\x0000 \xfffefell asleep!
-¡El \xf000ā\x0001\x0000 salvaje \xfffefell asleep!
-¡El \xf000ā\x0001\x0000 enemigo \xfffefell asleep!
-\xf000Ă\x0001\x0000 \xfffeis sound asleep!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis sound asleep!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis sound asleep!
-\xf000Ă\x0001\x0000 \xfffewoke up!
-¡El \xf000ā\x0001\x0000 salvaje \xfffewoke up!
-¡El \xf000ā\x0001\x0000 enemigo \xfffewoke up!
-\xf000Ă\x0001\x0000 \xfffeis already asleep!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis already asleep!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis already asleep!
-\xf000Ă\x0001\x0000 \xfffecan't sleep!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecan't sleep!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecan't sleep!
-\xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-¡El \xf000ā\x0001\x0000 salvaje \xfffestarted seeing a nightmare!
-¡El \xf000ā\x0001\x0000 enemigo \xfffestarted seeing a nightmare!
-\xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-¡El \xf000ā\x0001\x0000 salvaje \xfffestarted having a nightmare!
-¡El \xf000ā\x0001\x0000 enemigo \xfffestarted having a nightmare!
-\xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis having a nightmare!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis having a nightmare!
-\xf000Ă\x0001\x0000 y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-¡El \xf000ā\x0001\x0000 salvaje y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-¡El \xf000ā\x0001\x0000 enemigo y \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-\xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvaje became infatuated \xfffewith \xf000Ă\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigo became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffe fell in love!
-¡El \xf000ā\x0001\x0000 salvaje \xfffe fell in love!
-¡El \xf000ā\x0001\x0000 enemigo \xfffe fell in love!
-\xf000Ă\x0001\x0000 \xfffeis no longer in love!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer in love!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer in love!
-\xf000Ă\x0001\x0000 \xfffeis back to normal!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis back to normal!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis back to normal!
-\xf000Ă\x0001\x0000 \xfffebecame confused!
-¡El \xf000ā\x0001\x0000 salvaje \xfffebecame confused!
-¡El \xf000ā\x0001\x0000 enemigo \xfffebecame confused!
-\xf000Ă\x0001\x0000 \xfffeis confused!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis confused!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis confused!
-\xf000Ă\x0001\x0000 \xfffeis no longer confused!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis no longer confused!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis no longer confused!
-\xf000Ă\x0001\x0000is \xfffealready confused!
-¡El \xf000ā\x0001\x0000 salvajeis \xfffealready confused!
-¡El \xf000ā\x0001\x0000 enemigois \xfffealready confused!
-\xf000Ă\x0001\x0000 \xfffecan't become confused!
-¡El \xf000ā\x0001\x0000 salvaje \xfffecan't become confused!
-¡El \xf000ā\x0001\x0000 enemigo \xfffecan't become confused!
-\xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis so tired it become confused!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis so tired it become confused!
-\xf000Ă\x0001\x0000 \xfffeis afraid y won't listen!
-¡El \xf000ā\x0001\x0000 salvaje \xfffeis afraid y won't listen!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeis afraid y won't listen!
-\xf000Ă\x0001\x0000can't concentrate \xfffey won't listen!
-¡El \xf000ā\x0001\x0000 salvajecan't concentrate \xfffey won't listen!
-¡El \xf000ā\x0001\x0000 enemigocan't concentrate \xfffey won't listen!
-\xf000Ă\x0001\x0000's \xfffeillusion wore off!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffeillusion wore off!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeillusion wore off!
-\xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvaje took damage \xfffefrom \xf000ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigo took damage \xfffefrom \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvaje has broken free \xfffefrom \xf000ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigo has broken free \xfffefrom \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffewas hit with recoil!
-¡El \xf000ā\x0001\x0000 salvaje \xfffewas hit with recoil!
-¡El \xf000ā\x0001\x0000 enemigo \xfffewas hit with recoil!
-\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
-¡El \xf000ā\x0001\x0000 salvaje's  \xfffe\xf000Ć\x0001\x0001 was traced!
-¡El \xf000ā\x0001\x0000 enemigo  \xfffe\xf000Ć\x0001\x0001 was traced!
-\xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffeattack was a critical hit!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeattack was a critical hit!
-\xf000Ă\x0001\x0000's \xfffeHP was restored!
-¡El \xf000ā\x0001\x0000 salvaje's \xfffeHP was restored!
-¡El \xf000ā\x0001\x0000 enemigo \xfffeHP was restored!
-\xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-¡El \xf000ā\x0001\x0000 salvaje restored \xf000ć\x0001\x0001's PP!
-¡El \xf000ā\x0001\x0000 enemigo restored \xf000ć\x0001\x0001's PP!
-\xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
-¡El \xf000ā\x0001\x0000 salvaje \xffferestored all of their moves' PP!
-¡El \xf000ā\x0001\x0000 enemigo \xffferestored all of their moves' PP!
-\xf000Ă\x0001\x0000 is buffeted \xfffeby the systorm!
-¡El \xf000ā\x0001\x0000 salvaje is buffeted \xfffeby the systorm!
-The foe \xf000Ă\x0001\x0000 is buffeted \xfffeby the systorm!
-\xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-¡El \xf000ā\x0001\x0000 salvajeis buffeted \xfffeby the hail!
-¡El \xf000ā\x0001\x0000 enemigois buffeted \xfffeby the hail!
-\xf000Ă\x0001\x0000 \xfffetook damage!
-¡El \xf000ā\x0001\x0000 salvaje \xfffetook damage!
-¡El \xf000ā\x0001\x0000 enemigo \xfffetook damage!
-\xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 salvaje transformed into \xfffe\xf000Ć\x0001\x0001!
-¡El \xf000ā\x0001\x0000 enemigo transformed into \xfffe\xf000Ć\x0001\x0001!
+¡\xf000A\x0001\x0000 se debilitó!
+¡El \xf000a\x0001\x0000 salvaje se debilitó!
+¡El \xf000a\x0001\x0000 enemigo se debilitó!
+\xf000A\x0001\x0000 \xffferestauró salud!
+¡El \xf000a\x0001\x0000 salvaje \xffferestauró salud!
+¡El \xf000a\x0001\x0000 enemigo \xffferestauró salud!
+¡Es muy eficaz \xf000A\x0001\x0000! \xfffe
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 salvaje! \xfffe
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 enemigo \xfffe
+¡Es muy eficaz \xf000A\x0001\x0000 y \xf000A\x0001\x0001!\xfffe
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 salvaje y \xf000A\x0001\x0001!\xfffe
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 enemigo y \xf000A\x0001\x0001!\xfffe
+¡Es muy eficaz \xf000A\x0001\x0000 y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 salvaje y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!
+¡Es muy eficaz ¡El \xf000a\x0001\x0000 enemigo y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!
+\xf000A\x0001\x0000 \xfffeno es muy efectivo...
+¡El \xf000a\x0001\x0000 salvaje \xfffeno es muy efectivo...
+¡El \xf000a\x0001\x0000 enemigo \xfffeno es muy efectivo...
+\xf000A\x0001\x0000 y \xf000A\x0001\x0001!\xfffeno es muy eficaz...
+¡El \xf000a\x0001\x0000 salvaje y \xf000A\x0001\x0001!\xfffeno es muy eficaz...
+¡El \xf000a\x0001\x0000 enemigo y \xf000A\x0001\x0001!\xfffeno es muy eficaz...
+\xf000A\x0001\x0000 y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!no es muy eficaz...
+¡El \xf000a\x0001\x0000 salvaje y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!no es muy eficaz...
+¡El \xf000a\x0001\x0000 enemigo y \xf000A\x0001\x0001 y \xfffe\xf000A\x0001\x0002!no es muy eficaz...
+However, \xf000A\x0001\x0000 attack\xfffedidn't ly well!
+However, ¡El \xf000a\x0001\x0000 salvaje attack\xfffedidn't ly well!
+However, ¡El \xf000a\x0001\x0000 enemigo attack\xfffedidn't ly well!
+\xf000A\x0001\x0000\xfffsubió el ataque!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió el ataque!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió el ataque!
+\xf000A\x0001\x0000\xfffesubió la defensa!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió la defensa!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió la defensa!
+\xf000A\x0001\x0000\xfffesubió el ataque es.!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió el ataque es.!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió el ataque es.!
+\xf000A\x0001\x0000\xfffesubió la defensa es.!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió la defensa Sp!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió la defensa Sp!
+\xf000A\x0001\x0000\xfffesubió la velocidad!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió la velocidad!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió la velocidad!
+\xf000A\x0001\x0000\xfffesubió la precisión!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió la precisión!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió la precisión!
+\xf000A\x0001\x0000\xfffesubió la evasión!
+¡El \xf000a\x0001\x0000 salvaje\xfffesubió la evasión!
+¡El \xf000a\x0001\x0000 enemigo\xfffesubió la evasión!
+\xf000A\x0001\x0000\xfffeel ataque subió mucho !
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque subió mucho!
+\xf000A\x0001\x0000\xfffela defensa subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa subió mucho!
+\xf000A\x0001\x0000\xfffeel ataque es. subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. subió mucho!
+\xf000A\x0001\x0000\xfffela defensa es. subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. subió mucho!
+\xf000A\x0001\x0000\xfffela velocidad subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad subió mucho!
+\xf000A\x0001\x0000\xfffela precisión subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión subió mucho!
+\xf000A\x0001\x0000\xfffela evasión subió mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión subió mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión subió mucho!
+\xf000A\x0001\x0000\xfffeel ataque subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque subió bruscamente!
+\xf000A\x0001\x0000\xfffela defensa subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa subió bruscamente!
+\xf000A\x0001\x0000\xfffeel ataque es. subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. subió bruscamente!
+\xf000A\x0001\x0000\xfffela defensa es. subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. subió bruscamente!
+\xf000A\x0001\x0000\xfffela velocidad subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad subió bruscamente!
+\xf000A\x0001\x0000\xfffela precisión subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión subió bruscamente!
+\xf000A\x0001\x0000\xfffela evasión subió bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión subió bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión subió bruscamente!
+\xf000A\x0001\x0000\xfffeel ataque bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque bajó!
+\xf000A\x0001\x0000\xfffela defensa bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa bajó!
+\xf000A\x0001\x0000\xfffeel ataque es. bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. bajó!
+\xf000A\x0001\x0000\xfffela defensa es. bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. bajó!
+\xf000A\x0001\x0000\xfffela velocidad bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffeSla velocidad bajó!
+\xf000A\x0001\x0000\xfffela precisión bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión bajó!
+\xf000A\x0001\x0000\xfffela evasión bajó!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión bajó!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión bajó!
+\xf000A\x0001\x0000\xfffeel ataque bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque bajó mucho!
+\xf000A\x0001\x0000\xfffela defensa bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa bajó mucho!
+\xf000A\x0001\x0000\xfffeel ataque es. bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. bajó mucho!
+\xf000A\x0001\x0000\xfffela defensa es. bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. bajó mucho!
+\xf000A\x0001\x0000\xfffela velocidad bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad bajó mucho!
+\xf000A\x0001\x0000\xfffela precisión bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffeAla precisión bajó mucho!
+\xf000A\x0001\x0000\xfffela evasión bajó mucho!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión bajó mucho!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión bajó mucho!
+\xf000A\x0001\x0000\xfffeel ataque bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque bajó bruscamente!
+\xf000A\x0001\x0000\xfffela defensa bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffla defensa bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa bajó bruscamente!
+\xf000A\x0001\x0000\xfffeel ataque es. bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. bajó bruscamente!
+\xf000A\x0001\x0000\xfffela defensa es. bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. bajó bruscamente!
+\xf000A\x0001\x0000\xfffela velocidad bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad bajó bruscamente!
+\xf000A\x0001\x0000\xfffela precisión bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión bajó bruscamente!
+\xf000A\x0001\x0000\xfffela evasión bajó bruscamente!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión bajó bruscamente!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión bajó bruscamente!
+\xf000A\x0001\x0000\xfffeel ataque no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque no subirá más!
+\xf000A\x0001\x0000\xfffela defensa no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffeDefense won't go higher!
+¡El \xf000a\x0001\x0000 enemigo\xfffeDefense won't go higher!
+\xf000A\x0001\x0000\xfffeel ataque es. no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. no subirá más!
+\xf000A\x0001\x0000\xfffela defensa es. no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa es. no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa es. no subirá más!
+\xf000A\x0001\x0000\xfffela velocidad no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad no subirá más!
+\xf000A\x0001\x0000\xfffela precisión no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión no subirá más!
+\xf000A\x0001\x0000\xfffela evasión no subirá más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión no subirá más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión no subirá más!
+\xf000A\x0001\x0000\xfffeel ataque no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque no bajará más!
+\xf000A\x0001\x0000\xfffela defensa no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa no bajará más!
+\xf000A\x0001\x0000\xfffeel ataque es. no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffeel ataque es. no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffeel ataque es. no bajará más!
+\xf000A\x0001\x0000\xfffela defensa .es no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela defensa .es no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela defensa .es no bajará más!
+\xf000A\x0001\x0000\xfffela velocidad no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela velocidad no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela velocidad no bajará más!
+\xf000A\x0001\x0000\xfffela precisión no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela precisión no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela precisión no bajará más!
+\xf000A\x0001\x0000\xfffela evasión no bajará más!
+¡El \xf000a\x0001\x0000 salvaje\xfffela evasión no bajará más!
+¡El \xf000a\x0001\x0000 enemigo\xfffela evasión no bajará más!
+\xf000A\x0001\x0000\xfffela habilidad vuelve a la normalidad!
+¡El \xf000a\x0001\x0000 salvaje\xfffela habilidad vuelve a la normalidad!
+¡El \xf000a\x0001\x0000 enemigo\xfffela habilidad vuelve a la normalidad!
+\xf000A\x0001\x0000 \xfffe?????? ?????!
+¡El \xf000a\x0001\x0000 salvaje \xfffe?????? ?????!
+¡El \xf000a\x0001\x0000 enemigo \xfffe?????? ?????!
+\xf000A\x0001\x0000 \xfffe????? ?????!
+¡El \xf000a\x0001\x0000 salvaje \xfffe????? ?????!
+¡El \xf000a\x0001\x0000 enemigo \xfffe????? ?????!
+\xf000A\x0001\x0000 \xfffe????? ?????!
+¡El \xf000a\x0001\x0000 salvaje \xfffe????? ?????!
+¡El \xf000a\x0001\x0000 enemigo \xfffe????? ?????!
+\xf000A\x0001\x0000 \xfffe???????? ?????!
+¡El \xf000a\x0001\x0000 salvaje \xfffe???????? ?????!
+¡El \xf000a\x0001\x0000 enemigo \xfffe???????? ?????!
+\xf000A\x0001\x0000 \xfffeno es muy efectivo...
+¡El \xf000a\x0001\x0000 salvaje \xfffeno es muy efectivo...
+¡El \xf000a\x0001\x0000 enemigo \xfffeno es muy efectivo...
+\xf000A\x0001\x0000 \xfffeesquivó el ataque!
+¡El \xf000a\x0001\x0000 salvaje \xfffeesquivó el ataque!
+¡El \xf000a\x0001\x0000 enemigo \xfffeesquivó el ataque!
+\xf000A\x0001\x0000 \xfffepero no pasó nada!
+¡El \xf000a\x0001\x0000 salvaje \xfffepero no pasó nada!
+¡El \xf000a\x0001\x0000 enemigo \xfffepero no pasó nada!
+\xf000A\x0001\x0000 increased the \xfffe\xf000c\x0001\x0001 Defense!
+\xf000A\x0001\x0000 increased the wild \xfffe\xf000c\x0001\x0001 Defense!
+\xf000A\x0001\x0000 increased the foe \xfffe\xf000c\x0001\x0001 Defense!
+\xf000A\x0001\x0000 \xfffecambió de forma!
+¡El \xf000a\x0001\x0000 salvaje \xfffecambió de forma!
+¡El \xf000a\x0001\x0000 enemigo \xfffecambió de forma!
+\xf000A\x0001\x0000 dropped\xfffe\xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje dropped\xfffe\xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo dropped\xfffe\xf000c\x0001\x0001!
+\xf000A\x0001\x0000 \xfffeel estado vuelve a ser normal!
+¡El \xf000a\x0001\x0000 salvaje \xfffeel estado vuelve a ser normal!
+¡El \xf000a\x0001\x0000 enemigo \xfffeel estado vuelve a ser normal!
+\xf000A\x0001\x0000 \xfffemoved to the middle!
+¡El \xf000a\x0001\x0000 salvaje \xfffemoved to the middle!
+¡El \xf000a\x0001\x0000 enemigo \xfffemoved to the middle!
+\xf000A\x0001\x0000 \xfffeestá cubierto de veneno!
+¡El \xf000a\x0001\x0000 salvaje \xfffeestá cubierto de veneno!
+¡El \xf000a\x0001\x0000 enemigo \xfffeestá cubierto de veneno!
+\xf000A\x0001\x0000 \xfffegot covered in a deadly poison!
+¡El \xf000a\x0001\x0000 salvaje \xfffegot covered in a deadly poison!
+¡El \xf000a\x0001\x0000 enemigo \xfffegot covered in a deadly poison!
+\xf000A\x0001\x0000 está cubierto de veneno por el \xfffe\xf000c\x0001\x0001\xf000\x0000
+¡El \xf000a\x0001\x0000 salvaje está cubierto de veneno por el \xfffe\xf000c\x0001\x0001\xf000\x0000
+¡El \xf000a\x0001\x0000 enemigo está cubierto de veneno por el \xfffe\xf000c\x0001\x0001\xf000\x0000
+\xf000A\x0001\x0000 \xffferecibe daño por el veneno!
+¡El \xf000a\x0001\x0000 salvaje \xffferecibe daño por el veneno!
+¡El \xf000a\x0001\x0000 enemigo \xffferecibe daño por el veneno!
+\xf000A\x0001\x0000 \xfffeya no está envenenado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya no está envenenado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya no está envenenado!
+\xf000A\x0001\x0000 \xfffeya está envenenado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya está envenenado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya está envenenado!
+\xf000A\x0001\x0000 \xfffeno puede ser envenenado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno puede ser envenenado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno puede ser envenenado!
+\xf000A\x0001\x0000 \xfffeestá quemado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeestá quemado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeestá quemado!
+\xf000A\x0001\x0000 se quemó por el \xfffe\xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje se quemó por el\xfffe\xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo se quemó por el \xfffe\xf000c\x0001\x0001!
+\xf000A\x0001\x0000 \xffferecibe dañor por la quemadura!
+¡El \xf000a\x0001\x0000 salvaje \xffferecibe dañor por la quemadura!
+¡El \xf000a\x0001\x0000 enemigo \xffferecibe dañor por la quemadura!
+\xf000A\x0001\x0000 \xfffeburn was healed!
+¡El \xf000a\x0001\x0000 salvaje \xfffeburn was healed!
+¡El \xf000a\x0001\x0000 enemigo \xfffeburn was healed!
+\xf000A\x0001\x0000 ya está quemado.
+¡El \xf000a\x0001\x0000 salvaje ya está quemado.
+¡El \xf000a\x0001\x0000 enemigo ya está quemado.
+\xf000A\x0001\x0000 \xfffeno puede ser quemado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno puede ser quemado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno puede ser quemado!
+\xf000A\x0001\x0000 está paralizado\xfffey no puede moverse!
+¡El \xf000a\x0001\x0000 salvaje está paralizado\xfffey no puede moverse!
+¡El \xf000a\x0001\x0000 enemigo está paralizado\xfffey no puede moverse!
+\xf000A\x0001\x0000 \xfffeestá paralizado y no puede moverse!
+¡El \xf000a\x0001\x0000 salvaje \xfffeestá paralizado y no puede moverse!
+¡El \xf000a\x0001\x0000 enemigo \xfffeestá paralizado y no puede moverse!
+\xf000A\x0001\x0000 \xfffeya no está paralizado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya no está paralizado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya no está paralizado!
+\xf000A\x0001\x0000 \xfffeya está paralizado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya está paralizado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya está paralizado!
+\xf000A\x0001\x0000 \xfffeno se paraliza!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno se paraliza!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno se paraliza!
+\xf000A\x0001\x0000 \xfffese congeló!
+¡El \xf000a\x0001\x0000 salvaje \xfffese congeló!
+¡El \xf000a\x0001\x0000 enemigo \xfffese congeló!
+\xf000A\x0001\x0000 \xfffeesta congelado y no se mueve!
+¡El \xf000a\x0001\x0000 salvaje \xfffeesta congelado y no se mueve!
+¡El \xf000a\x0001\x0000 enemigo \xfffeesta congelado y no se mueve!
+\xf000A\x0001\x0000 \xfffese descongeló!
+¡El \xf000a\x0001\x0000 salvaje \xfffese descongeló!
+¡El \xf000a\x0001\x0000 enemigo \xfffese descongeló!
+\xf000A\x0001\x0000 \xfffeya está congelado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya está congelado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya está congelado!
+\xf000A\x0001\x0000 \xfffeno puede congelarse!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno puede congelarse!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno puede congelarse!
+\xf000A\x0001\x0000 usó \xf000c\x0001\x0001\xfffey thawed out!
+¡El \xf000a\x0001\x0000 salvaje usó \xf000c\x0001\x0001\xfffey se descongelo!
+¡El \xf000a\x0001\x0000 enemigo usó \xf000c\x0001\x0001\xfffey se descongelo!
+\xf000A\x0001\x0000 \xfffese duerme!
+¡El \xf000a\x0001\x0000 salvaje \xfffese duerme!
+¡El \xf000a\x0001\x0000 enemigo \xfffese duerme!
+\xf000A\x0001\x0000 \xfffesigue dormido!
+¡El \xf000a\x0001\x0000 salvaje \xfffesigue dormido!
+¡El \xf000a\x0001\x0000 enemigo \xfffesigue dormido!
+\xf000A\x0001\x0000 \xfffese despertó!
+¡El \xf000a\x0001\x0000 salvaje \xfffese despertó!
+¡El \xf000a\x0001\x0000 enemigo \xfffese despertó!
+\xf000A\x0001\x0000 \xfffeya duerme!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya duerme!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya duerme!
+\xf000A\x0001\x0000 \xfffeno puede dormirse!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno puede dormirse!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno puede dormirse!
+\xf000A\x0001\x0000 \xfffeempieza a tener 1 pesadilla!
+¡El \xf000a\x0001\x0000 salvaje \xfffeempieza a tener 1 pesadilla!
+¡El \xf000a\x0001\x0000 enemigo \xfffeempieza a tener 1 pesadilla!
+\xf000A\x0001\x0000 \xfffetiene 1 pesadilla!
+¡El \xf000a\x0001\x0000 salvaje \xfffetiene 1 pesadilla!
+¡El \xf000a\x0001\x0000 enemigo \xfffetiene 1 pesadilla!
+\xf000A\x0001\x0000 \xfffetiene una pesadilla!
+¡El \xf000a\x0001\x0000 salvaje \xfffetiene una pesadilla!
+¡El \xf000a\x0001\x0000 enemigo \xfffetiene una pesadilla!
+\xf000A\x0001\x0000 y \xf000c\x0001\x0001 están \xfffeteniendo una pesadilla!
+¡El \xf000a\x0001\x0000 salvaje y \xf000c\x0001\x0001 están \xfffeteniendo una pesadilla!
+¡El \xf000a\x0001\x0000 enemigo y \xf000c\x0001\x0001 están \xfffeteniendo una pesadilla!
+\xf000A\x0001\x0000 está encaprichado \xfffecon \xf000A\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje está encaprichado \xfffecon \xf000A\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo está encaprichado \xfffecon \xf000A\x0001\x0001!
+\xf000A\x0001\x0000 \xfffe se enamoró!
+¡El \xf000a\x0001\x0000 salvaje \xfffe se enamoró!
+¡El \xf000a\x0001\x0000 enemigo \xfffe se enamoró!
+\xf000A\x0001\x0000 \xfffeya no esta enamorado!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya no esta enamorado!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya no esta enamorado!
+\xf000A\x0001\x0000 \xfffevuelve a la normalidad!
+¡El \xf000a\x0001\x0000 salvaje \xfffevuelve a la normalidad!
+¡El \xf000a\x0001\x0000 enemigo \xfffevuelve a la normalidad!
+\xf000A\x0001\x0000 \xfffese vuelve confuso!
+¡El \xf000a\x0001\x0000 salvaje \xfffese vuelve confuso!
+¡El \xf000a\x0001\x0000 enemigo \xfffese vuelve confuso!
+\xf000A\x0001\x0000 \xfffeestá confuso!
+¡El \xf000a\x0001\x0000 salvaje \xfffeestá confuso!
+¡El \xf000a\x0001\x0000 enemigo \xfffeestá confuso!
+\xf000A\x0001\x0000 \xfffeya no está confuso!
+¡El \xf000a\x0001\x0000 salvaje \xfffeya no está confuso!
+¡El \xf000a\x0001\x0000 enemigo \xfffeya no está confuso!
+\xf000A\x0001\x0000is \xfffeya está confuso!
+¡El \xf000a\x0001\x0000 salvajeis \xfffeya está confuso!
+¡El \xf000a\x0001\x0000 enemigois \xfffeya está confuso!
+\xf000A\x0001\x0000 \xfffeno puede ser confundido!
+¡El \xf000a\x0001\x0000 salvaje \xfffeno puede ser confundido!
+¡El \xf000a\x0001\x0000 enemigo \xfffeno puede ser confundido!
+\xf000A\x0001\x0000 \xfffeis so tired it become confused!
+¡El \xf000a\x0001\x0000 salvaje \xfffeis so tired it become confused!
+¡El \xf000a\x0001\x0000 enemigo \xfffeis so tired it become confused!
+\xf000A\x0001\x0000 \xfffeestá asustado y no escucha!
+¡El \xf000a\x0001\x0000 salvaje \xfffeestá asustado y no escucha!
+¡El \xf000a\x0001\x0000 enemigo \xfffeestá asustado y no escucha!
+\xf000A\x0001\x0000esta desconcentrado \xfffey no escucha!
+¡El \xf000a\x0001\x0000 salvaje esta desconcentrado \xfffey no escucha!
+¡El \xf000a\x0001\x0000 enemigo esta desconcentrado \xfffey no escucha!
+\xf000A\x0001\x0000 \xfffela ilusión se disipó!
+¡El \xf000a\x0001\x0000 salvaje \xfffela ilusión se disipó!
+¡El \xf000a\x0001\x0000 enemigo \xfffela ilusión se disipó!
+\xf000A\x0001\x0000 recibió daño \xfffepor \xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje recibió daño \xfffepor \xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo recibió daño \xfffepor \xf000c\x0001\x0001!
+\xf000A\x0001\x0000 se liberó \xfffede \xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje se liberó \xfffede \xf000c\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo se liberó \xfffede \xf000c\x0001\x0001!
+\xf000A\x0001\x0000 \xfffefue golpeado con retroceso!
+¡El \xf000a\x0001\x0000 salvaje \xfffefue golpeado con retroceso!
+¡El \xf000a\x0001\x0000 enemigo \xfffefue golpeado con retrocesol!
+\xf000A\x0001\x0000 \xfffe\xf000C\x0001\x0001 es rastreado!
+¡El \xf000a\x0001\x0000 salvaje \xfffe\xf000C\x0001\x0001 es rastreado!
+¡El \xf000a\x0001\x0000 enemigo \xfffe\xf000C\x0001\x0001 es rastreado!
+\xf000A\x0001\x0000 \xfffeel ataque es un golpe crítico!
+¡El \xf000a\x0001\x0000 salvaje \xfffeel ataque es un golpe crítico!
+¡El \xf000a\x0001\x0000 enemigo \xfffeel ataque es un golpe crítico!
+\xf000A\x0001\x0000 \xffferecuperó HP!
+¡El \xf000a\x0001\x0000 salvaje \xffferecuperó HP!
+¡El \xf000a\x0001\x0000 enemigo \xffferecuperó HP
+\xf000A\x0001\x0000 recuperó \xf000c\x0001\x0001 PP!
+¡El \xf000a\x0001\x0000 salvaje recuperó \xf000c\x0001\x0001 PP!
+¡El \xf000a\x0001\x0000 enemigo recuperó \xf000c\x0001\x0001 PP!
+\xf000A\x0001\x0000 \xffferecuperó todos los PP!
+¡El \xf000a\x0001\x0000 salvaje \xffferecuperó todos los PP!
+¡El \xf000a\x0001\x0000 enemigo \xffferecuperó todos los PP!
+\xf000A\x0001\x0000 es golpeado \xfffepor la tormenta de árena!
+¡El \xf000a\x0001\x0000 salvaje es golpeado \xfffepor la tormenta de árena!
+The foe \xf000A\x0001\x0000 es golpeado \xfffepor la tormenta de árena!
+\xf000A\x0001\x0000 es golpeado \xfffepor el granizo!
+¡El \xf000a\x0001\x0000 salvaje es golpeado\xfffepor el granizo!
+¡El \xf000a\x0001\x0000 enemigo es golpeado \xfffepor el granizo!
+\xf000A\x0001\x0000 \xffferecibió daños!
+¡El \xf000a\x0001\x0000 salvaje \xffferecibió daños!
+¡El \xf000a\x0001\x0000 enemigo \xffferecibió daños!
+\xf000A\x0001\x0000 transformed into \xfffe\xf000C\x0001\x0001!
+¡El \xf000a\x0001\x0000 salvaje se transformo en \xfffe\xf000C\x0001\x0001!
+¡El \xf000a\x0001\x0000 enemigo se transformo en \xfffe\xf000C\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
 ¡El \xf000ā\x0001\x0000 salvaje \xfffeis using a balloon to float!
 ¡El \xf000ā\x0001\x0000 enemigo \xfffeis using a balloon to float!
