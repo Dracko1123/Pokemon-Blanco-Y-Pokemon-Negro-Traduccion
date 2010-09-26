@@ -1,24 +1,24 @@
-おとこのひと
-おんなのこ
-おんなのひと
-おとこのこ
-クール
-キュート
-エレガント
-ユニーク
-こせいてき
-バランスがいい
-クールきょく
-キュートきょく
-エレガントきょく
-ユニークきょく
-はいしんきょく
-はいしんダミー
-みみ
-あたま
-かお
-かお
-からだ
-こし
-うで
-かお
+Hombre
+Chica
+Mujer
+Chico
+Guay
+Bonito
+Elegante
+Unico
+(Means unique, but it’s more of individuality)
+Buen Balance
+Canción guay
+Canción bonita
+Canción elegante
+Canción única
+Canción transmitida
+Dummy transmitido
+Orejas
+Cabeza
+Cara
+Cara
+Cuerpo
+Caderas
+Codo
+Cara
