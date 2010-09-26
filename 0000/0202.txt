@@ -24,16 +24,16 @@ Bun Rui
 Roasted force
 Me underwater
 PP
-Fight Moves
-Appeal Points
-Contest Moves
+Mov. Batalla
+Puntos Appeal
+Mov. Concurso
 \ Xf000Ȃ \ x0001 \ x0000
 \ Xf000Ȃ \ x0001 \ x0000
 \ Xf000ȁ \ x0001 \ x0000 / \ xf000ȁ \ x0001 \ x0001
-Quit
+Quitar
 ---
-Back
-Memorize
+Atrás
+Memorizar
 Remember to make any moves?
 \ Xf000Ă \ x0001 \ x0000
 Nv. \ Xf000Ȃ \ x0001 \ x0000
