@@ -1,4 +1,4 @@
-Buzón Correo
+Buzón
 \xf000Ȁ\x0001\x0000
 ／
 Cancelar
