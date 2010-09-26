@@ -77,12 +77,12 @@ El Pokémon escuchó la\xfffeflauta y se despertó.
 Mover
 No puedes comprar\xfffe\xf000ĉ\x0001\x0000.
 ¿Vender cuantas\xfffe\xf000ĉ\x0001\x0000?
-Te puedo pagar \xf000Ȇ\x0001\x0000円.\xfffe¿Aceptas?
+Te puedo pagar \xf000Ȇ\x0001\x0000€.\xfffe¿Aceptas?
 Devolvió \xf000ĉ\x0001\x0000\xfffey recibió \xf000Ȇ\x0001\x0001円.
 Allowance
-\xf000Ȇ\x0001\x0000円
+\xf000Ȇ\x0001\x0000€
 ×\xf000ȁ\x0001\x0000
-＋\xf000Ȇ\x0001\x0000円
+＋\xf000Ȇ\x0001\x0000€
 Sí
 No
 Vender
@@ -133,7 +133,7 @@ Parar
 Sí
 No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-No tienes esto.
+¡Vacio!
 Has usado Piedra Noche\xfffepero no ha pasado nada...
 Has usado Piedra Alba\xfffepero no ha pasado nada...
 Tus objetos han sido\xfffeorganizados!
