@@ -1,42 +1,42 @@
-\xf000Ă\x0001\x0000に\xfffeどのわざを　おぼえさせる？
-\xf000ć\x0001\x0001　を\xfffeおぼえさせますか？
-\xf000Ă\x0001\x0000に　わざを\xfffeおぼえさせるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……\xf000븁\x0000しかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븁\x0000
-それでは……　\xf000ć\x0001\x0001を\xfffeおぼえるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！\xf000븁\x0000
-\xf000Ā\x0001\x0002は　おれいに\xfffeハートのウロコを　１まい　あげた！
-\xf000ć\x0001\x0000を\xfffeわすれさせて　よろしいですね？
-\xf000Ă\x0001\x0000に\xfffeどのわざを　おもいださせる？
-\xf000ć\x0001\x0001　を\xfffeおもいだしますか？
-\xf000Ă\x0001\x0000に　わざを\xfffeおもいださせるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　わすれていた\xfffe\xf000ć\x0001\x0001を　おもいだした！\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おもいだしたい…\xf000븁\x0000しかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　わすれていた\xfffe\xf000ć\x0001\x0001を　おもいだした！\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-それでは……　\xf000ć\x0001\x0001を\xfffeおもいだすのを　あきらめますか？
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおもいださずに　おわった！\xf000븁\x0000
-\xf000Ā\x0001\x0000は　おれいに\xfffeハートのウロコを　１まい　あげた！
-\xf000ć\x0001\x0000を\xfffeわすれさせて　よろしいですね？
-ぶんるい
-いりょく
-めいちゅう
-ＰＰ
-たたかうわざ
-アピールポイント
-コンテストわざ
-\xf000Ȃ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
-やめる
-－－－
-もどる
-おぼえる
-どのわざを　おぼえさせる？
-\xf000Ă\x0001\x0000
-Ｌｖ．\xf000Ȃ\x0001\x0000
-おぼえている　わざ
-はい
-いいえ
+\ Xf000Ă \ x0001 \ x0000 to \ xfffe remember to make any moves?
+\ Xf000ć \ x0001 \ x0001 to \ xfffe makes you remember?
+\ Xf000Ă \ x0001 \ x0000 the work in \ xfffe what makes you remember giving up?
+\ Xf000Ă \ x0001 \ x0000 is a refurbished \ xfffe \ xf000ć \ x0001 \ x0001 Oboeta a!
+\ Xf000Ă \ x0001 \ x0000 is a refurbished \ xfffe \ xf000ć \ x0001 \ x0001 Oboetai to ... ... \ xf000 븁 \ x0000 but \ xf000Ă \ x0001 \ x0000 are four deeds \ xfffe Seiippai so memorize it! \ Xf000 븁 \ x0000 \ xf000ć \ x0001 \ x0001 instead of \ xfffe lets you forget the work of others?
+1 \ xf000 븂 \ x0001 \ x0014 for 2 \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 pow! \ Xf000 븅 \ x0001 \ x0003 \ xf000 븅 \ x0001 \ x0005 \ xf000 븄 \ x0000 \ xf000 븁 \ x0000 \ xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 in \ xfffe Various Uses clean forgot! \ Xf000 븁 \ x0000 and ...! \ Xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 is a refurbished \ xfffe \ xf000ć \ x0001 \ x0001 Oboeta a! \ Xf000 븁 \ x0000
+So ... ... \ xf000ć \ x0001 \ x0001 to \ xfffe giving up on what you learn?
+\ Xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 to \ xfffe you finished the Oboezu! \ Xf000 븁 \ x0000
+\ Xf000Ā \ x0001 \ x0002 Reina is our \ xfffe Mai gave the scales of a heart!
+\ Xf000ć \ x0001 \ x0000 to \ xfffe I want to forget me?
+\ Xf000Ă \ x0001 \ x0000 to \ xfffe Which reminds works?
+\ Xf000ć \ x0001 \ x0001 to \ xfffe Omoidashimasu you?
+\ Xf000Ă \ x0001 \ x0000 the work in \ xfffe reminds you of giving up?
+\ Xf000Ă \ x0001 \ x0000 was forgetting \ xfffe \ xf000ć \ x0001 \ x0001 Omoidashita a! \ Xf000 븅 \ x0001 \ x0004 \ xf000 븅 \ x0001 \ x0005 \ xf000 븇 \ x0000 \ xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 is \ xfffe \ xf000ć \ x0001 \ x0001 Omoidashitai the ... \ xf000 븁 \ x0000 but \ xf000Ă \ x0001 \ x0000 are four deeds \ xfffe Seiippai so memorize it! \ Xf000 븁 \ x0000 \ xf000ć \ x0001 \ x0001 instead of \ xfffe lets you forget the work of others?
+1 \ xf000 븂 \ x0001 \ x0014 for 2 \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 pow! \ Xf000 븅 \ x0001 \ x0003 \ xf000 븆 \ x0001 \ x0002 \ xf000 븇 \ x0000 \ xf000 븄 \ x0000 \ xf000 븁 \ x0000 \ xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 in \ xfffe clean Various Uses forgot? \ Xf000 븁 \ x0000 and ...! \ Xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 was forgetting \ xfffe \ xf000ć \ x0001 \ x0001 Omoidashita a! \ Xf000 븅 \ x0001 \ x0004 \ xf000 븅 \ x0001 \ x0005 \ xf000 븇 \ x0000 \ xf000 븁 \ x0000
+So ... ... \ xf000ć \ x0001 \ x0001 to \ xfffe Omoidasu or giving up on?
+\ Xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 to \ xfffe you finished the Omoidasazu! \ Xf000 븁 \ x0000
+\ Xf000Ā \ x0001 \ x0000 Reina is our \ xfffe Mai gave the scales of a heart!
+\ Xf000ć \ x0001 \ x0000 to \ xfffe I want to forget me?
+Bun Rui
+Roasted force
+Me underwater
+PP
+Fight Moves
+Appeal Points
+Contest Moves
+\ Xf000Ȃ \ x0001 \ x0000
+\ Xf000Ȃ \ x0001 \ x0000
+\ Xf000ȁ \ x0001 \ x0000 / \ xf000ȁ \ x0001 \ x0001
+Quit
+---
+Back
+Memorize
+Remember to make any moves?
+\ Xf000Ă \ x0001 \ x0000
+Nv. \ Xf000Ȃ \ x0001 \ x0000
+Remember that works
+Sí
+No
