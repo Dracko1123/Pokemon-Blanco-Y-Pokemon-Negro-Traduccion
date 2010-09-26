@@ -13,8 +13,8 @@ Media
 Rápida
 On
 Off
-Shift
-Set
+Cambiar
+Fijo
 Estereo
 Mono
 Español
