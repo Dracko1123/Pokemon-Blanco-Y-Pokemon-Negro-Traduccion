@@ -1,13 +1,13 @@
-Welcome to Mystery regalo!
-Por favor elige how you want to\xffferecibe tu regalo.
-DS Wireless Communications will\xfffebe launched.
-Searching for a regalo.\xfffePor favor wait...
-Recibir este regalo?
-Search for a different regalo?
-Your request has been sent.\xfffePor favor wait a moment...
-Receiving your regalo.\xfffeDon’t turn off El power.
-El regalo has been Recibird!\xf000븁\x0000Por favor pick up your regalo de El\xfffedeliveryman in any Poké Center.
-este regalo is being Compartird by\xfffeanoElr person.\xf000븁\x0000You may accept este regalo, but you\xfffewill not be able to distribute it\xf000븀\x0000to your friends.\xf000븁\x0000Will you accept este regalo?
+¡Bienvenido al Regalo Misterioso!
+Por favor elige cómo quieres\xffferecibir tu regalo.
+Las comunicaciones inalambricas de la Ds\xfffese iniciarán.
+Búscando un regalo.\xfffePor favor espere...
+¿Recibir este regalo?
+¿Buscar un regalo diferente?
+Se ha enviado tu petición.\xfffePor favor espera un momento...
+Recibiendo tu regalo.\xfffeNo apagues la consola.
+¡Has recibido el regalo!\xf000븁\x0000Por favor cóge tu regalo de el\xffferepartidor en cualquier Centro Pokémon.
+Este regalo ha sido compartido por\xfffeotra persona.\xf000븁\x0000puedes aceptar este regalo, pero no\xfffepodrás distribuirlo\xf000븀\x0000a tus amigos.\xf000븁\x0000¿Aceptas este regalo?
 ふしぎなカードが\xfffe１まいも　ありません
 Pokémon Ranger\xfffeTransferencia del huevo de Manaphy
 Recibir regalo
@@ -15,36 +15,36 @@ Check Card
 Salir
 Get de a Friend
 Conseguir via Nintendo WFC
-Cancelarar
+Cancelar
 Sí
 No
 Conseguir via Wireless
-Our deliveryman is overloaded with\xffferegalos for you!\xf000븁\x0000Por favor see him at any Poké Mart and\xfffepick up some of your regalos.
-You’ve already Recibird este regalo.\xfffeYou may not get anoElr one.
-Elre were no regalos to be found.
-Your request was turned down.
-You are out of room for\xfffeWonder Cards.\xf000븁\x0000You may not accept anoElr regalo.
-Elre was a problem with\xfffereceiving El regalo.\xf000븁\x0000Press El A Button to return to\xfffeEl title screen.
-A regalo has been found, but it cannot\xfffebe Recibird using este version.\xf000븀\x0000Press El A Button to return to\xfffeEl menu.
-El person sharing has\xfffebeen disconnected...
+¡Nuestro repartidor está sobrecargado\xfffede regalos tuyos!\xf000븁\x0000Por favor búscalo en cualquier Centro Pokémon y\xfffecoge alguno de tus regalos.
+Ya has recibido este regalo.\xfffeNo puedes tener otro.
+No se han encontrado regalos.
+Se ha cancelado tu petición.
+No tienes hueco\xfffepara Wonder Cards.\xf000븁\x0000no podrás aceptar otro regalo.
+Ha habido un problema\xfffeal recibir el regalo.\xf000븁\x0000Pulsa el botón A para volver a la pantalla\xfffedel título.
+Se ha encontrado un regalo, pero no los puedes\xffferecibir usando esta versión.\xf000븀\x0000Pulsa el botón A para\xfffevolver al menú.
+La persona que lo comparte\xfffese ha desconectado...
 ポケモンレンジャーと\xfffeせつぞく　しています
-Press El A Button.
+Pulsa el Botón A.
 レポートを　かいています\xfffeしばらく　おまち　ください
 タマゴを　てんそうちゅう　です
 タマゴの　じゅしんに\xfffeしっぱい　しました
-Por favor touch Pokémon Ranger’s\xfffegame screen.
+Por favor pulsa la pantalla de juego de \xfffePokémon Ranger.
 ポケモンレンジャーの\xfffeじゅんび　まち　です
-Wonder Card\xfffeWhat Deseas do?
-Por favor pick up your regalo de El\xfffedeliveryman in any Poké Mart.
-You have already Recibird\xfffeeste regalo before.
-este card does not have\xfffea regalo attached.
-Date Recibird
-este regalo can be distributed　\xf000Ĵ\x0001\x0000 time(s).
+Wonder Card\xfffe¿Que deseas hacer?
+Por favor coje tu regalo del\xffferepartidor en cualquier Centro Pokémon.
+Ya has recibido\xfffeeste regalo antes.
+Esta Tarjeta no tenía ningún\xfffe regalo con ella.
+Fecha Recibida
+Este regalo se puede distribuir　\xf000Ĵ\x0001\x0000 vez/veces.
 Info
 Compartir
-Trash
+Tirar
 Salir
-Deseas compartir este regalo?
+¿Deseas compartir este regalo?
 Sí
 No
 \xf000ĵ\x0001\x0000／\xf000ĳ\x0001\x0001／\xf000ĳ\x0001\x0002
@@ -57,11 +57,11 @@ Entradas\xfffeactuales
 \xf000\xff00\x0001\x0001\xf000Ĳ\x0001\x0000\xf000\xff00\x0001\x0000／４
 Enviar
 Cancelar
-regalo distribution under way...\xfffeDon’t turn off El power.
-Your regalo distribution\xfffewas successful.
-Throw este card away?
-You haven’t Recibird your regalo yet.\xfffeDo you want to discard este card?
-Discarding...\xfffeDon’t turn off El power.
+Distribución de regalo en curso...\xfffeNo apagues la consola.
+La distribución del regalo\xfffese ha realizado.
+¿Tirar esta tarjeta?
+No has recibido este regalo todavia.\xfffe¿Deseas cancelar esta tarjeta?
+Cancelando...\xfffeNo apagues la consola.
 Sí
 No
 \xf000\xff00\x0001\x0003\xf000ă\x0001\x0000\xf000\xff00\x0001\x0002　\xf000\xff00\x0001\x0000ＩＤＮｏ．\xf000Ķ\x0001\x0001
