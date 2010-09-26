@@ -28,47 +28,46 @@ Una medicina de tipo espray para las heridas.\xfffeRestaura 50 puntos de salud d
 Una medicina de tipo espray.\xfffeCura todos los problemas de estado\xfffede un sólo Pokémon.
 Una medicina que revive a un\xfffePokémon. Restaura media salud\xfffede un Pokémon.
 Una medicina que revive a un\xfffePokémon. Restaura completamente la salud\xfffede un Pokémon.
-Agua con un alto contenido mineral.\xfffeRestaura 50 puntos de salud \xfffede un Pokémon.
-Una bebida refrescante de Soda.\xfffeRestaura 60 puntos de salud \xfffede un Pokémon.
+Agua con un alto contenido mineral.\xfffeRestaura 50 puntos de salud\xfffede un Pokémon.
+Una bebida refrescante de Soda.\xfffeRestaura 60 puntos de salud\xfffede un Pokémon.
 Una bebida muy dulce.\xfffeRestaura 80 puntos de salud\xfffede un Pokémon.
 Leche un alto nivel nutricional.\xfffeRestaura 100 puntos de salud\xfffe de un Pokémon.
 Una medicina muy amarga en polvo.\xfffeRestaura 50 puntos de salud\xfffede un Pokémon.
 Una raíz muy amarga.\xfffeRestaura 200 puntos de salud\xfffede un Pokémon.
 Una medicina muy amarga en polvo.\xfffeCura todos los problemas de estado\xfffede un sólo Pokémon.
 Una hierba medicinal muy amarga.\xfffeRevive completamente un Pokémon debilitado\xffferestaurando toda su salud.
-Restaura 10 puntos de PP de un \xfffemovimiento seleccionado\xfffede un sólo Pokémon.
+Restaura 10 puntos de PP de un\xfffemovimiento seleccionado\xfffede un sólo Pokémon.
 Restaura completamente los PP de un\xfffemovimiento seleccionado\xfffede un sólo Pokémon.
-Restaura 10 puntos de PP de todos\xfffelos movimientos aprendidos por el\xfffePokémon.
-Restaura completamente los PP de todos\xfffemovimientos aprendidos por el\xfffePokémon.
-Especialidad local del pueblo Lavacalda.\xfffeCura todos los problemas de estado\xfffede un Pokémon.
-A 100% pure juice made of Berries.\xfffeIt restores the HP of one Pokémon\xfffeby just 20 points.
-It revives all fainted Pokémon.\xfffeIn doing so, it also fully restores\xfffetheir HP.
-A nutritious drink for Pokémon.\xfffeIt raises the base HP of a single\xfffePokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Attack stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Defense stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Speed stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Sp. Atk (Special\xfffeAttack) stat of a single Pokémon.
-A candy that is packed with energy.\xfffeIt raises the level of a single\xfffePokémon by one.
-It slightly raises the maximum PP of\xfffea selected move that has been\xfffelearned by the target Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Sp. Def (Special\xfffeDefense) stat of a single Pokémon.
-It maximally raises the top PP of a\xfffeselected move that has been learned\xfffeby the target Pokémon.
-Old Chateau’s hidden specialty.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-An item that prevents stat reduction\xfffeamong the Trainer’s party Pokémon\xfffefor five turns after use.
-An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Attack stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Defense stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-A doll that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
-An item that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
-A blue flute made from blown glass.\xfffeIts melody awakens a single Pokémon\xfffefrom sleep.
-A yellow flute made from blown glass.\xfffeIts melody snaps a single Pokémon\xfffeout of confusion.
-A red flute made from blown glass.\xfffeIts melody snaps a single Pokémon\xfffeout of infatuation.
-A black flute made from blown glass.\xfffeIts melody makes wild Pokémon less\xfffelikely to appear.
-A white flute made from blown glass.\xfffeIts melody makes wild Pokémon more\xfffelikely to appear.
-Pure salt that was discovered\xfffedeep inside the Shoal Cave.\xfffeIt is extremely salty.
+Restaura 10 puntos de PP de todos\xfffelos movimientos aprendidos por e l\xfffePokémon.
+Restaura completamente los PP de todos \xfffemovimientos aprendidos por el\xfffePokémon.
+Especialidad local del pueblo Lavacalda.\xfffeCura todos los problemas de estado \xfffede un Pokémon.
+Un jugo puro del hecho de Bayas al 100 %.\xfffeEsto restaura los HP de un Pokémon \xfffepor solamente 20 punto.
+Esto reanima los Pokémon debilitado.\xfffeEsto también restaura todos \xfffesus HP.
+Una bebida nutritiva para los un Pokémon.\xfffeEsto sube los HP bajos pero solo \xfffe un Pokémon.
+Una bebida nutritiva para un Pokémon.\xfffeEsto restaura el ataque a la inicial \xfffepara un solo Pokémon.
+Una bebida nutritiva para un Pokémon.\xfffeEsto restaura la defensa a la inial \xfffepara un solo Pokémon.
+Una bebida nutritiva para un Pokémon.\xfffeEsto restaura la velocidad a la inicial\xfffede un solo Pokémon.
+Una bebida nutritiva para un Pokémon.\xfffeEsto restaura la Vl. Exp. (Velocidad\xfffeExpecial) a la inicial de un solo Pokémon.
+Un caramelo que sube la energia.\xfffeEsto sube un nivel\xfffePokémon pero solo uno.
+Esto ligeramente levanta el máximo PP de\xfffeun movimiento seleccionado que ha sido \xfffeaprendido por el Pokémon
+Una bebida nutritiva para un Pokemon.\xfffeEsto sube la a Def. Exp. (Defensa\xfffeExpecial) a la inicial de un solo Pokémon.
+Esto sube al máximo los PP de un\xfffemovimiento selecionado que ha aprendido\xfffeel Pokémon.
+Una especialidad creada en el Viejo Castillo.\xfffeIt Esto cura todos los problemas de estados\xfffede un solo Pokémon.
+Un objeto que proviene la redución\xfffe entre el combate del Entrenador Pokémon\xfffedura durante cinco turnos después de utilizarlo.
+Un objeto que sube la propoción de un golpe crítico\xfffeen una batalla Pokémon. Esto desaparece\xfffesi el poquemon es retirado.
+Un objeto que sube el Ataque\xfffeen una batalla Pokémon. Esto desaparece\xfffesi el Pokémon es retirado.
+Un objeto que sube la Defensa\xfffeen na batalla Pokémon. Esto desaparece\xfffesi el Pokémon es retirado.
+Un objeto que sube la Velocidad\xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
+Un objeto que sube la Precisión\xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
+Un objeto que sube el Ata.Exp.\xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
+Un objeto que sube la Sp. Def \xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
+Una muñeca que atrae a los Pokémon.\xfffeÚsala para escapar de cualquier batalla\xfffea en el mundo Pokémon.
+Una flauta azul hecha de cristal.\xfffeEsta melodia despierta a un Pokemon\xfffeque está dormido.
+Una flauta amarilla hecha de cristal.\xfffeEsta melodia despierta a un Pokémon\xfffeconfuso.
+Una flauta roja hecha de cristal.\xfffeEsta melodia despierta a un Pokémon \xfffeque este infectado.
+Una flauta negra hecha de cristal.\xfffeCon esta melodia aparecen menos \xfffe Pokémon salvaje.
+Una flauta blanca hecha de cristal.\xfffeCon esta melodia aparecen más \xfffePokémon salvaje.
+Pura sal que fue descubierta\xfffedentro de la Cueva Shoal.\xfffeEs estremadamente rara.
 A pretty seashell that was found\xfffedeep inside the Shoal Cave.\xfffeIt is striped in blue and white.
 A small red shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
 A small blue shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
@@ -114,10 +113,10 @@ A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- a
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeみずタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeでんきタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeほのおタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeこおりタイプになる　カセット。
+ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeみずタイプになる　カセッ ト。
+ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeでんきタイプになる　カセ ット。
+ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeほのおタイプになる　カセ ット。
+ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeこおりタイプになる　カセ ット。
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
@@ -326,107 +325,107 @@ A transparent device overflowing with\xfffedubious data.\xfffeIts producer is un
 A cloth imbued with horrifyingly strong\xfffespiritual energy.\xfffeIt is loved by a certain Pokémon.
 An item to be held by a Pokémon.\xfffeIt is a sharply hooked claw that ups\xfffethe holder’s critical-hit ratio.
 An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffethe holder inflicts damage.
-つめを　みがいて　するどく　する。\xfffeじぶんの　こうげきと　\xfffeめいちゅうりつを　あげる。
+つめを　みがいて　するどく　する。\xfffeじぶんの　こうげきと　\xfffeめいちゅうりつを　あ げる。
 するどく　とがった　きょだいな\xfffeツメで　ひっかいて　こうげきする。\xfffe
-ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメージを　あたえる。
-しずかに　せいしんを　とういつして\xfffeこころを　しずめることで　じぶんの\xfffeとくこうと　とくぼうを　あげる。
-あいてを　にがして　ひかえポケモンを\xfffeひきずりだす。　やせいポケモンなら\xfffeせんとうは　おわる。
-もうどくの　じょうたいに　する。\xfffeターンすうが　すすむほど　どくの\xfffeダメージりょうは　ふえる。
-５ターンの　あいだ　あられを\xfffeふらして　こおりタイプ　いがいの\xfffeポケモンに　ダメージを　あたえる。
-ちからを　こめて　きんにくを\xfffeあつくする　ことで　じぶんの\xfffeこうげきと　ぼうぎょを　あげる。
-とくしゅな　どくえきを　あびせる。\xfffeどく　じょうたいの　あいてには\xfffeいりょくが　２ばいに　なる。
-おぼえる　ポケモンの　かくされた\xfffeのうりょくで　わざの　タイプと\xfffeいりょくが　かわる。
-５ターンの　あいだ　ひざしを\xfffeつよくして　ほのおタイプの\xfffeわざの　いりょくを　あげる。
-あいてを　おこらせる。３ターンの\xfffeあいだ　あいては　ダメージを\xfffeあたえる　わざしか　だせなくなる。
-れいきの　ビームを　はっしゃして\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-はげしい　ふぶきを　ぶつけて\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-つよい　こうせんを　はっしゃする。\xfffeつかった　つぎのターンは　はんどうで\xfffeうごけなくなる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　とくしゅわざの\xfffeダメージを　よわめる。
-こうげきを　まったく　うけない。\xfffeわざを　れんぞくで　だすと\xfffeしっぱい　しやすくなる。
-５ターンの　あいだ　あめを　ふらして\xfffeみずタイプの　わざの　いりょくを\xfffeあげる。
-あいてを　うかせて　３ターンの\xfffeあいだ　こうげきが　あいてに\xfffeあたりやすくなる。
-５ターンの　あいだ\xfffeふしぎな　ちからに　まもられて\xfffeじょうたい　いじょうに　ならなくなる。
-ふまんを　はらすために　ぜんりょくで\xfffeこうげきする。　なついて　いないほど\xfffeいりょくは　あがる。
-１ターンめに　ひかりを　あつめて\xfffe２ターンめに　ひかりの　こうせんを\xfffeはっしゃして　こうげきする。
-いしや　たまを　なげて　とんでいる\xfffeあいてを　こうげきする。あいては\xfffeうちおとされて　じめんに　おちる。
-つよい　でんげきを　あびせて\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-はげしい　かみなりを　おとして\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-じぶんの　まわりの　ポケモンに\xfffeじしんの　しょうげきを　あたえて\xfffeこうげきする。
-トレーナーのために　ぜんりょくで\xfffeこうげきする。　なついて　いるほど\xfffeいりょくは　あがる。
-１ターンめに　もぐり　２ターンめで\xfffeこうげきする。　どうくつで　つかうと\xfffeそとに　だっしゅつ　できる。
-つよい　ねんりきを　おくって\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-くろいかげの　かたまりを　なげて\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-こぶしなどで　こうげきする。\xfffeひかりのかべや　リフレクターも\xfffeはかいできる。
-すばやい　うごきで　ぶんしんを\xfffeつくる。　あいてを　まどわせることで\xfffeかいひりつを　あげる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　ぶつりわざの\xfffeダメージを　よわめる。
-ヘドロの　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeどくに　することが　ある。
-はげしい　ほのおを　はっしゃして\xfffeこうげきする。　あいてを　やけどの\xfffeじょうたいに　することが　ある。
-きたない　ヘドロを　なげつける。\xfffeあいてを　どくの　じょうたいに\xfffeすることが　ある。
-５ターンの　あいだ　すなあらしで\xfffeじめん　いわ　はがね　タイプいがいに\xfffeダメージを　あたえる。
-だいのじの　ほのおで　あいてを\xfffeやきつくす。　やけどの　じょうたいに\xfffeすることが　ある。
-いわを　なげつけ　こうげきする。\xfffeおちた　いわが　うごきを　ふうじて\xfffeあいての　すばやさを　さげる。
-すばやい　うごきで　ほんろうする。\xfffeこうげきは　かならず　あいてに\xfffeめいちゅうする。
-いちゃもんを　つけて　おなじわざを\xfffeれんぞくで　だせない　ようにする。\xfffe
-どく　まひ　やけど　のじょうたいで\xfffeわざを　だすと　２ばいの　いりょくで\xfffeこうげき　できる。
-ほのおを　まとい　あいてを\xfffeこうげきする。じぶんの\xfffeすばやさを　あげることが　ある。
-２ターンの　あいだ　ねむりつづける。\xfffeＨＰと　からだの　いじょうを\xfffeすべて　かいふくする。
-♂なら♀を　♀なら♂を　ゆうわくして\xfffeメロメロにする。　メロメロに　なった\xfffeあいては　わざが　だしにくくなる。
-こうげきと　どうじに　もちものを\xfffeぬすむ。　じぶんに　もちものが\xfffeあると　しっぱいする。
-すばやい　うごきで　あいての　あしを\xfffeねらって　こうげきする。\xfffeあいての　すばやさを　さげる。
-うたで　あいてを　こうげきする。\xfffeみんなで　つかうと　れんぞくで\xfffeだせて　いりょくも　あがる。
-こえで　あいてを　こうげきする。\xfffeまいターン　じぶんや　みかたが\xfffeつかうと　いりょくが　あがる。
-フルパワーで　ほのおの　こうげき。\xfffeつかったあと　じぶんの　とくこうは\xfffeがくっと　さがる。
-ふしぎな　ちからで　テレポートして\xfffeじぶんと　みかたの　いばしょを\xfffeいれかえる。
-こんしんの　ちからで　こうげきする。\xfffeあたった　あいての　とくぼうを\xfffeさげることが　ある。
-いのちの　ちからを　あつめて　\xfffeこうげきする。　あたった　あいての\xfffeとくぼうを　さげることが　ある。
-てかげんして　こうげきする。\xfffeこうげきした　あいての　ＨＰは\xfffeかならず　１　のこる。
-あつく　にえたぎる　みずを\xfffeはっしゃして　こうげきする。\xfffeやけどに　することが　ある。
-どうぐを　なげつけて　こうげきする。\xfffeなげる　もちものに　よって　わざの\xfffeいりょくと　こうかは　かわる。
-でんげきを　あびせて　こうげきする。\xfffeのこった　でんきを　ためて　じぶんの\xfffeとくこうを　あげることが　ある。
-つれさった　あいてを　２ターンめに\xfffeそらから　おとして　こうげきする。\xfffeつれさられた　あいては　うごけない。
-ほのおで　あいてを　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeもやして　つかえなく　する。
+ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメ ージを　あたえる。
+しずかに　せいしんを　とういつして\xfffeこころを　しずめることで　じぶんの\xfffeとくこう と　とくぼうを　あげる。
+あいてを　にがして　ひかえポケモンを\xfffeひきずりだす。　やせいポケモンなら\xfffeせんと うは　おわる。
+もうどくの　じょうたいに　する。\xfffeターンすうが　すすむほど　どくの\xfffeダメージりょ うは　ふえる。
+５ターンの　あいだ　あられを\xfffeふらして　こおりタイプ　いがいの\xfffeポケモンに　ダメ ージを　あたえる。
+ちからを　こめて　きんにくを\xfffeあつくする　ことで　じぶんの\xfffeこうげきと　ぼうぎょ を　あげる。
+とくしゅな　どくえきを　あびせる。\xfffeどく　じょうたいの　あいてには\xfffeいりょくが　 ２ばいに　なる。
+おぼえる　ポケモンの　かくされた\xfffeのうりょくで　わざの　タイプと\xfffeいりょくが　か わる。
+５ターンの　あいだ　ひざしを\xfffeつよくして　ほのおタイプの\xfffeわざの　いりょくを　あ げる。
+あいてを　おこらせる。３ターンの\xfffeあいだ　あいては　ダメージを\xfffeあたえる　わざし か　だせなくなる。
+れいきの　ビームを　はっしゃして\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたい に　することが　ある。
+はげしい　ふぶきを　ぶつけて\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　 することが　ある。
+つよい　こうせんを　はっしゃする。\xfffeつかった　つぎのターンは　はんどうで\xfffeうごけ なくなる。
+５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　とくしゅわざの\xfffeダメー ジを　よわめる。
+こうげきを　まったく　うけない。\xfffeわざを　れんぞくで　だすと\xfffeしっぱい　しやすく なる。
+５ターンの　あいだ　あめを　ふらして\xfffeみずタイプの　わざの　いりょくを\xff feあげる。
+あいてを　うかせて　３ターンの\xfffeあいだ　こうげきが　あいてに\xfffeあたり やすくなる。
+５ターンの　あいだ\xfffeふしぎな　ちからに　まもられて\xfffeじょうたい　いじょうに　なら なくなる。
+ふまんを　はらすために　ぜんりょくで\xfffeこうげきする。　なついて　いないほど\xfffeいり ょくは　あがる。
+１ターンめに　ひかりを　あつめて\xfffe２ターンめに　ひかりの　こうせんを\xfffeはっしゃし て　こうげきする。
+いしや　たまを　なげて　とんでいる\xfffeあいてを　こうげきする。あいては\xfffeうちおとさ れて　じめんに　おちる。
+つよい　でんげきを　あびせて\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　す ることが　ある。
+はげしい　かみなりを　おとして\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　 することが　ある。
+じぶんの　まわりの　ポケモンに\xfffeじしんの　しょうげきを　あたえて\xfffeこ うげきする。
+トレーナーのために　ぜんりょくで\xfffeこうげきする。　なついて　いるほど\xfffeいりょくは 　あがる。
+１ターンめに　もぐり　２ターンめで\xfffeこうげきする。　どうくつで　つかうと\xfffeそとに 　だっしゅつ　できる。
+つよい　ねんりきを　おくって\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが 　ある。
+くろいかげの　かたまりを　なげて\xfffeこうげきする。　あいての　とくぼうを\xfffeさげるこ とが　ある。
+こぶしなどで　こうげきする。\xfffeひかりのかべや　リフレクターも\xfffeはかい できる。
+すばやい　うごきで　ぶんしんを\xfffeつくる。　あいてを　まどわせることで\xfffeかいひりつ を　あげる。
+５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　ぶつりわざの\xfffeダメージ を　よわめる。
+ヘドロの　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeどくに　するこ とが　ある。
+はげしい　ほのおを　はっしゃして\xfffeこうげきする。　あいてを　やけどの\xfffeじょうたい に　することが　ある。
+きたない　ヘドロを　なげつける。\xfffeあいてを　どくの　じょうたいに\xfffeすることが　あ る。
+５ターンの　あいだ　すなあらしで\xfffeじめん　いわ　はがね　タイプいがいに\xfffeダメージ を　あたえる。
+だいのじの　ほのおで　あいてを\xfffeやきつくす。　やけどの　じょうたいに\xfffeすることが 　ある。
+いわを　なげつけ　こうげきする。\xfffeおちた　いわが　うごきを　ふうじて\xfffeあいての　 すばやさを　さげる。
+すばやい　うごきで　ほんろうする。\xfffeこうげきは　かならず　あいてに\xfffeめいちゅうす る。
+いちゃもんを　つけて　おなじわざを\xfffeれんぞくで　だせない　ようにする。\xff fe
+どく　まひ　やけど　のじょうたいで\xfffeわざを　だすと　２ばいの　いりょくで\xfffeこうげ き　できる。
+ほのおを　まとい　あいてを\xfffeこうげきする。じぶんの\xfffeすばやさを　あげることが　あ る。
+２ターンの　あいだ　ねむりつづける。\xfffeＨＰと　からだの　いじょうを\xfffeすべて　かい ふくする。
+♂なら♀を　♀なら♂を　ゆうわくして\xfffeメロメロにする。　メロメロに　なった\xfffeあい ては　わざが　だしにくくなる。
+こうげきと　どうじに　もちものを\xfffeぬすむ。　じぶんに　もちものが\xfffeあると　しっぱ いする。
+すばやい　うごきで　あいての　あしを\xfffeねらって　こうげきする。\xfffeあいての　すばや さを　さげる。
+うたで　あいてを　こうげきする。\xfffeみんなで　つかうと　れんぞくで\xfffeだせて　いりょ くも　あがる。
+こえで　あいてを　こうげきする。\xfffeまいターン　じぶんや　みかたが\xfffeつかうと　いり ょくが　あがる。
+フルパワーで　ほのおの　こうげき。\xfffeつかったあと　じぶんの　とくこうは\xfffeがくっと 　さがる。
+ふしぎな　ちからで　テレポートして\xfffeじぶんと　みかたの　いばしょを\xfffe いれかえる。
+こんしんの　ちからで　こうげきする。\xfffeあたった　あいての　とくぼうを\xfffeさげること が　ある。
+いのちの　ちからを　あつめて　\xfffeこうげきする。　あたった　あいての\xfffeとくぼうを　 さげることが　ある。
+てかげんして　こうげきする。\xfffeこうげきした　あいての　ＨＰは\xfffeかならず　１　のこ る。
+あつく　にえたぎる　みずを\xfffeはっしゃして　こうげきする。\xfffeやけどに　することが　 ある。
+どうぐを　なげつけて　こうげきする。\xfffeなげる　もちものに　よって　わざの\xfffeいりょ くと　こうかは　かわる。
+でんげきを　あびせて　こうげきする。\xfffeのこった　でんきを　ためて　じぶんの\xfffeとく こうを　あげることが　ある。
+つれさった　あいてを　２ターンめに\xfffeそらから　おとして　こうげきする。\xfffeつれさら れた　あいては　うごけない。
+ほのおで　あいてを　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeもやし て　つかえなく　する。
 あいてを　おさえつけて\xfffeこうどうの　じゅんばんを\xfffeさいごに　する。
-あおじろく　もえる　あやしげな\xfffeほのおを　はなつ。　あいてを\xfffeやけどの　じょうたいに　する。
-かろやかに　あいてを　こうげきする。\xfffeじぶんが　どうぐを　もっていないと\xfffeおおきな　ダメージを　あたえる。　
-もたせた　どうぐを　つかえなくする。\xfffeトレーナーも　その　ポケモンには\xfffeどうぐを　つかうことが　できない。
-おおきな　ばくはつで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかったあと　ひんしに　なる。
-かげで　つくった　するどいツメで\xfffeきりさいて　こうげきする。\xfffeきゅうしょに　あたりやすい。
-ちからを　ためこみ　こうげきする。\xfffeあいてより　あとに　だせると\xfffeわざの　いりょくは　２ばいに　なる。
-たおれた　みかたの　かたきを　うつ。\xfffeまえの　ターンに　たおされて\xfffeいると　いりょくが　あがる。　
-もてる　ちからの　すべてを　あつめて\xfffeとつげきする。　つぎの　ターン\xfffeはんどうで　うごけなくなる。
-からだを　みがきあげて　くうきの\xfffeていこうを　すくなくする。\xfffeすばやさを　ぐーんと　あげる。
-あいての　めいちゅうりつを　さげる。\xfffeくらい　どうくつを　あかるく\xfffeてらすことも　できる。
-とがった　がんせきを　したから\xfffeつきさして　こうげきする。\xfffeきゅうしょに　あたりやすい。
-こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　いれかわる。
-よわい　でんきを　あびせることで\xfffeあいてを　まひじょうたいに　する。\xfffe
-からだを　こうそくに　かいてん\xfffeさせて　たいあたりする。　あいてより\xfffeおそいほど　いりょくは　あがる。
-たたかいのまいを　はげしく　おどり\xfffeきあいを　たかめる。　じぶんの\xfffeこうげきを　ぐーんと　あげる。
-ていこう　して\xfffeあいてを　こうげきする。\xfffeあいての　とくこうを　さげる。
-じぶんに　あんじを　かけることで\xfffeのうりょく　へんかの　じょうたいを\xfffeあいてと　おなじにする。
-じめんを　ふみならして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeあいての　すばやさを　さげる。
-つめたい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeかならず　きゅうしょに　あたる。
-おおきな　がんせきを　なげつけて\xfffeこうげきする。\xfffeあいてを　ひるませることが　ある。
-カマや　ツメを　ハサミのように\xfffeこうさ　させながら　きりさいて\xfffeこうげきする。
-あいてを　はじきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいなら　せんとうが　おわる。
+あおじろく　もえる　あやしげな\xfffeほのおを　はなつ。　あいてを\xfffeやけどの　じょうた いに　する。
+かろやかに　あいてを　こうげきする。\xfffeじぶんが　どうぐを　もっていないと\xfffeおおき な　ダメージを　あたえる。　
+もたせた　どうぐを　つかえなくする。\xfffeトレーナーも　その　ポケモンには\xfffeどうぐを 　つかうことが　できない。
+おおきな　ばくはつで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかったあ と　ひんしに　なる。
+かげで　つくった　するどいツメで\xfffeきりさいて　こうげきする。\xfffeきゅうしょに　あた りやすい。
+ちからを　ためこみ　こうげきする。\xfffeあいてより　あとに　だせると\xfffeわざの　いりょ くは　２ばいに　なる。
+たおれた　みかたの　かたきを　うつ。\xfffeまえの　ターンに　たおされて\xfffeいると　いり ょくが　あがる。　
+もてる　ちからの　すべてを　あつめて\xfffeとつげきする。　つぎの　ターン\xfffeはんどうで 　うごけなくなる。
+からだを　みがきあげて　くうきの\xfffeていこうを　すくなくする。\xfffeすばやさを　ぐーん と　あげる。
+あいての　めいちゅうりつを　さげる。\xfffeくらい　どうくつを　あかるく\xfffeてらすことも 　できる。
+とがった　がんせきを　したから\xfffeつきさして　こうげきする。\xfffeきゅうしょに　あたり やすい。
+こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　い れかわる。
+よわい　でんきを　あびせることで\xfffeあいてを　まひじょうたいに　する。\xfff e
+からだを　こうそくに　かいてん\xfffeさせて　たいあたりする。　あいてより\xfffeおそいほど 　いりょくは　あがる。
+たたかいのまいを　はげしく　おどり\xfffeきあいを　たかめる。　じぶんの\xfffeこうげきを　 ぐーんと　あげる。
+ていこう　して\xfffeあいてを　こうげきする。\xfffeあいての　とくこうを　さげ る。
+じぶんに　あんじを　かけることで\xfffeのうりょく　へんかの　じょうたいを\xfffeあいてと　 おなじにする。
+じめんを　ふみならして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeあいての 　すばやさを　さげる。
+つめたい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeかならず　きゅうしょに　 あたる。
+おおきな　がんせきを　なげつけて\xfffeこうげきする。\xfffeあいてを　ひるませることが　あ る。
+カマや　ツメを　ハサミのように\xfffeこうさ　させながら　きりさいて\xfffeこう げきする。
+あいてを　はじきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいなら　せん とうが　おわる。
 じぶんを　ふるいたてて\xfffeこうげきと　とくこうを　あげる。\xfffe
-どくに　そまった　しょくしゅや\xfffeうでで　こうげきする。どくの\xfffeじょうたいに　することが　ある。
-ねている　あいての　ゆめを　たべて\xfffeこうげきする。　あたえた　ダメージの\xfffeはんぶん　ＨＰを　かいふくする。
-くさを　からませて　ころばせる。\xfffeあいてが　おもいほど　わざの\xfffeいりょくは　あがる。
-おこらせて　こんらんさせる。\xfffeいかりで　あいての　こうげきは\xfffeぐーんと　あがってしまう。
-くちばしで　こうげきする。\xfffeあいてが　きのみを　もっているとき\xfffeついばんで　こうかを　うけられる。
+どくに　そまった　しょくしゅや\xfffeうでで　こうげきする。どくの\xfffeじょうたいに　する ことが　ある。
+ねている　あいての　ゆめを　たべて\xfffeこうげきする。　あたえた　ダメージの\xfffeはんぶ ん　ＨＰを　かいふくする。
+くさを　からませて　ころばせる。\xfffeあいてが　おもいほど　わざの\xfffeいりょくは　あが る。
+おこらせて　こんらんさせる。\xfffeいかりで　あいての　こうげきは\xfffeぐーんと　あがって しまう。
+くちばしで　こうげきする。\xfffeあいてが　きのみを　もっているとき\xfffeついばんで　こう かを　うけられる。
 あいてを　こうげきした　あとに\xfffeひかえの　ポケモンと　いれかわる。\xfffe
-じぶんの　ＨＰを　すこし　けずって\xfffeぶんしんを　だす。　じぶんの\xfffeかわりに　こうげきを　うける。
-からだの　ひかりを　いってんに\xfffeあつめ　ひかりを　はなつ。　あいての\xfffeとくぼうを　さげることがある。
-まかふしぎな　くうかんを　つくる。\xfffe５ターンの　あいだ　うごきの　おそい\xfffeポケモンから　こうげきできる。
-カマや　ツメなどの　するどいもので\xfffeきりつけて　こうげきする。\xfffeほそいきを　きることも　できる。
-１ターンめで　そらへ　とびあがって\xfffe２ターンめで　こうげきする。\xfffeしっているまちに　いどうも　できる。
-おおきな　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeみずのうえを　すすむことも　できる。
-こんしんの　ちからで　こうげきする。\xfffeおもいいわを　おすことも　できる。\xfffe
-たきを　さかのぼるような　すさまじい\xfffeいきおいで　とっしん　こうげきする。\xfffeたきを　のぼることも　できる。
-１ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeなかに　もぐる　ことも　できる。
+じぶんの　ＨＰを　すこし　けずって\xfffeぶんしんを　だす。　じぶんの\xfffeかわりに　こう げきを　うける。
+からだの　ひかりを　いってんに\xfffeあつめ　ひかりを　はなつ。　あいての\xfffeとくぼうを 　さげることがある。
+まかふしぎな　くうかんを　つくる。\xfffe５ターンの　あいだ　うごきの　おそい\xfffeポケモ ンから　こうげきできる。
+カマや　ツメなどの　するどいもので\xfffeきりつけて　こうげきする。\xfffeほそいきを　きる ことも　できる。
+１ターンめで　そらへ　とびあがって\xfffe２ターンめで　こうげきする。\xfffeしっているまち に　いどうも　できる。
+おおきな　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeみずのうえを　 すすむことも　できる。
+こんしんの　ちからで　こうげきする。\xfffeおもいいわを　おすことも　できる。\xf ffe
+たきを　さかのぼるような　すさまじい\xfffeいきおいで　とっしん　こうげきする。\xfffeたき を　のぼることも　できる。
+１ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeなかに　 もぐる　ことも　できる。
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はいれる。
+たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はい れる。
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
 A tool that can search out Pokémon\xfffethat are hiding in grass. Its battery is\xffferecharged as you walk.
@@ -535,93 +534,93 @@ A sturdy Capsule that can only be\xfffeopened with a special key.
 A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　ウロコ。\xfffeにじいろに　かがやいている。
-しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
-とても　かるい　いし。\xfffeもたせると　ポケモンの\xfffeたいじゅうが　かるくなる。
-ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
-ポケモンに　もたせると\xfffeポケモンが　ちゅうに　うく。\xfffeこうげきを　うけると　われてしまう。
-ふしぎな　ちからのある　カード。\xfffeもたせると　わざをうけた　あいてを\xfffeたいじょう　させることが　できる。
-ポケモンの　タイプの　あいしょうで\xfffeむこう　だった　わざが\xfffeあたるように　なってしまう。
-しめつけるわざを　ほじょする　バンド。\xfffeもたせると　しめつけるわざの\xfffeいりょくが　つよく　なる。
-つかいすての　きゅうこん。\xfffeもたせて　みずの　わざを　うけると\xfffeとくこうが　あがる。
-つかいすての　じゅうでんち。\xfffeもたせて　でんきの　わざを　うけると\xfffeこうげきが　あがる。
-もたせて　わざを　うけると\xfffeせんとうから　だっしゅつして\xfffeてもちと　いれかわる　ことができる。
-ほのおの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ほのおの\xfffeわざの　いりょくが　つよまる。
-みずの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　みずの\xfffeわざの　いりょくが　つよまる。
-でんきの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　でんきの\xfffeわざの　いりょくが　つよまる。
-くさの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　くさの\xfffeわざの　いりょくが　つよまる。
-こおりの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　こおりの\xfffeわざの　いりょくが　つよまる。
-かくとうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　かくとうの\xfffeわざの　いりょくが　つよまる。
-どくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　どくの\xfffeわざの　いりょくが　つよまる。
-じめんの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　じめんの\xfffeわざの　いりょくが　つよまる。
-ひこうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ひこうの\xfffeわざの　いりょくが　つよまる。
-エスパーの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　エスパーの\xfffeわざの　いりょくが　つよまる。
-むしの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　むしの\xfffeわざの　いりょくが　つよまる。
-いわの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　いわの\xfffeわざの　いりょくが　つよまる。
-ゴーストの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ゴーストの\xfffeわざの　いりょくが　つよまる。
-ドラゴンの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ドラゴンの\xfffeわざの　いりょくが　つよまる。
-あくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　あくの\xfffeわざの　いりょくが　つよまる。
-はがねの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　はがねの\xfffeわざの　いりょくが　つよまる。
-ノーマルの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ノーマルの\xfffeわざの　いりょくが　つよまる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ちょっと　あげる。
+ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　ウロコ。\xfffeにじいろに　かが やいている。
+しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　 とくぼうが　あがる。
+とても　かるい　いし。\xfffeもたせると　ポケモンの\xfffeたいじゅうが　かるく なる。
+ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえ る。
+ポケモンに　もたせると\xfffeポケモンが　ちゅうに　うく。\xfffeこうげきを　うけると　われ てしまう。
+ふしぎな　ちからのある　カード。\xfffeもたせると　わざをうけた　あいてを\xfffeたいじょう 　させることが　できる。
+ポケモンの　タイプの　あいしょうで\xfffeむこう　だった　わざが\xfffeあたるように　なって しまう。
+しめつけるわざを　ほじょする　バンド。\xfffeもたせると　しめつけるわざの\xfffeいりょくが 　つよく　なる。
+つかいすての　きゅうこん。\xfffeもたせて　みずの　わざを　うけると\xfffeとくこうが　あが る。
+つかいすての　じゅうでんち。\xfffeもたせて　でんきの　わざを　うけると\xfffeこうげきが　 あがる。
+もたせて　わざを　うけると\xfffeせんとうから　だっしゅつして\xfffeてもちと　いれかわる　 ことができる。
+ほのおの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ほのおの\xfffeわざの　いりょ くが　つよまる。
+みずの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　みずの\xfffeわざの　いりょくが 　つよまる。
+でんきの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　でんきの\xfffeわざの　いりょ くが　つよまる。
+くさの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　くさの\xfffeわざの　いりょくが 　つよまる。
+こおりの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　こおりの\xfffeわざの　いりょ くが　つよまる。
+かくとうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　かくとうの\xfffeわざの　い りょくが　つよまる。
+どくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　どくの\xfffeわざの　いりょくが 　つよまる。
+じめんの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　じめんの\xfffeわざの　いりょ くが　つよまる。
+ひこうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ひこうの\xfffeわざの　いりょ くが　つよまる。
+エスパーの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　エスパーの\xfffeわざの　い りょくが　つよまる。
+むしの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　むしの\xfffeわざの　いりょくが 　つよまる。
+いわの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　いわの\xfffeわざの　いりょくが 　つよまる。
+ゴーストの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ゴーストの\xfffeわざの　い りょくが　つよまる。
+ドラゴンの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ドラゴンの\xfffeわざの　い りょくが　つよまる。
+あくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　あくの\xfffeわざの　いりょくが 　つよまる。
+はがねの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　はがねの\xfffeわざの　いりょ くが　つよまる。
+ノーマルの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ノーマルの\xfffeわざの　い りょくが　つよまる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっ と　あげる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ち ょっと　あげる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ち ょっと　あげる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ち ょっと　あげる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ち ょっと　あげる。
+ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ち ょっと　あげる。
 きれいなだけで　なんの　こうかもない\xfffeごくごく　ふつうの　ハネ。\xfffe
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　らしい。
-とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
-リバティガーデンとうに　いくための\xfffeとくべつな　チケット。\xfffeヒウンシティから　ふねに　のれる。
-デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
-ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　ポケモンも　つかまえられる。
-ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。
-ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる　きれいで　すてきなケース。
-あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモンの　あたまの　ホネ。
-あたりいったいに　いい　かおりが\xfffeひろがる　めずらしい　キノコ。\xfffeマニアが　たかく　かってくれる。
-キラキラと　きんいろに　ひかる\xfffeじゅんきんせいの　おおきな　たま。\xfffeマニアが　たかく　かってくれる。
-きれいな　ぎんいろに　ひかる\xfffeとても　おおつぶの　しんじゅ。\xfffeマニアが　たかく　かってくれる。
-すいせいが　ちかづいたとき\xfffeちひょうに　おちた　かけら。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　どうか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　ぎんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　きんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　ツボ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　うでわ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　せきぞう。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　おうかん。\xfffeマニアが　たかく　かってくれる。
-ヒウンシティの　めいぶつアイス。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-きゅうしょりつが　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
+おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　 らしい。
+とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いち ぶ　らしい。
+リバティガーデンとうに　いくための\xfffeとくべつな　チケット。\xfffeヒウンシティから　ふ ねに　のれる。
+デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた 　ふしぎな　たま。
+ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　 ポケモンも　つかまえられる。
+ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったい に　にげられる。
+ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる 　きれいで　すてきなケース。
+あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモン の　あたまの　ホネ。
+あたりいったいに　いい　かおりが\xfffeひろがる　めずらしい　キノコ。\xfffeマニアが　たか く　かってくれる。
+キラキラと　きんいろに　ひかる\xfffeじゅんきんせいの　おおきな　たま。\xfffeマニアが　た かく　かってくれる。
+きれいな　ぎんいろに　ひかる\xfffeとても　おおつぶの　しんじゅ。\xfffeマニアが　たかく　 かってくれる。
+すいせいが　ちかづいたとき\xfffeちひょうに　おちた　かけら。\xfffeマニアが　たかく　かっ てくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　どうか。\xfffeマニアが　たかく　 かってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　ぎんか。\xfffeマニアが　たかく　 かってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　きんか。\xfffeマニアが　たかく　 かってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　ツボ。\xfffeマニアが　たかく　か ってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　うでわ。\xfffeマニアが　たかく　 かってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　せきぞう。\xfffeマニアが　たかく 　かってくれる。
+３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　おうかん。\xfffeマニアが　たかく 　かってくれる。
+ヒウンシティの　めいぶつアイス。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　 すべて　かいふくする。
+きゅうしょりつが　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　 もとに　もどる。
+せんとうちゅうの　ポケモンの\xfffeすばやさを　それなりに　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくこうを　それなりに　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくぼうを　それなりに　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeぼうぎょを　それなりに　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeこうげきを　それなりに　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeめいちゅうを　それなりに　あげる。\xfffeひっこめると　 もとに　もどる。
+せんとうちゅうの　ポケモンの\xfffeすばやさを　かなり　あげる。\xfffeひっこめると　もとに 　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくこうを　かなり　あげる。\xfffeひっこめると　もとに 　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくぼうを　かなり　あげる。\xfffeひっこめると　もとに 　もどる。
+せんとうちゅうの　ポケモンの\xfffeぼうぎょを　かなり　あげる。\xfffeひっこめると　もとに 　もどる。
+せんとうちゅうの　ポケモンの\xfffeこうげきを　かなり　あげる。\xfffeひっこめると　もとに 　もどる。
+せんとうちゅうの　ポケモンの\xfffeめいちゅうを　かなり　あげる。\xfffeひっこめると　もと に　もどる。
+せんとうちゅうの　ポケモンの\xfffeすばやさを　ものすごく　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくこうを　ものすごく　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeとくぼうを　ものすごく　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeぼうぎょを　ものすごく　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeこうげきを　ものすごく　あげる。\xfffeひっこめると　も とに　もどる。
+せんとうちゅうの　ポケモンの\xfffeめいちゅうを　ものすごく　あげる。\xfffeひっこめると　 もとに　もどる。
 つかうと　みかたの　ポケモンの\xfffeとくせいを　はつどう　させる。\xfffe
 つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　なくす。\xfffe
 つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　すぐつかう。\xfffe
-つかうと　みかたの　ポケモンの\xfffeのうりょく　へんかが　もとにもどる。\xfffe
-きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-レシラムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
-ゼクロムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
-でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　うける。
-いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
+つかうと　みかたの　ポケモンの\xfffeのうりょく　へんかが　もとにもどる。\xfff e
+きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっ こめると　もとに　もどる。
+レシラムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　ま っていると　される。
+ゼクロムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　ま っていると　される。
+でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　 うける。
+いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　こ とが　ある。
 まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
+さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トラ ンシーバー。
 まぼろしの　いし。\xfffe\xfffe
 キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
 キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
 キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
+さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トラ ンシーバー。
