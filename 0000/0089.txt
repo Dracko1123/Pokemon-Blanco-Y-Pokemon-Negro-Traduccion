@@ -1,55 +1,55 @@
 －－－－－－－－－－
-Mysterious Place
-Distant Place
+Lugar Misterioso
+Lugar Lejano
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-Kanoto Town
-Karakusa Town
-Sanyou Town
-Shippou City
-Hiun City
-Raimon City
-Hobomoe City
-Fukiyose City
-Sekka City
-Souryuu City
-Route 1
-Route 2
-Route 3
-Route 4
-Route 5
-Route 6
-Route 7
-Route 8
-Route 9
-Route 10
-Route 11
-Route 12
-Route 13
-Route 14
-Route 15
-Route 16
-Water Route 17
-Route 18
-Dream Ruins
-Yaguruma Forest
+Pueblo Kanoto
+Pueblo Karakusa
+Pueblo Sanyou
+Ciudad Shippou
+Ciudad Hiun
+Ciudad Raimon
+Ciudad Hobomoe
+Ciudad Fukiyose
+Ciudad Sekka
+Ciudad Souryuu
+Ruta 1
+Ruta 2
+Ruta 3
+Ruta 4
+Ruta 5
+Ruta 6
+Ruta 7
+Ruta 8
+Ruta 9
+Ruta 10
+Ruta 11
+Ruta 12
+Ruta 13
+Ruta 14
+Ruta 15
+Ruta 16
+Ruta marina 17
+Ruta 18
+Ruinas del Sueño
+Bosque Yaguruma
 Resort Desert
 Ancient Castle
 Cold Storage
 Thunder Stone Cave
 Mt. Neji
-Ryuurasen Tower
+Torre Ryuurasen
 Champion Road
-Kagome Town
-Sazanami Town
-Kanawa Town
-Pokemon League
-N's Castle
-Royal Isshu Route
+Pueblo Kagome
+Pueblo Sazanami
+Pueblo Kanawa
+Liga Pokémon
+Castillo de "N"
+Ruta Isshu Royal
 Gear Station
 Battle Subway
 Musical Hall
-Black City
-White Forest
+Ciudad Negra
+Bosque Blanco
 United Tower
 Groundwater Cave
 Fukiyose Cave
@@ -60,7 +60,7 @@ Shopping Mall
 Discipline Cavern
 Shift Factory
 Giant Hall
-Liberty Garden Route
+Liberty Garden Ruta
 P2 Laboratory
 Sky Arrow Bridge
 Hobomoe Drawbridge
@@ -91,19 +91,19 @@ Hobomoe Drawbridge
 Cylinder Bridge
 Village Bridge
 Wonder Bridge
-Route 5
-Route 6
-Route 7
-Route 8
-Route 9
-Route 11
-Route 12
-Route 13
-Route 14
-Route 15
-Route 16
-Kagome Town
-Sazanami Town
+Ruta 5
+Ruta 6
+Ruta 7
+Ruta 8
+Ruta 9
+Ruta 11
+Ruta 12
+Ruta 13
+Ruta 14
+Ruta 15
+Ruta 16
+Pueblo Kagome
+Pueblo Sazanami
 Karakusa Gate
 Sazanami Gate
 Shippou Gate
@@ -114,4 +114,4 @@ Black Gate
 White Gate
 Village Gate
 Road Gate
-Abyssal Ruins
+Ruinas Abisales
