@@ -1,8 +1,8 @@
-¿Que alfabeto deseas usar?\xfffeKataka or Hiragana?\xf000븁\x0000
-Kat
-Hir
+¿Que idioma deseas usar?\xfffe¿Español o Inglés?\xf000븁\x0000
+ESP
+ENG
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁 \x0000
-No hay datos
+no data
 セーブデータを　さくせい　しています\xfffeしばらく　おまちください
 ¡Hola！\xfffe¡Bienvenido al mundo de los Pokémon!\xf000븁\x0000
 Mi nombre es Profesora Araragi.\xf000븁\x0000Pero todos me llaman\xfffeProfesora Pokémon.\xf000븁\x0000
@@ -10,14 +10,14 @@ Este mundo esta habitado por\xfffecriaturas llamadas Pokémon.\xf000븁\x0000Los
 Algunas personas usan a sus pokemon para\xfffepelear y crear unos lazos únicos \xf000븀\x0000con ellos.\xf000븁\x0000
 Ahora, ¿Por que no me cuentas un algo\xfffesobre ti?\xf000븁\x0000
 ¿Eres un chico?\xfffe¿O una chica?\xf000븁\x0000
-Asi que, ¿eres un chico?\xf000븁\x0000
-Asi que, ¿eres una chica?\xf000븁\x0000
+Así que, ¿eres un chico?\xf000븁\x0000
+Así que, ¿eres una chica?\xf000븁\x0000
 Chico
 Chica
 ¡Bien!\xf000븁\x0000Me gustaria saber tu nombre.\xfffe¿Cómo te llamas?\xf000븁\x0000
-¿Así que tu nombre es \xf000Ā\x0001\x0000?\xf000븁\x0000
-¿Así que tu nombre es \xf000Ā\x0001\x0000?\xf000븁\x0000
-Si
+¿Así que tu nombre es \xf000Ā\x0001\x0000?\xf000븁\x0000?
+¿Así que tu nombre es \xf000Ā\x0001\x0000?\xf000븁\x0000?
+Sí
 No
 ¡\xf000Ā\x0001\x0000! ¡Te voy a presentar\xfffea tus amigos!\xf000븁\x0000
 Bueno... Bueno supongo que ya los\xfffeconoces... Pero da igual.\xf000븁\x0000
