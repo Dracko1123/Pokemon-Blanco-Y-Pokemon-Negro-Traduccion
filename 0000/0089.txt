@@ -1,8 +1,8 @@
 －－－－－－－－－－
 Lugar Misterioso
-Lugar Lejano
+Lugar Distante
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-Pueblo Kanoto
+Ciudad Kanoto
 Pueblo Karakusa
 Pueblo Sanyou
 Ciudad Shippou
@@ -28,69 +28,69 @@ Ruta 13
 Ruta 14
 Ruta 15
 Ruta 16
-Ruta marina 17
+Ruta Acuática 17
 Ruta 18
-Ruinas del Sueño
+Ruinas Sueño
 Bosque Yaguruma
-Resort Desert
-Ancient Castle
-Cold Storage
-Thunder Stone Cave
+Desierto Resort
+Castillo Antiguo
+Congelador
+Cueva Piedra Trueno
 Mt. Neji
 Torre Ryuurasen
-Champion Road
+Senda del Campeón
 Pueblo Kagome
 Pueblo Sazanami
 Pueblo Kanawa
 Liga Pokémon
-Castillo de "N"
-Ruta Isshu Royal
-Gear Station
-Battle Subway
-Musical Hall
+Castillo de N
+Ruta Real de Isshu
+Estación Gear
+Subterráneo de Batalla
+Sala de Música
 Ciudad Negra
 Bosque Blanco
-United Tower
-Groundwater Cave
-Fukiyose Cave
-Shisaku Plains
-Tower of Heaven
-Sekka Wetlands
-Shopping Mall
-Discipline Cavern
-Shift Factory
-Giant Hall
-Liberty Garden Ruta
-P2 Laboratory
-Sky Arrow Bridge
-Hobomoe Drawbridge
-Cylinder Bridge
-Village Bridge
-Wonder Bridge
-High Link
-Fertility Shrine
-Sazanami Bay
-Lost Forest
-Cellar of Trials
-Room of Conduct
-High Link Forest
-Raimon City
-Hobomoe City
-Fukiyose City
-Sekka City
-Souryuu City
-Kanoko City
-White Forest
-Black City
-Cold Storage
-Thunder Stone Cave
+Torre Unida
+Acuífero
+Cueva Fukiyose
+Llanos Shisaku
+Torre Del Paraíso
+Humedal Sekka
+Centro Comercial
+Caverna Disciplina
+Fábrica de Cambio
+Salón Gigante
+Ruta del Jardín Libertad
+Laboratorio P2
+Puente Flecha Celeste
+Puente Levadizo Hobomoe
+Puente Cilíndrico
+Puente del Pueblo
+Puente Maravilla
+Alto Enlace
+Santuario de la Fertilidad
+Bahía Sazanami
+Bosque Perdido
+Bodega de Ensayos
+Sala de Conducta
+Bosque del Alto Enlace
+Ciudad Raimon
+Ciudad Hobomoe
+Ciudad Fukiyose
+Ciudad Sekka
+Ciudad Souryuu
+Ciudad Kanoko
+Bosque Blanco
+Ciudad Negra
+Congelador
+Cueva Piedra Trueno
 Mt. Neji
-Ryuurasen Tower
-Giant Hall
-Hobomoe Drawbridge
-Cylinder Bridge
-Village Bridge
-Wonder Bridge
+Torre Ryuurasen
+Salón Gigante
+Puente Levadizo Hobomoe
+Puente Cilíndrico
+Puente del Pueblo
+Puente Maravilla
 Ruta 5
 Ruta 6
 Ruta 7
@@ -104,14 +104,14 @@ Ruta 15
 Ruta 16
 Pueblo Kagome
 Pueblo Sazanami
-Karakusa Gate
-Sazanami Gate
-Shippou Gate
-Hiun Gate
-Raimon Gate
-Souryuu Gate
-Black Gate
-White Gate
-Village Gate
-Road Gate
+Puerta Karakusa
+Puerta Sazanami
+Puerta Shippou
+Puerta Hiun
+Puerta Raimon
+Puerta Souryuu
+Puerta Negra
+Puerta Blanca
+Puerta del Pueblo
+Portón del Camino
 Ruinas Abisales
