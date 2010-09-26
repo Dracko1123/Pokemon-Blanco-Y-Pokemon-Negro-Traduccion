@@ -67,49 +67,49 @@ Una flauta amarilla hecha de cristal.\xfffeEsta melodia despierta a un Pokémon\
 Una flauta roja hecha de cristal.\xfffeEsta melodia despierta a un Pokémon \xfffeque este infectado.
 Una flauta negra hecha de cristal.\xfffeCon esta melodia aparecen menos \xfffe Pokémon salvaje.
 Una flauta blanca hecha de cristal.\xfffeCon esta melodia aparecen más \xfffePokémon salvaje.
-Pura sal que fue descubierta\xfffedentro de la Cueva Shoal.\xfffeEs estremadamente rara.
-A pretty seashell that was found\xfffedeep inside the Shoal Cave.\xfffeIt is striped in blue and white.
-A small red shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small blue shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small yellow shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small green shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-An item that prevents weak wild\xfffePokémon from appearing for 200\xfffesteps after its use.
-An item that prevents weak wild\xfffePokémon from appearing for 250\xfffesteps after its use.
-A long, durable rope.\xfffeUse it to escape instantly from\xfffea cave or a dungeon.
-An item that prevents weak wild\xfffePokémon from appearing for 100\xfffesteps after its use.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as red as the sun.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as black as the night sky.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is colored orange.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt has a thunderbolt pattern.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is a clear, light blue.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt has a leaf pattern.
-A small and rare mushroom.\xfffeIt is quite popular among certain\xfffemaniacal fan segments.
-A large and rare mushroom.\xfffeIt is very popular among certain\xfffemaniacal fan segments.
-A somewhat-small pearl that\xfffesparkles in a pretty silver color.\xfffeIt can be sold cheaply to shops.
-A quite-large pearl that sparkles in\xfffea pretty silver color. It can be\xfffesold at a high price to shops.
-Lovely, red-colored sand with a\xfffeloose, silky feel. It can be sold at\xfffea high price to shops.
-A shard of a pretty gem that\xfffesparkles in a red color. It can\xfffebe sold at a high price to shops.
-A nugget of pure gold that gives off\xfffea lustrous gleam. It can be sold\xfffeat a high price to shops.
-A pretty, heart-shaped scale that\xfffeis extremely rare. It glows faintly\xfffein the colors of the rainbow.
-A sweet honey with a lush aroma that\xfffeattracts wild Pokémon when it is used\xfffein grass, caves, or on special trees.
-A fertilizer to be spread on soft soil.\xfffeIt speeds up the growth of Berries.\xfffeHowever, it also dries the soil faster.
-A fertilizer to be spread on soft soil.\xfffeIt slows the growth of Berries and\xfffecauses the soil to dry slower.
-A fertilizer to be spread on soft soil.\xfffeIt extends the time ripened Berries\xffferemain on their plants before falling.
-A fertilizer to be spread on soft soil.\xfffeIt ups the number of times new plants\xfffegrow where mature plants withered.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a plant root.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a claw.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a seashell.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a shell.
-A piece of amber that contains the\xfffegenetic material of an ancient Pokémon.\xfffeIt is clear with a reddish tint.
-A fossil from a prehistoric Pokémon\xfffethat lived on the land. It appears\xfffeto be part of a collar.
-A fossil from a prehistoric Pokémon\xfffethat lived on the land. It appears\xfffeto be part of a head.
-A bone that is extremely valuable for\xfffePokémon archaeology. It can be sold\xfffefor a high price to shops.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt shines with a dazzling light.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as dark as dark can be.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt sparkles like eyes.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is shaped like an egg.
-A vital item that is needed to keep a\xfffestone tower from collapsing. Voices\xfffecan be heard from it occasionally.
-A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- and Ghost-type moves.
+Pura sal que fue descubierta \xfffedentro de la Cueva Cardumen.\xfffeEs estremadamente rara.
+Una concha bonita que se encontró \xfffeen el interior de la Cueva Cardumen. \ XfffeEsta rayado en azul y blanco.
+Un fragmento pequeño de color rojo. \xfffeParece ser de una especie de \ xfffehecha hace mucho tiempo.
+Un fragmento pequeño de color azul. \xfffeParece ser de una especie de \ xfffehecha hace mucho tiempo.
+Un fragmento pequeño amarillo. \xfffeParece ser de una especie de \ xfffehecha hace mucho tiempo.
+Un fragmento pequeño de color verde. \ XfffeParece ser de una especie de \ xfffehecha hace mucho tiempo.
+Un elemento que impide débiles Pokémon salvajes \ xfffeLos Pokémon aparecen 200 \ xfffepasos después de su uso.
+Un elemento que impide débiles Pokémon salvajes \ xfffeLos Pokémon aparecen 250 \ xfffepasos después de su uso.
+Una cuerda larga y duradera. \ XfffeSe usa para escapar al instante de una cueva \ xfffea o una mazmorra.
+Un elemento que impide débiles Pokémon salvajes \ xfffePokémon aparecen 100 \ xfffepasos después de su uso.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeEs tan rojo como el sol.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeEs tan negro como el cielo nocturno.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeEs de color naranja.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeTiene un dibujo del rayo.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeEs de un azul claro, la luz.
+Una piedra peculiar que hace que ciertas \ xfffeespecies de Pokémons evolucionan. \ XfffeTiene un dibujo de una hoja.
+Un hongo pequeño y raro. \ XfffeEs bastante popular entre ciertos grupos de \ xfffemaniacos.
+Un hongo grande y raro. \ XfffeEs muy popular entre ciertos grupos de \ xfffemaniacos.
+Una perla algo pequeñas que \ xfffebastantes destellos en un color plata. \ XfffePueden ser vendidos a bajo precio a las tiendas.
+Una perla muy grande que brilla en \ xfffePuede ser de color plateado. \ xfffeVendido a un alto precio a las tiendas.
+Bonito, arena de color rojo con un \, xfffetacto sedoso. Se puede vender a precio alto \ xfffeen las tiendas.
+Un fragmento de una joya bonita que \ xfffepuede hacer destellos en un color rojo. \ xfffeSe venden a un alto precio a las tiendas.
+Una pepita de oro puro que emite \ brillo luminoso xfffeSe puede vender \ xfffea un alto precio en las tiendas.
+Una escala grande, en forma de corazón que \ xfffees extremadamente rara. Brilla débilmente \ xfffecon los colores del arco iris.
+Un dulce miel con un aroma exuberante que \ xfffeatrae Pokémons salvajes cuando se usa \ xfffeen cuevas o en los árboles especiales.
+Un fertilizante que se extiende sobre terreno blando. \ xfffeAumenta el crecimiento de las bayas. \ XfffeSin embargo, también se seca el suelo más rápido.
+Un fertilizante que se extiende sobre terreno blando. \ XfffeAtrasa el crecimiento de las bayas y \ xfffehace que el suelo se seque más lento.
+Un fertilizante que se extiende sobre terreno blando. \ XfffeExtiende el tiempo de maduracion de las bayas y se \ xfffequedan en sus plantas antes de caer.
+Un fertilizante que se extiende sobre terreno blando. \ Ups xfffeExiende el número de veces que las nuevas instalaciones \ xfffedonde marchitan las plantas maduras.
+Un fósil de un Pokémon ancestral que \ xfffevivia en el mar. Parece ser \ xfffeparte de una raíz de la planta.
+Un fósil de un Pokémon ancestral que \ xfffevivia en el mar. Parece ser \ xfffeparte de una garra.
+Un fósil de un Pokémon ancestral que \ xfffevivia en el mar. Parece ser \ xfffeparte de una concha marina.
+Un fósil de un Pokémon ancestral que \ xfffevivia en el mar. Parece ser \ xfffeparte de una concha.
+Un pedazo de ámbar que contiene el material \ xfffegenetico de un Pokémon antiguo. \ XfffeEs clara con un tinte rojizo.
+Un fósil de un Pokémon prehistórico \ xfffevivido en la tierra. Parece \ xfffeser parte de un collar.
+Un fósil de un Pokémon prehistórico \ xfffevivido en la tierra. Parece \ xfffeser parte de una cabeza.
+Un hueso que es extremadamente valioso para la arqueología \ xfffePokémon. Se puede vender \ xfffepor un alto precio a las tiendas.
+Una piedra peculiar que hace que ciertos \ xfffeespecies de Pokémons evolucionan. \ XfffeBrilla con una luz deslumbrante.
+Una piedra peculiar que hace que ciertos \ xfffeespecies de Pokémons evolucionan. \ XfffeEs tan oscuro como la oscuridad puede ser.
+Una piedra peculiar que hace que ciertos \ xfffeespecies de Pokémons evolucionan. \ XfffeBrilla como los ojos.
+Una piedra peculiar que hace que ciertos \ xfffeespecies de Pokémons evolucionan. \ XfffeTiene la forma de un huevo.
+Un elemento vital que se necesita para evitar que una torre xfffede piedra \ se derrumbe. \ xfffeSe puede oir de vez en cuando voces.
+Una joya brillante, que tendrá Giratina. \ xfffeAumenta el poder y velocidad del tipo \ xfffedragón y el tipo fantasma.
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
