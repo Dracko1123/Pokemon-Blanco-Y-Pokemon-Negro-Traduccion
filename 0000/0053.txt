@@ -62,6 +62,7 @@ Un objeto que sube la Precisión\xfffeen batalla Pokémon. Esto desaparece\xfffe
 Un objeto que sube el Ata.Exp.\xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
 Un objeto que sube la Sp. Def \xfffeen batalla Pokémon. Esto desaparece\xfffeoel Pokémon es retirado.
 Una muñeca que atrae a los Pokémon.\xfffeÚsala para escapar de cualquier batalla\xfffea en el mundo Pokémon.
+Un objeto que atrae Pokémon.\xfffeÚsalo para atraer a cualquier Pokémon\xfffe salvaje.
 Una flauta azul hecha de cristal.\xfffeEsta melodia despierta a un Pokemon\xfffeque está dormido.
 Una flauta amarilla hecha de cristal.\xfffeEsta melodia despierta a un Pokémon\xfffeconfuso.
 Una flauta roja hecha de cristal.\xfffeEsta melodia despierta a un Pokémon \xfffeque este infectado.
