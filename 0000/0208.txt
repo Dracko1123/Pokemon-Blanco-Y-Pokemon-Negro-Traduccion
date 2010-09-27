@@ -1,119 +1,119 @@
-ＧＴＳへ　ようこそ！
+¡Bienvenido al GTS!
 あずけていた　ポケモンの\xfffeこうかんが　せいりつ　しました！
-\xf000Ă\x0001\x0000は\xfffeこうかん　されませんでした\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeにげてしまった　みたい……\xf000븁\x0000
-おさがし　ですか？　おあずけ　ですか？
-\xf000Ă\x0001\x0000を　どうしますか？
-\xf000Ă\x0001\x0000を　ひきとりますか？
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しても　よろしいですか？
-どんな　ポケモンを　さがしますか？
-ほしい　ポケモンを　えらんでください
-せいべつを　えらんでください
-ポケモンのレベルを　きめてください
-さがすポケモンを　えらんでください！
-ポケモンを　さがしています……
-みつかりませんでした！
-さがすのを　やめますか？
-このトレーナーの　ポケモンと\xfffeこうかん　しますか？
-かわりのポケモンを　えらんでください
-\xf000Ă\x0001\x0000を　どうしますか？
-すでに　こうかん　されちゃった……
+\xf000Ă\x0001\x0000 no ha sido cambido.\xf000븁\x0000
+\xf000Ă\x0001\x0000 parece haber\xfffehuido...\xf000븁\x0000
+¿Estas buscando o dando un Pokémon?
+Qué es esto\xf000Ă\x0001\x0000?
+Vas tu a provechar \xf000Ă\x0001\x0000?
+Tú te quieres desconectando de\xfffeConexión Wifi de Nintendo?
+¿Qué tipo quieres?
+Por favor selecciona el Pokémon que tú quieres.
+Por favor selecciona el género.
+Por favor selecciona el nivel.
+Por favor selecciona el Pokémon que tú quieres!
+Buscando el Pokémon que tu quieres...
+No se ha encontrado nada!
+¿Quieres parar la búsqueda?
+¿Intercambiar con el entrenador?
+Elige el Pokémon que quieres cambiar.
+¿Haz lo que tú sabes\xf000Ă\x0001\x0000?
+Parece que no se ha podido intercambiarlo...
 していのポケモンと　ちがいますよ！
-あずけるポケモンを　えらんでください
-\xf000Ă\x0001\x0000を　あずけますか？
-この　じょうけんで　よろしいですか？
-ＧＴＳの　じょうたいを\xfffeかくにんちゅう　です……
-ボールカプセルが　はずれますが\xfffeよろしい　ですか？
+Elige el Pokémon que quieres cambiar.
+Oferta \xf000Ă\x0001\x0000?
+¿Están bien las condiciones de intercambio?
+Aceptando datos de estado de GTS...
+La Capsula Ball será retirada.\xfffe¿Esta bien?
 このポケモンを　こうかんに\xfffeだすことは　できません！\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６６）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６７）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６８）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６９）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７０）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７１）\xf000븁\x0000
-タマゴを　こうかんに\xfffeだすことは　できません！\xf000븁\x0000
-てもちが　いっぱいで　ポケモンを\xfffeうけとることが　できません！\xf000븁\x0000
-ボックスが　いっぱいで　ポケモンを\xfffeうけとることが　できません！\xf000븁\x0000
-こうかん　あいてが　みつかりました！
-Ｗｉ－Ｆｉコネクションに　せつぞく
-『えらぶ』で　あいてを　きめてください
-じょうけんを　かえて　ください
-しばらく　じかんを　おいてください
-てもちがいっぱいで　メールをもってる\xfffeポケモンを　うけとれません！\xf000븁\x0000
-てもちが　いっぱいで　うけとれません
-とくべつな　リボンが　ついているので\xfffeこうかんに　だすことは　できません！\xf000븁\x0000
-ＧＴＳの　かくにんに　しっぱいしました
-\xf000봂\x0000グローバル　トレード　システム
-\xf000봂\x0000ようすを　みる
-\xf000봂\x0000ポケモンを　あずける
-\xf000봂\x0000ポケモンを　さがす
-\xf000봂\x0000しゅうりょう　する
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６６）\xf000븁\x000 0
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６７）\xf000븁\x000 0
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６８）\xf000븁\x000 0
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６９）\xf000븁\x000 0
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７０）\xf000븁\x000 0
+このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７１）\xf000븁\x000 0
+¡Un Huevo no se puede intercambiar\xfffepor el GTS!\xf000븁\x0000
+Tu fiesta está llena.\xfffe¡Tu no puedes recibir este Pokémon!\xf000븁\x0000
+El espacio en caja está llena.\xfffe¡Tu no puedes recibir este Pokémon!\xf000븁\x0000
+¡Un amigo tuyo ha sido encontrado!
+Conexión Wifi de Nintendo
+Toca "SELECT" para aceptar a tu amigo.
+Por favor cambie sus condiciones.
+Por favor espere un rato.
+Por favor espere un momento.\xfffeTu no puedes recibir este Pokémon.\xf000븁\x0000
+No hay ningún espacio en este lugar.
+Este Pokémon tiene un Cinta Especial.\xfffeEste no puede ser ofrecido en Wifi.\xf000븁\x0000
+Comprobación Gts fallida.
+\xf000봂\x0000Negociación en el Sistema Global
+\xf000봂\x0000Sumario
+\xf000봂\x0000Depositar un Pokémon
+\xf000봂\x0000Buscar un Pokémon
+\xf000봂\x0000Salir
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
-Ｌｖ．\xf000Ȃ\x0001\x0002
+Nｖ．\xf000Ȃ\x0001\x0002
 もちもの
 \xf000ĉ\x0001\x0003
-あずけたひと
+Ofrecer
 \xf000Ā\x0001\x0004
-ほしいポケモン
+Depositar Pokémon
 \xf000ā\x0001\x0005
-Ｌｖ.\xf000Ȃ\x0001\x0006いじょう
-Ｌｖ.していなし
+Nｖ.\xf000Ȃ\x0001\x0006いじょう
+Ningun Nv. De referencia
 ひきとる
-そのまま
-はい
-いいえ
-なまえ
-ポケモンを　さがす
-ポケモン
+Tal cual
+Si
+No
+Nombre
+Vuelve atrás
+Nivel tal cual
 \xf000ā\x0001\x0000
-せいべつ
+Género
 \xf000Ĩ\x0001\x0001
-レベル
+Nivel
 \xf000ĩ\x0001\x0002
-さがす
+Buscar
 \xf000봂\x0000もどる
-えらぶ
+Seleccionar
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
-Ｌｖ．\xf000Ȃ\x0001\x0002
+Nv.\xf000Ȃ\x0001\x0002
 もちもの
 \xf000ĉ\x0001\x0003
 あずけたひと
 \xf000Ā\x0001\x0004
-ほしいポケモン
+Depositar Pokémon
 \xf000ā\x0001\x0005
 \xf000Ĩ\x0001\x0006
 \xf000ĩ\x0001\x0007
-すんでいるばしょ
+Area
 \xf000Ĥ\x0001\x0008
 \xf000ĥ\x0001\x0009
-てもち\xfffeポケモン
-やめる
+Tus\xfffePokémon
+Fin
 \xf000ċ\x0001\x0000
-ようすを　みる
-こうかんする
-やめる
-はい
-いいえ
-てもち
-なまえ
-ポケモンを　あずける
+Visualización
+Intercambiar
+Fin
+Si
+No
+Tuyos
+Nombre
+Meter Pokémon
 \xf000ċ\x0001\x0000
-てもち\xfffeポケモン
-やめる
-ようすを　みる
-あずける
-やめる
-ほしいポケモン
+Tus\xfffePokémon
+Fin
+Visualización
+Tuyos
+Fin
+Pokémon que quieres
 \xf000ā\x0001\x0000
 \xf000ĩ\x0001\x0001
 あずけるポケモン
 \xf000Ă\x0001\x0002
-Ｌｖ．
+Nv.
 \xf000Ȃ\x0001\x0003
-Ｌｖ．\xf000Ȃ\x0001\x0003
-もどる
+Lv.\xf000Ȃ\x0001\x0003
+Volver
 ア
 カ
 サ
@@ -124,34 +124,34 @@
 ヤ
 ラ
 ワ
-きにしない
+Alguno
 ♂
 ♀
 \xf000봂\x0000もどる
-きにしない
-Ｌｖ．１０みまん
-Ｌｖ．１０いじょう
-Ｌｖ．２０いじょう
-Ｌｖ．３０いじょう
-Ｌｖ．４０いじょう
-Ｌｖ．５０いじょう
-Ｌｖ．６０いじょう
-Ｌｖ．７０いじょう
-Ｌｖ．８０いじょう
-Ｌｖ．９０いじょう
-Ｌｖ．１００
-\xf000봂\x0000もどる
+Alguno
+Menores al Nv. 10
+Nv.10 y mayores
+Nv.20 y mayores
+Nv.30 y mayores
+Nv.40 y mayores
+Nv.50 y mayores
+Nv.60 y mayores
+Nv.70 y mayores
+Nv.80 y mayores
+Nv.90 y mayores
+Nv.100
+\xf000봂\x0000Volver
 ポケモンを　ＧＴＳに\xfffeおくりだして　います
 ＧＴＳに　ポケモンが\xfffeとうろく　されました！\xf000븁\x0000
 ポケモンを　ＧＴＳから\xfffeうけとっています
 ＧＴＳから　ポケモンを\xfffeひきとりました！\xf000븁\x0000
 ＧＴＳと　ポケモンを　\xfffeこうかん　しています！
 ポケモンの　こうかんが\xfffeせいりつ　しました！\xf000븁\x0000
-ざんねんですが　ほかのひとと\xfffeこうかん　されていました\xf000븁\x0000
+ざんねんですが　ほかのひとと\xfffeこうかん　されていました\xf000븁\x000 0
 ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
 ただいま　ＧＴＳと　つうしんを\xfffeおこなっています……
-ＧＴＳは\xfffeげんざい　メンテナンスちゅう　です\xf000븁\x0000\xfffeしばらく　おまちいただいたのち　\xfffeごりようください\xf000븁\x0000
-ＧＴＳは\xfffeげんざい　こみあって　おります\xf000븁\x0000\xfffeしばらく　おまちいただいたのち\xfffeごりようください（１３２６１）\xf000븁\x0000
+ＧＴＳは\xfffeげんざい　メンテナンスちゅう　です\xf000븁\x0000\xfffeしばらく 　おまちいただいたのち　\xfffeごりようください\xf000븁\x0000
+ＧＴＳは\xfffeげんざい　こみあって　おります\xf000븁\x0000\xfffeしばらく　お まちいただいたのち\xfffeごりようください（１３２６１）\xf000븁\x0000
 けんさく　できませんでした……
 つうしんエラーが　はっせいしました
 つうしんエラーが　はっせいしました\xfffe（１３２７２）\xf000븁\x0000
@@ -163,21 +163,21 @@
 つうしんエラーが　はっせいしました\xfffe（１３２８１）\xf000븁\x0000
 つうしんエラーが　はっせいしました\xfffe（１３２８２）\xf000븁\x0000
 ＧＴＳに　せつぞく\xfffeできませんでした\xf000븁\x0000
-ＧＴＳとの　つうしんが\xfffeせつだん　されました（１３２６２）\xf000븁\x0000
-ＧＴＳとの　つうしんが\xfffeせつだん　されました（１３２７４）\xf000븁\x0000
+ＧＴＳとの　つうしんが\xfffeせつだん　されました（１３２６２）\xf000븁\x0 000
+ＧＴＳとの　つうしんが\xfffeせつだん　されました（１３２７４）\xf000븁\x0 000
 つうしんが　せつだん　されました
 もういちど　せつぞくを　かいしします
-きにしない
-Ｌｖ．１から１０
-Ｌｖ．１１から２０
-Ｌｖ．２１から３０
-Ｌｖ．３１から４０
-Ｌｖ．４１から５０
-Ｌｖ．５１から６０
-Ｌｖ．６１から７０
-Ｌｖ．７１から８０
-Ｌｖ．８１から９０
-Ｌｖ．９１から１００
+Alguno
+Nv. 1-10
+Nv. 11-20
+Nv. 21-30
+Nv. 31-40
+Nv. 41-50
+Nv. 51-60
+Nv. 61-70
+Nv. 71-80
+Nv. 81-90
+Nv. 91-100
 \xf000봂\x0000もどる
 すんでいるばしょ
 \xf000Ĥ\x0001\x0000
@@ -185,14 +185,14 @@
 　きにしない
 \xf000봂\x0000もどる
 あいての　ちいきを　きめてください
-このフォルムの　ポケモンは\xfffeこうかんに　だすことは　できません！\xf000븁\x0000
+このフォルムの　ポケモンは\xfffeこうかんに　だすことは　できません！\xf000븁 \x0000
 ギザみみピチューは　\xfffeこうかんに　だせません\xf000ȇ\x0000
-このどうぐを　もっている　ポケモンは\xfffeこうかんに　だすことは　できません！\xf000븁\x0000
+このどうぐを　もっている　ポケモンは\xfffeこうかんに　だすことは　できません！\xf000븁\ x0000
 おや
 にんしょうメールの　そうしんに\xfffeしっぱいしました\xf000븁\x0000
 つうしんエラーが　はっせいしました\xf000븁\x0000
 ないように　もんだいがあり\xfffeおくれませんでした\xf000븁\x0000
-サーバーが　メンテナンスちゅう　です\xfffeしばらく　まって　せつぞくしてください\xf000븁\x0000
+サーバーが　メンテナンスちゅう　です\xfffeしばらく　まって　せつぞくしてください\xf000븁 \x0000
 ｅメールの　にんしょうに\xfffeしっぱいしました\xf000븁\x0000
 Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しています
 Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しました
@@ -242,10 +242,10 @@
 ワ
 　
 ＧＴＳ
-ＧＴＳ\xfffeポケモンを　こうかんする
-ＧＴＳ\xfffeようすを　みる
-ＧＴＳ\xfffeポケモンを　あずける
-ＧＴＳ\xfffeポケモンを　さがす
-もどる
+ＧＴＳ\xfffeIntercambiar Pokémon
+ＧＴＳ\xfffeSumario
+ＧＴＳ\xfffeDepositar Pokémon
+ＧＴＳ\xfffeBuscar Pokémon
+Cancelar
 \xf000Ȁ\x0001\x0000
 /
