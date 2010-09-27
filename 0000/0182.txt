@@ -2,59 +2,59 @@
 Hedor
 Llovizna
 Impulso
-Armadura batalla
-Robusto
-Húmedo
-Ágil
-Velo arena
-Eléctricidad estática
-Absorbe electricidad
-Absorción agua
+Armar. Bat.
+Robustez
+Humedad
+Flexibilidad
+Velo Arena
+Elec. Estát.
+Absor. Elec.
+Absor. Agua
 Despiste
 Aclimatación
 Ojocompuesto
 Insomnio
-Cambio de color
+Cambio Color
 Inmunidad
-Absorbe Fuego
-Polvo
-Ritmo propio
+Absor. Fuego
+Polvo Escudo
+Ritmo Propio
 Ventosas
-Intimidar
+Intimidación
 Sombratrampa
-Piel tosca
+Piel Tosca
 Superguarda
-Levitar
-Efecto espora
-Sincronizar
-Cuerpo puro
-Curación natural
+Levitación
+Efec. Espora
+Sincronía
+Cuerpo Puro
+Cura Natural
 Pararrayos
 Dicha
-Nado rápido
+Nado Rápido
 Clorofila
-Iluminar
+Iluminación
 Rastro
 Potencia
-Punto tóxico
-Foco interno
-Escudo magma
-Velo agua
+Punto Tóxico
+Foco Interno
+Escudo Magma
+Velo Agua
 Imán
-Insonorizar
-Cura lluvia
-Chorro arena
+Insonizar
+Cura Lluvia
+Chorro Arena
 Presión
 Sebo
 Madrugar
-Cuerpo llama
+Cuerpo Llama
 Fuga
-Vista lince
-Corte fuerte
+Vista Lince
+Corte Fuerte
 Recogida
 Ausente
 Entusiasmo
-Gran encanto
+Gran Encanto
 Más
 Menos
 Predicción
@@ -70,7 +70,7 @@ Enjambre
 Cabeza Roca
 Sequía
 Trampa arena
-Espíritu vital
+Espír. Vital
 Humo Blanco
 Energía pura
 Caparazón
@@ -81,7 +81,7 @@ Rivalidad
 Impasible
 Manto Níveo
 Gula
-Irascible
+Punto Ira
 Liviano
 Ignífugo
 Simple
@@ -122,11 +122,11 @@ Audaz
 Multitipo
 Don Floral
 Mal Sueño
-Jugarreta
-Estimulación
-Perversidad
+Cleptómano
+Por Fuerza
+Contradictorio
 Tensión
-Espíritu Competitivo
+Esp. Competitivo
 Cobarde
 Cuerpo Maldito
 Corazón Sanador
@@ -158,7 +158,7 @@ Espejo Mágico
 Herbívoro
 Corazón Pícaro
 Poder Arena
-Púas Férreas
+Púas Hierro
 Modo Daruma
 Estrella Victoria
 Turbo Llama
