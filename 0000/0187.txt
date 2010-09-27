@@ -24,36 +24,36 @@ Battle Tests:
 :
 －－ / －－ / －－－－ －－ : －－
 ーー : ーー
-もどる
-タッチで　めくる
-サインを　かく
-トレーナーカードに\xfffeサインを　かきますか？
-いま　かかれている　サインは\xfffeきえますが　よろしいですか？
-がんばりや
-さみしがり
-ゆうかん
-いじっぱり
-やんちゃ
-ずぶとい
-すなお
-のんき
-わんぱく
-のうてんき
-おくびょう
-せっかち
-まじめ
-ようき
-むじゃき
-ひかえめ
-おっとり
-れいせい
-てれや
-うっかり
-おだやか
-おとなしい
-なまいき
-しんちょう
-きまぐれ
+Cancelar
+Toca la tarjeta para empezar.
+Firma
+¿Quieres Firmar xfffeTu Tarjeta de entrenador?
+Tu firma actual se borrará. \xfffe¿Estás de acuerdo?
+Hardy
+Lonely
+Brave
+Adamant
+Naughty
+Bold
+Docile
+Relaxed
+Impish
+Lax
+Timid
+Hasty
+Serious
+Jolly
+Naive
+Modest
+Mild
+Quiet
+Bashful
+Rash
+Calm
+Gentle
+Sassy
+Careful
+Quirky
 \xf000Ȅ\x0001\x0000
 ¥\xf000Ȇ\x0001\x0000
 \xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
