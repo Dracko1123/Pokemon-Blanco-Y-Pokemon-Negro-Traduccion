@@ -18,9 +18,9 @@ Medallas　\xf000ȁ\x0001\x0000
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000むせん つうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000オン にしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 ふしぎな　おくりもの\xfffeしょかい　じゅしん
-Advertencia!
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうし んを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　 ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\ xfffeへんこう　することが　できます
-Advertencia!
+¡Advertencia!
+Cuando el C-Gear está activado, la\xfffeNintendo DS continuará consumiendo\xfffe de la batería, lo que significa que\xfffetu batería se acabará antes.\xfffe \xfffeEstó también ocurrirá\xfffeCuando tu Nintendo DS esté cerrada.
+¡Advertencia!
 Ya hay una partida guardada.\xfffeSi Comienza una nueva partida,\xfffeno podra guardar su progreso.\xfffe¿Quieres comenzar la partida aunque\xfffeno puedas guardar?
 Botón A: Continuar
 Botón B: Regresar al menu
