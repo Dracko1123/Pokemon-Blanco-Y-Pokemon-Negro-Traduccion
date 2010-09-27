@@ -6,21 +6,21 @@ Dinero:
 ID No.:
 Tiempo Jugado:
 Aventura empezada el:
-はじめての　でんどういり
-つうしん　かいすう
-つうしん　たいせん
-つうしん　たいせん　かち
-つうしん　たいせん　まけ
-つうしん　こうかん
-とびだしてきた　ポケモンの　かず
-トレーナーと　めが　あった　かいすう
+Debut Hall de la Fama:
+Intercambios:
+Link Battles Won:
+Link Battles Lost:
+Link Battle Disconnects:
+Link Trades:
+No. of Pokémon Released:
+No. of Trainers Battled:
 すれちがった　にんずう
 フィーリングチェック
-つかえる　デルパワー
-ミュージカル　さんか　かいすう
-ポケシフター　ハイスコア
-バトルけんてい　ハイスコア
-バトルけんてい
+Charges Used:
+Participated in Appeal Shows:
+PokéShifter High Score:
+Battle Test High Score:
+Battle Tests:
 :
 －－ / －－ / －－－－ －－ : －－
 ーー : ーー
