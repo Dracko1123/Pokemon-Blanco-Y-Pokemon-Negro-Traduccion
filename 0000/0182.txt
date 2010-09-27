@@ -1,165 +1,165 @@
 -
-Stench
-Drizzle
-Speed Boost
-Battle Armor
-Sturdy
-Damp
-Limber
-Sand Veil
-Static
-Volt Absorb
-Water Absorb
-Oblivious
-Cloud Nine
-Compoundeyes
-Insomnia
-Color Change
-Immunity
-Flash Fire
-Shield Dust
-Own Tempo
-Suction Cups
-Intimidate
-Shadow Tag
-Rough Skin
-Wonder Guard
-Levitate
-Effect Spore
-Synchronize
-Clear Body
-Natural Cure
-Lightningrod
-Serene Grace
-Swift Swim
-Chlorophyll
-Illuminate
-Trace
-Huge Power
-Poison Point
-Inner Focus
-Magma Armor
-Water Veil
-Magnet Pull
-Soundproof
-Rain Dish
-Sand Stream
-Pressure
-Thick Fat
-Early Bird
-Flame Body
-Run Away
-Keen Eye
-Hyper Cutter
-Pickup
-Truant
-Hustle
-Cute Charm
-Plus
-Minus
-Forecast
-Sticky Hold
-Shed Skin
-Guts
-Marvel Scale
-Liquid Ooze
-Overgrow
-Blaze
-Torrent
-Swarm
-Rock Head
-Drought
-Arena Trap
-Vital Spirit
-White Smoke
-Pure Power
-Shell Armor
-Air Lock
-Tangled Feet
-Motor Drive
-Rivalry
-Steadfast
-Snow Cloak
-Gluttony
-Anger Point
-Unburden
-Heatproof
+Hedor
+Llovizna
+Impulso
+Armadura batalla
+Robusto
+Húmedo
+Ágil
+Velo arena
+Eléctricidad estática
+Absorbe electricidad
+Absorción agua
+Despiste
+Aclimatación
+Ojocompuesto
+Insomnio
+Cambio de color
+Inmunidad
+Absorbe Fuego
+Polvo
+Ritmo propio
+Ventosas
+Intimidar
+Sombratrampa
+Piel tosca
+Superguarda
+Levitar
+Efecto espora
+Sincronizar
+Cuerpo puro
+Curación natural
+Pararrayos
+Dicha
+Nado rápido
+Clorofila
+Iluminar
+Rastro
+Potencia
+Punto tóxico
+Foco interno
+Escudo magma
+Velo agua
+Imán
+Insonorizar
+Cura lluvia
+Chorro arena
+Presión
+Sebo
+Madrugar
+Cuerpo llama
+Fuga
+Vista lince
+Corte fuerte
+Recogida
+Ausente
+Entusiasmo
+Gran encanto
+Más
+Menos
+Predicción
+Viscosidad
+Mudar
+Agallas
+Escama especial
+Lodo líquido
+Espesura
+Mar llamas
+Torrente
+Enjambre
+Cabeza Roca
+Sequía
+Trampa arena
+Espíritu vital
+Humo Blanco
+Energía pura
+Caparazón
+Bucle aire
+Tumbos
+Electromotor
+Rivalidad
+Impasible
+Manto Níveo
+Gula
+Irascible
+Liviano
+Ignífugo
 Simple
-Dry Skin
-Download
-Iron Fist
-Poison Heal
-Adaptability
-Skill Link
-Hydration
-Solar Power
-Quick Feet
-Normalize
-Sniper
-Magic Guard
-No Guard
-Stall
-Technician
-Leaf Guard
-Klutz
-Mold Breaker
-Super Luck
-Aftermath
-Anticipation
-Forewarn
-Unaware
-Tinted Lens
-Filter
-Slow Start
-Scrappy
-Storm Drain
-Ice Body
-Solid Rock
-Snow Warning
-Honey Gather
-Frisk
-Reckless
-Multitype
-Flower Gift
-Bad Dreams
-Wicked Trick
-Encourage
-Perversity
-Tension
-Competitive Spirit
-Faint Hearted
-Cursed Body
-Healing Heart
-Friend Card
-Breakable Armor
-Heavy Metal
-Light Metal
-Multi-Scale
-Poison Rampage
-Heat Rampage
-Harvest
-Telepathy
-Inconsistent
-Dust-proof
-Poisoned Hand
-Regeneration
-Pigeon Heart
-Sand Throw
-Miracle Skin
-Analyze
-Illusion
-Eccentric
-Slip Through
-Mummy
-Overconfidence
-Heart of Justice
-Self-Conscious
-Magic Mirror
-Herbivore
-Mischievous Heart
-Sand Strength
-Steel Thorns
-Daruma Mode
-Victory Star
-Turbo Blaze
-Tera Voltage
+Piel Seca
+Descarga
+Puño Férreo
+Antídoto
+Adaptable
+Encadenado
+Hidratación
+Poder Solar
+Pies Rápidos
+Normalidad
+Francotirador
+Muro Mágico
+Indefenso
+Rezagado
+Experto
+Defensa Hoja
+Zoquete
+Rompemoldes
+Afortunado
+Resquicio
+Anticipación
+Alerta
+Ignorante
+Cromolente
+Filtro
+Inicio Lento
+Intrépido
+Colector
+Gélido
+Roca Sólida
+Nevada
+Recogemiel
+Cacheo
+Audaz
+Multitipo
+Don Floral
+Mal Sueño
+Jugarreta
+Estimulación
+Perversidad
+Tensión
+Espíritu Competitivo
+Cobarde
+Cuerpo Maldito
+Corazón Sanador
+Guardia Amiga
+Armad. Rota
+Metal Pesado
+Metal Ligero
+Multiescama
+Veneno Salvaje
+Quemadura Salvaje 
+Recolección
+Telepatía
+Voluble
+Antipolvo
+Piel Veneno
+Regeneración
+Corazón Palomo 
+Nado Arena
+Piel Milagro
+Analizar
+Ilusión
+Mutante
+Escurridizo
+Momia
+Arrogancia
+Justiciero
+Miedica
+Espejo Mágico
+Herbívoro
+Corazón Pícaro
+Poder Arena
+Púas Férreas
+Modo Daruma
+Estrella Victoria
+Turbo Llama
+Teravoltaje
