@@ -3,17 +3,17 @@ Por favor selecciona
 ¿Estás seguro?
 ¡\xf000Ă\x0001\x0000 soltado!
 Adiós, ¡\xf000Ă\x0001\x0000!
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
+¡Tu equipo está completo!
+¡Ese era tu último Pokémon!
 ¿Que haras con esta caja?
 ¿Saltar a la caja \xfffe?
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-¿Continuar la busqueda?
+¿Cambiar Fondo?
+Selecciona Fondo.
+¿Continuar la búsqueda?
 ¡Esta caja está llena!
 ¡Equipo completo!
 ¡\xf000ĉ\x0001\x0000 recibido!
-¡\xf000ĉ\x0001\x0000を　もたせた！
+¡\xf000ĉ\x0001\x0000 ya lo lleva!
 ¡Escoge Pokémon!
 ¿Mover a que caja?
 No lleva nada
@@ -21,18 +21,18 @@ No lleva nada
 ♀
 Recibes \xf000ĉ\x0001\x0000?
 ¡Imposible enviar!
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-¡Por favor elimina mail!
+¿Qué hacer con \xf000ĉ\x0001\x0000?
+¿Guardar \xf000ĉ\x0001\x0000?
+¡Se ha puesto \xf000ĉ\x0001\x0000 en la mochila!
+No puede llevar un objeto.
+¡Por favor elimina correo!
 ¡El huevo no puede ser soltado!
 ¡\xf000Ă\x0001\x0000 devuelto!
 Huh, Falló…
 ¡El huevo no puede llevar items!
-¡Toca la pantalla!
-ボックスに　おけます！
-¡El objeto no puede ser consumido!
+¡Toca para marcar!
+¡Colocar en la caja!
+¡El objeto no puede comerse!
 ¡Esta caja está llena!
 ¡Lleva un objeto equipado!
 Dejar Pokémon
@@ -40,16 +40,16 @@ Retirar Pokémon
 Mover Pokémon
 Mover Objetos
 Caja de batalla
-ねかすポケモンをえらぶ
+Poner a la cama
 ¡El Correo no puede ser eliminado!
-\xf000ĉ\x0001\x0000を　もてない！
-Tiene Correo!
-たたかうポケモンが　いなくなります！
+¡No puede llevar \xf000ĉ\x0001\x0000!
+¡Tiene Correo!
+¡El Pokémon no luchará!
 ¡El Correo no puede ser eliminado!
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
+No puedes llevar correo aquí
+¡No puedes escoger un Huevo!
+¿Hacer que \xf000Ă\x0001\x0000 duerma?
+Este Pokémon no parece\xfffeque tenga sueño.
+¿Continuar con las operaciones de la caja?
 La caja de batalla ha sido bloqueada \xfffe Los Pokémon no pueden ser eliminados
 La caja de batalla ha sido bloqueada \xfffe Los objetos para equipar no pueden cambiarse
