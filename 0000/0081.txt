@@ -1,5 +1,5 @@
 ¿Cual es tu nombre?
-¿\xf000ā\x0001\x0000の　Nombre?
+¿\xf000ā\x0001\x0000　Nombre?
 ¿Cual es tu nombre de Caja?
 ¿Cual es el nombre de tu rival?
 ¿Cual es el nombre de tu amigo?
