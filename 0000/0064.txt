@@ -10,6 +10,6 @@ Error al escribir la partida\xf000븀\x0000てんそうマシンを　しゅう�
 Terminando la Maquina de Transferencia\xfffeBuscando Pokémon\xfffePorfavor manten asi la DS y espera un momento
 Error al leer\xfffela partida guardada\xfffeLa partida puede estar corrupta\xfffeo no escrita
 El cartucho correcto no esta insertado\xfffePor favor apaga la DS\xfffee inserta el cartucho apropiado\xfffeantes de reiniciar la Maquina de transferencia
-Si
+Sí
 No
 Debug ROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
