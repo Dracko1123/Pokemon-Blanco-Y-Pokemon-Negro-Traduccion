@@ -1,106 +1,106 @@
 ●●
 ¡Un \xf000ā\x0001\x0000 salvaje apareció!
-¡Un \xf000ā\x0001\x0000 y un \xfffe\xf000ā\x0001\x0001 salvajes aparecieron!
-あっ！　やせいの\xfffe\xf000ā\x0001\x0000が　あらわれた！
-やせいの\xfffe\xf000ā\x0001\x0000が　あらわれた！
-ゆめで　であった\xfffe\xf000ā\x0001\x0000が　あらわれた！
-\xf000ā\x0001\x0000が　あらわれた！
-Has sido retado por\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
-Has sido retado por\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-Has sido retado por\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 y\xf000븁\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
-Has sido retado por\xfffe\xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!\xf000븁\x0000
-¡Adelante!　\xf000Ă\x0001\x0000!
-¡Adelante!　\xf000Ă\x0001\x0000 y\xfffe\xf000Ă\x0001\x0001!
-¡Adelante!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, y\xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sacó\xfffe\xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sacó\xfffe\xf000Ă\x0001\x0002 y \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sacó\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000y \xf000Ă\x0001\x0004!
-\xf000Ā\x0001\x0000 sacó\xfffe\xf000Ă\x0001\x0001!
-\xf000Ā\x0001\x0000 sacó\xfffe\xf000Ă\x0001\x0001 y \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 sacó\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000y \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sacará\xfffe a \xf000Ă\x0001\x0002\xf000븀\x0000¿Deseas Cambiar tu Pokémon?
-¡Estás al máximo,　\xf000Ă\x0001\x0000!
-¡A por él, \xf000Ă\x0001\x0000!
-¡Sólo un Poco más!\xfffe¡Aguantalo ahí, \xf000Ă\x0001\x0000!
-¡Tu rival está débil!\xfffe¡Acaba con él, \xf000Ă\x0001\x0000!
-¡\xf000Ă\x0001\x0000, cambio!\xfffe¡Vuelve aquí!
-\xf000Ă\x0001\x0000, ¡Vuelve aquí!
-¡\xf000Ă\x0001\x0000, has hecho bastante!\xfffe¡Vuelve aquí!
-¡\xf000Ă\x0001\x0000, bien!\xfffe¡Vuelve aquí!
-¡\xf000Ă\x0001\x0000, muy bien!\xfffe¡Vuelve aquí!
-¡\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 retiró\xfffe\xf000Ă\x0001\x0002!
-¡\xf000Ā\x0001\x0000 retiró\xfffe\xf000Ă\x0001\x0001!
-¡Golpeado \xf000Ȁ\x0001\x0000 vez/ces!
-¡\xf000Ā\x0001\x0000 usó\xfffeun \xf000ĉ\x0001\x0001!
-¡\xf000Ā\x0001\x0000 usó\xfffeuna \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を　つかった！
-\xf000Ā\x0001\x0000が　\xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を　シュートした！！
+¡Un \xf000ā\x0001\x0000 y\xfffe\xf000ā\x0001\x0001 salvaje apareció!
+¡Un\xfffe\xf000ā\x0001\x0000apareció!
+¡やせいの\xfffe\xf000ā\x0001\x0000apareció!
+¡ゆめで　であった\xfffe\xf000ā\x0001\x0000apareció!
+\xf000ā\x0001\x0000apareció!
+\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001が\xfffeしょう ぶを　しかけてきた！\xf000븁\x0000
+\xf000Ā\x0001\x0000が\xfffeしょうぶを　しかけてきた！\xf000븁\x00 00
+\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003が\xf000븀\x0000しょうぶを　しかけてきた！\xf000븁\x0000
+\xf000Ā\x0001\x0000と　\xf000Ā\x0001\x0001が\xfffeしょう ぶを　しかけてきた！\xf000븁\x0000
+¡Ve,　\xf000Ă\x0001\x0000!
+¡Ve,　\xf000Ă\x0001\x0000 y\xfffe\xf000Ă\x0001\x0001!
+¡Ve!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, y\xf000Ă\x0001\x0002!
+¡\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 envía\xfffea \xf000Ă\x0001\x0002!
+¡\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001El\xfffe\ xf000Ă\x0001\x0002y\xf000븀\x0000\xf000Ă\x0001\x0003a luchar!
+¡\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001El\xfffe\ xf000Ă\x0001\x0002y　\xf000Ă\x0001\x0003y\xf000븀\x0 000\xf000Ă\x0001\x0004a luchar!
+¡\xf000Ā\x0001\x0000El\xfffe\xf000Ă\x0001\x0001a luchar!
+¡\xf000Ā\x0001\x0000El\xfffe\xf000Ă\x0001\x0001y\xf 000븀\x0000\xf000Ă\x0001\x0002a luchar!
+¡\xf000Ā\x0001\x0000Elxfffe\xf000Ă\x0001\x0001y　\xf 000Ă\x0001\x0002と\xf000븀\x0000\xf000Ă\x0001\x0003 a luchar!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 va\xfffea enviar a\xf000Ă\x0001\x0002\xf000븀\x0000¿Quieres cambiar de Pokémon?
+¡Te lo dejo a ti,　\xf000Ă\x0001\x0000!
+¡Ve a por el, \xf000Ă\x0001\x0000!
+¡Un poco mas!\xfffe¡Resiste, \xf000Ă\x0001\x0000!
+¡Tu enemigo esta débil!\xfffe¡Acaba con el, \xf000Ă\x0001\x0000!
+¡\xf000Ă\x0001\x0000, cambiado!\xfffe¡Vuelve!
+¡\xf000Ă\x0001\x0000, Vuelve!
+¡\xf000Ă\x0001\x0000, es suficiente!\xfffe¡Vuelve!
+¡\xf000Ă\x0001\x0000, OK!\xfffe¡Vuelve!
+¡\xf000Ă\x0001\x0000, Bien!\xfffe¡Vuelve!
+\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001は\xfffe\x f000Ă\x0001\x0002を　ひっこめた！
+\xf000Ā\x0001\x0000El\xfffe\xf000Ă\x0001\x0001を　ひっ こめた！
+¡Golpea \xf000Ȁ\x0001\x0000 veces!
+\xf000Ā\x0001\x0000El\xfffe\xf000ĉ\x0001\x0001を　つか った！
+\xf000Ā\x0001\x0000El\xfffe\xf000ĉ\x0001\x0001を　つか った！
+\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001は\xfffe\x f000ĉ\x0001\x0002を　つかった！
+\xf000Ā\x0001\x0000El　\xf000Ă\x0001\x0001に\xfffe\x f000ĉ\x0001\x0002を　シュートした！！
 いまは　ミラクルシューターを\xfffeつかうことが　できない！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeみぎへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeみぎへ　ローテーション！
+\xf000Ā\x0001\x0000の　Pokémon\xfffeひだりへ　ローテーション！
+\xf000Ā\x0001\x0000の　Pokémon\xfffeひだりへ　ローテーション！
+\xf000Ā\x0001\x0000の　Pokémon\xfffeみぎへ　ローテーション！
+\xf000Ā\x0001\x0000の　Pokémon\xfffeみぎへ　ローテーション！
 ¡\xf000Č\x0001\x0000 ganó\xfffe\xf000Ȇ\x0001\x0001 Puntos de Exp.!
-¡\xf000Č\x0001\x0000 ganó\xfffe\xf000Ȇ\x0001\x0001 Puntos de Exp. adicionales!
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶに　かった！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xf000븀\x0000との　しょうぶに　かった！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶに　まけた！
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶは　ひきわけだ！
-¡Has derrotado a\xfffe\xf000Ā\x0001\x0000!
-¡Has derrotado a \xf000Ā\x0001\x0000 y a \xf000Ā\x0001\x0001!
-¡Has perdido contra\xfffe\xf000Ā\x0001\x0000!
-¡Has perdido contra \xf000Ā\x0001\x0000\xfffe y contra \xf000Ā\x0001\x0001!
-¡Has empatado contra\xfffe\xf000Ā\x0001\x0000!
-¡Has empatado contra\xfffe\xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!
-¡\xf000Ā\x0001\x0000 no puede usar\xfffemás Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000は　あわてて\xfffe\xf000Ȅ\x0001\x0001円　なくしてしまった…
-\xf000Ā\x0001\x0000は　しょうきんとして\xfffe\xf000Ȅ\x0001\x0001円　しはらった…
-…　…　…　…\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeめのまえが　まっくらに　なった！
-¡\xf000Ā\x0001\x0000 ganó $\xf000Ȅ\x0001\x0001 €\xfffepor ganar!
+¡\xf000Č\x0001\x0000 ganó un total\xfffe\xf000Ȇ\x0001\x0001 Puntos de Exp.!
+¡\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001\xfffeとの　 しょうぶに　かった！
+\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001と\xfffe\x f000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xf000븀\x000 0との　しょうぶに　かった！
+\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001\xfffeとの　 しょうぶに　まけた！
+\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001\xfffeとの　 しょうぶは　ひきわけだ！
+¡Jugador derrotó\xfffe\xf000Ā\x0001\x0000!
+¡Jugador derrotó \xf000Ā\x0001\x0000￪nd \xf000Ā\x0001\x0001!
+¡Jugador perdió contra\xfffe\xf000Ā\x0001\x0000!
+¡Jugador perdió a \xf000Ā\x0001\x0000\xfffey \xf000Ā\x0001\x0001!
+¡Jugador luchaba por un empate contra\xfffe\xf000Ā\x0001\x0000!
+¡Jugador luchaba por un empate contra\xfffe\xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 está fuera de\xfffLos Pokémon Reutilizables\xf000븁\x0000
+\xf000Ā\x0001\x0000は　あわてて\xfffe\xf000Ȅ\x0001\x0001 円　なくしてしまった…
+\xf000Ā\x0001\x0000は　しょうきんとして\xfffe\xf000Ȅ\x0001\x 0001円　しはらった…
+…　…　…　…\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeめのまえ が　まっくらに　なった！
+\xf000Ā\x0001\x0000 obtuvo $\xf000Ȅ\x0001\x0001\xfffepor ganar!
 \xf000Ā\x0001\x0000は　\xf000Ȅ\x0001\x0001円　ひろった！
-¡\xf000Č\x0001\x0000 subió al \xfffeNv. \xf000Ȃ\x0001\x0001!
-¡Oh, no!\xfffe¡El Pokémon ha escapado!
-¡Uy!\xfffe¡Parecia que se habia capturado!
-¡Casi!\xfffe!Ya lo tenias!
-¡Agg!\xfffe¡Estuvo muy cerca!
-¡SI!\xfffe¡\xf000ā\x0001\x0000 ha sido capturado!
-\xf000ā\x0001\x0000のデータが　あたらしく\xfffeポケモンずかんに　とうろく　されます！
-¡El entrenador paró la Poké Ball!\xf000븁\x0000¡No seas ladrón!
-¡Pero no tubo efecto!
-¿Qué hará \xf000Č\x0001\x0000?
-¿Qué hará \xf000Ā\x0001\x0000?
-\xf000븉\x0001<Pero falló!
-¡Escapaste sin problemas!
+¡\xf000Č\x0001\x0000 subió al\xfffeNv. \xf000Ȃ\x0001\x0001!
+¡Oh, no!\xfffeEl Pokémon se escapó!
+¡Uy!\xfffeParecía que lo había atrapado
+¡Aargh!\xfffe¡Casi lo consigo!
+¡Vaya!\xfffeEstaba muy cerca!
+¡Has capturado a\xfffe\xf000ā\x0001\x0000!
+\xf000ā\x0001\x0000のデータが　あたらしく\xfffeポケモンずかんに　とうろく　 されます！
+¡El entrenador bloqueó la Pokéball!\xf000븁\x0000¡No seas ladrón!
+¡Pero no tuvo efecto!
+¿Que hará \xf000Č\x0001\x0000?
+¿Que hará \xf000Ā\x0001\x0000?
+\xf000븉\x0001Pero falló
+Huiste sin problemas.
 にげられなかった！
-¡No puedes escapar!
+No puedes escapar.
 やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
-¡No! ¡No puedes huir de\xfffeuna batalla contra un entrenador!
+¡No! No puedes huir\xfffede una lucha contra un entrenador!
 しょうぶを　あきらめて\xfffeこうさん　しますか？
-¡No es muy eficaz!
-No es muy eficaz...
-¡Se hirió asímismo con su\xfffeconfusión!
+¡Es super efectivo!
+No es muy efectivo...
+¡Pero se hirió a sí mismo!
 きゅうしょに　あたった！
 しかし　わざの　のこりポイントが\xfffeなかった！
-たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000たいりょくが　かいふくした！
-¡La luz solar pica!
-¡Ha empezado a llover!
-A systorm brewed!
-¡Está granizando!
+たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x000 1\x0001の\xf000븀\x0000たいりょくが　かいふくした！
+¡La luz del sol se volvió fuerte!
+Ha empezado a llover...
+¡Se prepara una tormenta de arena!
+Ha comenzado a granizar...
 きりが　ただよいはじめた！
 ひざしが　もとに　もどった！
 あめが　あがった！
-The systorm subsided.
+La tormenta de arena disminuye...
 あられが　やんだ！
 きりが　はれた！
 てんこうの　えいきょうが　なくなった！
 すなあらしが　ふきあれる！
 あられが　ふきすさぶ！
-¡Es un KO de un golpe!
-\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょくを　よわめた！
-\xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001しか　だせない！
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせない！
+¡Es un KO..!
+\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょ くを　よわめた！
+\xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001 しか　だせない！
+\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせ ない！
 すべてのステータスが\xfffeもとに　もどった！
-¡Pero no pasó nada!
+Pero no sucede nada
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
 ¡Magnitud 4!
 ¡Magnitud 5!
@@ -109,53 +109,53 @@ The systorm subsided.
 ¡Magnitud 8!
 ¡Magnitud 9!
 ¡¡¡Magnitud 10!!!
-¡Ha sonado una campana!
-A soothing aroma wafted\xfffethrough the area!
-The battlers shared\xfffetheir pain!
-Fire’s power was weakened!
-Electricity’s power was weakened!
-The twisted dimensions returned to\xfffenormal!
-Gravity intensified!
-Gravity returned to normal!
-All Pokémon hearing the song\xfffewill faint in three turns!
+Una campana sonó.
+Un aroma suave flota\xfffesobre la zona.
+Los luchadores comparten\xfffesu dolor.
+El poder de fuego se debilitó.
+El poder eléctrico se debilitó
+¡Las dimensiones cambiadas volvieron \xfffea la normalidad!
+Gravedad intensificada.
+Gravedad vuelve a la normalidad.
+Todos los Pokémon que escuchen la cancion\xfffese debilitaran en tres turnos.
 ゆびをふったら　\xf000ć\x0001\x0000がでた！
 しぜんのちからは\xfffe\xf000ć\x0001\x0000　になった！
-Coins scattered everywhere!
-It was too weak to make\xfffea substitute!
-Reflect raised your team’s\xfffeDefense!
-The foe’s Reflect raised\xfffeits team’s Defense!
-Your team's Reflect\xfffewore off!
-The foe's Reflect\xfffewore off!
-Light Screen raised your team’s\xfffeSpecial Defense!
-The foe’s Light Screen raised\xfffeits team’s Special Defense!
-Your team's Light Screen\xfffewore off!
-The foe's Light Screen\xfffewore off!
-Your team became cloaked in\xfffea mystical veil!
-The foe’s team became\xfffecloaked in a mystical veil!
-Your team is no longer protected\xfffeby Safeguard!
-The foe is no longer protected\xfffeby Safeguard!
-Your team became\xfffeshrouded in mist!
-The foe’s team became\xfffeshrouded in mist!
+Las monedas se esparcen por todos lados.
+¡Estaba demasiado débil para hacer\xfffeuna sustitución!
+Reflejo aumenta la defensa\xfffede tu equipo.
+El enemigo refleja la defensa\xfffedel enemigo.
+El reflejo de tu equipo\xfffedesapareció.
+El reflejo del enemigo\xfffedesapareció.
+Luz de pantalla incrementa la defensa especial\xfffede tu equipo.
+Luz de pantalla del enemigo incrementa la defensa especial\xfffedel enemigo.
+Luz de pantalla de tu equipo\xfffedesapareció.
+Luz de pantalla del enemigo\xfffedesapareció.
+Tu equipo se vio envuelto en\xfffeun velo mistico.
+El equipo del enemigo se vio envuelto\xfffeen un velo mistico.
+Tu equipo ya no es protegido\xfffepor protección.
+El enemigo ya no es protegido\xfffepor protección.
+Tu equipo se vio\xfffeenvuelto en niebla.
+El enemigo se vio\xfffeenvuelto en niebla.
 みかたを　つつんでいた\xfffeしろいきりが　なくなった！
 あいてを　つつんでいた\xfffeしろいきりが　なくなった！
-The tailwind blew from behind\xfffeyour team!
-The tailwind blew from behind\xfffethe foe!
-Your team’s tailwind petered out!
-The foe’s tailwind petered out!
-The Lucky Chant shielded your team\xfffefrom critical hits!
-The Lucky Chant shielded the foe\xfffefrom critical hits!
-Your team’s Lucky Chant wore off!
-The foe’s Lucky Chant wore off!
-Spikes were scattered all around\xfffeyour team’s feet!
-Spikes were scattered all around\xfffethe feet of the foe’s team!
+El viento sopla por detrás\xfffede tu equipo.
+El viento sopla por detrás\xfffedel enemigo.
+El viento de tu equipo se desvaneció.
+El viento del enemigo se desvaneció.
+El canto de suerte protegió a tu equipo\xfffede ataques críticos.
+El canto de suerte protegió al enemigo\xfffede ataques críticos.
+El canto de suerte de tu equipo se desvaneció
+El canto de suerte del enemigo se desvaneció
+Pinchos fueron esparcidos sobre\xfffelos pies de tu equipo.
+Pinchos fueron esparcidos sobre\xfffelos pies del rival.
 みかたの　あしもとの\xfffeまきびしが　きえさった！
 あいての　あしもとの\xfffeまきびしが　きえさった！
-Poison spikes were scattered all\xfffearound your team’s feet!
-Poison spikes were scattered all\xfffearound the enemy team’s feet!
-The poison spikes disappeared from\xfffearound your team’s feet!
-The poison spikes disappeared from\xfffearound the enemy team’s feet!
-Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound your foe’s team!
+Pinchos venenosos fueron esparcidos sobre\xfffelos pies de tu equipo.
+Pinchos venenosos fueron esparcidos sobre\xfffelos pies de tu enemigo.
+Pinchos venenosos desaparecen de\xfffelos pies de tu equipo.
+Pinchos venenosos desaparecen de\xfffelos pies de tu enemigo.
+Piedras puntiagudas flotan en el aire\xfffesobre tu equipo.
+Piedras puntiagudas flotan en el aire\xfffesobre el enemigo.
 みかたの　まわりの\xfffeステルスロックが　きえさった！
 あいての　まわりの\xfffeステルスロックが　きえさった！
 みかたの　まわりを\xfffeワイドガードが　まもっている！
@@ -180,21 +180,21 @@ Pointed stones float in the air\xfffearound your foe’s team!
 ワンダールームが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
 もたせた　どうぐの　こうかが\xfffeなくなる　くうかんを　つくりだした！
 マジックルームが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
-\xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょくを　つよめた！
+\xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょ くを　つよめた！
 せいげんじかんが　なくなりました！\xfffeたいせんを　しゅうりょう　します！
 しょうぶの　じかんが　ながすぎるため\xfffeさいせいを　ちゅうだん　します！
 ダルマモード　はつどう！
 ダルマモード　かいじょ！
 ２つのわざが　ひとつになった！\xfffeコンビネーションわざだ！
-\xf000Č\x0001\x0000 won’t obey!
-\xf000Č\x0001\x0000 is\xfffeloafing around!
-\xf000Č\x0001\x0000 turned away!
-\xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
-\xf000Č\x0001\x0000 began to nap!
-\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
+\xf000Č\x0001\x0000 no obedece.
+\xf000Č\x0001\x0000 esta\xfffeholgazaneando.
+\xf000Č\x0001\x0000 se dió la vuelta.
+\xf000Č\x0001\x0000 parece\xfffedisimular.
+\xf000Č\x0001\x0000 ignoró ordenes.
+\xf000Č\x0001\x0000 se fué a dormir.
+\xf000Č\x0001\x0000 ignoró\xfffeórdenes mientras dormia.
 リセットムーブ！！
 しかし　この　どうぐを\xfffeつかえる　ばしょに　いなかった！
 \xf000Č\x0001\x0000は　フリーフォールで\xfffeじゆうに　ならない！
 こうさんが　えらばれました
-（\xf000Ȁ\x0001\x0000）のゆびをふる　\xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002
+（\xf000Ȁ\x0001\x0000）のゆびをふる　\xf000Ȃ\x0001\x0001：\x f000ć\x0001\x0002
