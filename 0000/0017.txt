@@ -1,17 +1,17 @@
 ●●
 ¡Un \xf000ā\x0001\x0000 salvaje apareció!
-¡Un \xf000ā\x0001\x0000 y\xfffe\xf000ā\x0001\x0001 salvaje apareció!
-¡Un\xfffe\xf000ā\x0001\x0000apareció!
-¡やせいの\xfffe\xf000ā\x0001\x0000apareció!
-¡ゆめで　であった\xfffe\xf000ā\x0001\x0000apareció!
-\xf000ā\x0001\x0000apareció!
+¡Un \xf000ā\x0001\x0000 y\xfffe\xf000ā\x0001\x0001 salvajes aparecieron!
+¡Un\xfffe\xf000ā\x0001\x0000 apareció!
+¡やせいの\xfffe\xf000ā\x0001\x0000 apareció!
+¡ゆめで　であった\xfffe\xf000ā\x0001\x0000 apareció!
+\xf000ā\x0001\x0000 apareció!
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001が\xfffeしょう ぶを　しかけてきた！\xf000븁\x0000
 \xf000Ā\x0001\x0000が\xfffeしょうぶを　しかけてきた！\xf000븁\x00 00
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003が\xf000븀\x0000しょうぶを　しかけてきた！\xf000븁\x0000
 \xf000Ā\x0001\x0000と　\xf000Ā\x0001\x0001が\xfffeしょう ぶを　しかけてきた！\xf000븁\x0000
-¡Ve,　\xf000Ă\x0001\x0000!
-¡Ve,　\xf000Ă\x0001\x0000 y\xfffe\xf000Ă\x0001\x0001!
-¡Ve!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, y\xf000Ă\x0001\x0002!
+¡Adelante,　\xf000Ă\x0001\x0000!
+¡Adelante,　\xf000Ă\x0001\x0000 y\xfffe\xf000Ă\x0001\x0001!
+¡Adelante!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, y\xf000Ă\x0001\x0002!
 ¡\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 envía\xfffea \xf000Ă\x0001\x0002!
 ¡\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001El\xfffe\ xf000Ă\x0001\x0002y\xf000븀\x0000\xf000Ă\x0001\x0003a luchar!
 ¡\xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001El\xfffe\ xf000Ă\x0001\x0002y　\xf000Ă\x0001\x0003y\xf000븀\x0 000\xf000Ă\x0001\x0004a luchar!
@@ -46,12 +46,12 @@
 \xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001と\xfffe\x f000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xf000븀\x000 0との　しょうぶに　かった！
 \xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001\xfffeとの　 しょうぶに　まけた！
 \xf000Ď\x0001\x0000De　\xf000Ā\x0001\x0001\xfffeとの　 しょうぶは　ひきわけだ！
-¡Jugador derrotó\xfffe\xf000Ā\x0001\x0000!
-¡Jugador derrotó \xf000Ā\x0001\x0000￪nd \xf000Ā\x0001\x0001!
-¡Jugador perdió contra\xfffe\xf000Ā\x0001\x0000!
-¡Jugador perdió a \xf000Ā\x0001\x0000\xfffey \xf000Ā\x0001\x0001!
-¡Jugador luchaba por un empate contra\xfffe\xf000Ā\x0001\x0000!
-¡Jugador luchaba por un empate contra\xfffe\xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!
+¡Has ganado a\xfffe\xf000Ā\x0001\x0000!
+¡Has ganado a \xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!
+¡Has perdido contra\xfffe\xf000Ā\x0001\x0000!
+¡Has perdido contra \xf000Ā\x0001\x0000\xfffey \xf000Ā\x0001\x0001!
+¡Has empatado contra\xfffe\xf000Ā\x0001\x0000!
+¡Has empatado contra \xfffe\xf000Ā\x0001\x0000 y \xf000Ā\x0001\x0001!
 \xf000Ā\x0001\x0000 está fuera de\xfffLos Pokémon Reutilizables\xf000븁\x0000
 \xf000Ā\x0001\x0000は　あわてて\xfffe\xf000Ȅ\x0001\x0001 円　なくしてしまった…
 \xf000Ā\x0001\x0000は　しょうきんとして\xfffe\xf000Ȅ\x0001\x 0001円　しはらった…
@@ -65,7 +65,7 @@
 ¡Vaya!\xfffeEstaba muy cerca!
 ¡Has capturado a\xfffe\xf000ā\x0001\x0000!
 \xf000ā\x0001\x0000のデータが　あたらしく\xfffeポケモンずかんに　とうろく　 されます！
-¡El entrenador bloqueó la Pokéball!\xf000븁\x0000¡No seas ladrón!
+¡El entrenador ha bloqueado la Pokéball!\xf000븁\x0000¡No seas ladrón!
 ¡Pero no tuvo efecto!
 ¿Que hará \xf000Č\x0001\x0000?
 ¿Que hará \xf000Ā\x0001\x0000?
@@ -74,7 +74,7 @@ Huiste sin problemas.
 にげられなかった！
 No puedes escapar.
 やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
-¡No! No puedes huir\xfffede una lucha contra un entrenador!
+¡No puedes huir\xfffede una lucha contra un entrenador!
 しょうぶを　あきらめて\xfffeこうさん　しますか？
 ¡Es super efectivo!
 No es muy efectivo...
